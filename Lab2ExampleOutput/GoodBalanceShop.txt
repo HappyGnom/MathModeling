@@ -1,0 +1,2615 @@
+Operators in the system: 3
+Maximum amount of clients in the queue: 6
+Clients' average waiting time (before leaving) in minutes: 15
+Average clients' count per hour: 30
+Operator's average serving time in minutes: 4,5
+
+00:00:00 - Simulation started
+00:00:58 - New client is coming
+00:00:58 - Client 5888 added to queue
+00:00:58 - Operator 1 is now serving client 5888
+00:02:05 - New client is coming
+00:02:05 - Client 8154 added to queue
+00:02:05 - Operator 2 is now serving client 8154
+00:02:18 - New client is coming
+00:02:18 - Client 2349 added to queue
+00:02:18 - Operator 3 is now serving client 2349
+00:02:21 - New client is coming
+00:02:21 - Client 725 added to queue
+00:03:04 - New client is coming
+00:03:04 - Client 2089 added to queue
+00:03:06 - New client is coming
+00:03:06 - Client 7049 added to queue
+00:04:06 - New client is coming
+00:04:06 - Client 9611 added to queue
+00:04:35 - Operator 2 is now available
+00:04:35 - Operator 2 is now serving client 725
+00:05:43 - New client is coming
+00:05:43 - Client 2554 added to queue
+00:05:49 - New client is coming
+00:05:49 - Client 3616 added to queue
+00:06:12 - New client is coming
+00:06:12 - Client 5891 added to queue
+00:06:19 - Client 5891 is leaving without being served
+00:06:32 - Operator 2 is now available
+00:06:32 - Operator 2 is now serving client 2089
+00:07:04 - Operator 1 is now available
+00:07:04 - Operator 1 is now serving client 7049
+00:07:34 - New client is coming
+00:07:34 - Client 6742 added to queue
+00:07:51 - Operator 2 is now available
+00:07:51 - Operator 2 is now serving client 9611
+00:09:10 - Operator 3 is now available
+00:09:10 - Operator 3 is now serving client 2554
+00:09:28 - Operator 2 is now available
+00:09:28 - Operator 2 is now serving client 3616
+00:10:09 - New client is coming
+00:10:09 - Client 2882 added to queue
+00:10:48 - Operator 3 is now available
+00:10:48 - Operator 3 is now serving client 6742
+00:12:43 - New client is coming
+00:12:43 - Client 5716 added to queue
+00:13:57 - Operator 2 is now available
+00:13:57 - Operator 2 is now serving client 2882
+00:14:09 - New client is coming
+00:14:09 - Client 2592 added to queue
+00:14:56 - Client 2592 is leaving without being served
+00:15:58 - New client is coming
+00:15:58 - Client 2421 added to queue
+00:17:41 - Operator 2 is now available
+00:17:41 - Operator 2 is now serving client 5716
+00:18:16 - New client is coming
+00:18:16 - Client 9728 added to queue
+00:19:09 - New client is coming
+00:19:09 - Client 4579 added to queue
+00:19:19 - Operator 3 is now available
+00:19:19 - Operator 3 is now serving client 2421
+00:19:37 - Operator 2 is now available
+00:19:37 - Operator 2 is now serving client 9728
+00:19:40 - Operator 1 is now available
+00:19:40 - Operator 1 is now serving client 4579
+00:21:52 - Operator 2 is now available
+00:23:43 - New client is coming
+00:23:43 - Client 8483 added to queue
+00:23:43 - Operator 2 is now serving client 8483
+00:24:18 - Operator 1 is now available
+00:24:40 - Operator 3 is now available
+00:25:57 - New client is coming
+00:25:57 - Client 8307 added to queue
+00:25:57 - Operator 1 is now serving client 8307
+00:26:08 - New client is coming
+00:26:08 - Client 7460 added to queue
+00:26:08 - Operator 3 is now serving client 7460
+00:27:29 - Operator 2 is now available
+00:28:44 - Operator 3 is now available
+00:32:39 - New client is coming
+00:32:39 - Client 4172 added to queue
+00:32:39 - Operator 2 is now serving client 4172
+00:36:05 - New client is coming
+00:36:05 - Client 9275 added to queue
+00:36:05 - Operator 3 is now serving client 9275
+00:36:30 - Operator 3 is now available
+00:37:43 - Operator 1 is now available
+00:39:13 - Operator 2 is now available
+00:41:45 - New client is coming
+00:41:45 - Client 2054 added to queue
+00:41:45 - Operator 1 is now serving client 2054
+00:43:34 - New client is coming
+00:43:34 - Client 6294 added to queue
+00:43:34 - Operator 2 is now serving client 6294
+00:43:56 - Operator 2 is now available
+00:44:01 - New client is coming
+00:44:01 - Client 3162 added to queue
+00:44:01 - Operator 2 is now serving client 3162
+00:45:04 - New client is coming
+00:45:04 - Client 8068 added to queue
+00:45:04 - Operator 3 is now serving client 8068
+00:46:05 - Operator 3 is now available
+00:47:55 - Operator 1 is now available
+00:49:19 - Operator 2 is now available
+01:02:31 - New client is coming
+01:02:31 - Client 9821 added to queue
+01:02:31 - Operator 1 is now serving client 9821
+01:05:47 - Operator 1 is now available
+01:07:01 - New client is coming
+01:07:01 - Client 3341 added to queue
+01:07:01 - Operator 1 is now serving client 3341
+01:08:25 - New client is coming
+01:08:25 - Client 7518 added to queue
+01:08:25 - Operator 2 is now serving client 7518
+01:09:14 - Operator 2 is now available
+01:12:44 - Operator 1 is now available
+01:14:16 - New client is coming
+01:14:16 - Client 4221 added to queue
+01:14:16 - Operator 1 is now serving client 4221
+01:15:56 - New client is coming
+01:15:56 - Client 1273 added to queue
+01:15:56 - Operator 2 is now serving client 1273
+01:19:32 - Operator 1 is now available
+01:20:50 - Operator 2 is now available
+01:24:05 - New client is coming
+01:24:05 - Client 9087 added to queue
+01:24:05 - Operator 1 is now serving client 9087
+01:24:18 - New client is coming
+01:24:18 - Client 6157 added to queue
+01:24:18 - Operator 2 is now serving client 6157
+01:26:00 - Operator 2 is now available
+01:29:50 - New client is coming
+01:29:50 - Client 9481 added to queue
+01:29:50 - Operator 2 is now serving client 9481
+01:31:12 - Operator 2 is now available
+01:34:41 - New client is coming
+01:34:41 - Client 8258 added to queue
+01:34:41 - Operator 2 is now serving client 8258
+01:35:30 - New client is coming
+01:35:30 - Client 7479 added to queue
+01:35:30 - Operator 3 is now serving client 7479
+01:35:45 - Operator 2 is now available
+01:37:27 - Operator 1 is now available
+01:37:54 - Operator 3 is now available
+01:38:56 - New client is coming
+01:38:56 - Client 1551 added to queue
+01:38:56 - Operator 1 is now serving client 1551
+01:40:14 - New client is coming
+01:40:14 - Client 8963 added to queue
+01:40:14 - Operator 2 is now serving client 8963
+01:41:04 - Operator 1 is now available
+01:42:32 - New client is coming
+01:42:32 - Client 2115 added to queue
+01:42:32 - Operator 1 is now serving client 2115
+01:42:57 - Operator 2 is now available
+01:43:42 - New client is coming
+01:43:42 - Client 9533 added to queue
+01:43:42 - Operator 2 is now serving client 9533
+01:47:10 - New client is coming
+01:47:10 - Client 9378 added to queue
+01:47:10 - Operator 3 is now serving client 9378
+01:47:22 - New client is coming
+01:47:22 - Client 9217 added to queue
+01:48:57 - Operator 1 is now available
+01:48:57 - Operator 1 is now serving client 9217
+01:51:14 - New client is coming
+01:51:14 - Client 8072 added to queue
+01:51:27 - Operator 3 is now available
+01:51:27 - Operator 3 is now serving client 8072
+01:51:46 - Operator 2 is now available
+01:51:47 - Operator 3 is now available
+01:55:27 - Operator 1 is now available
+01:58:23 - New client is coming
+01:58:23 - Client 6696 added to queue
+01:58:23 - Operator 1 is now serving client 6696
+01:59:25 - New client is coming
+01:59:25 - Client 9094 added to queue
+01:59:25 - Operator 2 is now serving client 9094
+01:59:28 - Operator 1 is now available
+02:00:54 - New client is coming
+02:00:54 - Client 5414 added to queue
+02:00:54 - Operator 1 is now serving client 5414
+02:01:48 - Operator 1 is now available
+02:01:49 - Operator 2 is now available
+02:06:32 - New client is coming
+02:06:32 - Client 5224 added to queue
+02:06:32 - Operator 1 is now serving client 5224
+02:06:40 - Operator 1 is now available
+02:09:51 - New client is coming
+02:09:51 - Client 627 added to queue
+02:09:51 - Operator 1 is now serving client 627
+02:10:55 - New client is coming
+02:10:55 - Client 8557 added to queue
+02:10:55 - Operator 2 is now serving client 8557
+02:11:03 - Operator 1 is now available
+02:11:37 - New client is coming
+02:11:37 - Client 7116 added to queue
+02:11:37 - Operator 1 is now serving client 7116
+02:12:46 - New client is coming
+02:12:46 - Client 238 added to queue
+02:12:46 - Operator 3 is now serving client 238
+02:15:50 - Operator 3 is now available
+02:15:54 - New client is coming
+02:15:54 - Client 1272 added to queue
+02:15:54 - Operator 3 is now serving client 1272
+02:15:56 - Operator 3 is now available
+02:18:12 - Operator 1 is now available
+02:18:58 - New client is coming
+02:18:58 - Client 1365 added to queue
+02:18:58 - Operator 1 is now serving client 1365
+02:19:03 - New client is coming
+02:19:03 - Client 1011 added to queue
+02:19:03 - Operator 3 is now serving client 1011
+02:19:14 - Operator 1 is now available
+02:19:16 - New client is coming
+02:19:16 - Client 3360 added to queue
+02:19:16 - Operator 1 is now serving client 3360
+02:20:07 - New client is coming
+02:20:07 - Client 376 added to queue
+02:20:10 - Operator 3 is now available
+02:20:10 - Operator 3 is now serving client 376
+02:21:18 - New client is coming
+02:21:18 - Client 2654 added to queue
+02:21:53 - Operator 3 is now available
+02:21:53 - Operator 3 is now serving client 2654
+02:22:02 - Operator 1 is now available
+02:23:07 - New client is coming
+02:23:07 - Client 7571 added to queue
+02:23:07 - Operator 1 is now serving client 7571
+02:23:30 - Operator 2 is now available
+02:23:46 - Operator 3 is now available
+02:23:51 - Operator 1 is now available
+02:24:46 - New client is coming
+02:24:46 - Client 7968 added to queue
+02:24:46 - Operator 1 is now serving client 7968
+02:26:50 - Operator 1 is now available
+02:26:54 - New client is coming
+02:26:54 - Client 2296 added to queue
+02:26:54 - Operator 1 is now serving client 2296
+02:28:55 - Operator 1 is now available
+02:29:11 - New client is coming
+02:29:11 - Client 1006 added to queue
+02:29:11 - Operator 1 is now serving client 1006
+02:29:12 - New client is coming
+02:29:12 - Client 8038 added to queue
+02:29:12 - Operator 2 is now serving client 8038
+02:30:04 - Operator 2 is now available
+02:30:59 - New client is coming
+02:30:59 - Client 7089 added to queue
+02:30:59 - Operator 2 is now serving client 7089
+02:31:59 - Operator 2 is now available
+02:36:46 - Operator 1 is now available
+02:39:26 - New client is coming
+02:39:26 - Client 1786 added to queue
+02:39:26 - Operator 1 is now serving client 1786
+02:40:05 - Operator 1 is now available
+02:43:53 - New client is coming
+02:43:53 - Client 2584 added to queue
+02:43:53 - Operator 1 is now serving client 2584
+02:46:07 - New client is coming
+02:46:07 - Client 7408 added to queue
+02:46:07 - Operator 2 is now serving client 7408
+02:48:46 - New client is coming
+02:48:46 - Client 473 added to queue
+02:48:46 - Operator 3 is now serving client 473
+02:48:55 - Operator 3 is now available
+02:49:34 - Operator 1 is now available
+02:53:15 - New client is coming
+02:53:15 - Client 2300 added to queue
+02:53:15 - Operator 1 is now serving client 2300
+02:53:47 - Operator 2 is now available
+02:54:19 - Operator 1 is now available
+02:56:37 - New client is coming
+02:56:37 - Client 189 added to queue
+02:56:37 - Operator 1 is now serving client 189
+02:56:49 - Operator 1 is now available
+02:57:27 - New client is coming
+02:57:27 - Client 5716 added to queue
+02:57:27 - Operator 1 is now serving client 5716
+03:00:06 - New client is coming
+03:00:06 - Client 2039 added to queue
+03:00:06 - Operator 2 is now serving client 2039
+03:00:28 - Operator 2 is now available
+03:01:00 - Operator 1 is now available
+03:04:06 - New client is coming
+03:04:06 - Client 6214 added to queue
+03:04:06 - Operator 1 is now serving client 6214
+03:05:09 - New client is coming
+03:05:09 - Client 9659 added to queue
+03:05:09 - Operator 2 is now serving client 9659
+03:06:03 - New client is coming
+03:06:03 - Client 3680 added to queue
+03:06:03 - Operator 3 is now serving client 3680
+03:07:02 - Operator 1 is now available
+03:11:12 - Operator 2 is now available
+03:11:56 - New client is coming
+03:11:56 - Client 7786 added to queue
+03:11:56 - Operator 1 is now serving client 7786
+03:11:57 - Operator 3 is now available
+03:12:27 - Operator 1 is now available
+03:16:59 - New client is coming
+03:16:59 - Client 3369 added to queue
+03:16:59 - Operator 1 is now serving client 3369
+03:17:43 - Operator 1 is now available
+03:18:26 - New client is coming
+03:18:26 - Client 5233 added to queue
+03:18:26 - Operator 1 is now serving client 5233
+03:19:31 - New client is coming
+03:19:31 - Client 971 added to queue
+03:19:31 - Operator 2 is now serving client 971
+03:19:53 - New client is coming
+03:19:53 - Client 2843 added to queue
+03:19:53 - Operator 3 is now serving client 2843
+03:20:23 - New client is coming
+03:20:23 - Client 5927 added to queue
+03:20:24 - New client is coming
+03:20:24 - Client 7633 added to queue
+03:20:49 - Operator 3 is now available
+03:20:49 - Operator 3 is now serving client 5927
+03:21:22 - New client is coming
+03:21:22 - Client 7121 added to queue
+03:21:44 - Operator 2 is now available
+03:21:44 - Operator 2 is now serving client 7633
+03:23:42 - New client is coming
+03:23:42 - Client 5201 added to queue
+03:24:57 - New client is coming
+03:24:57 - Client 8143 added to queue
+03:25:02 - New client is coming
+03:25:02 - Client 8589 added to queue
+03:25:03 - New client is coming
+03:25:03 - Client 4432 added to queue
+03:25:21 - Operator 1 is now available
+03:25:21 - Operator 1 is now serving client 7121
+03:25:45 - New client is coming
+03:25:45 - Client 728 added to queue
+03:25:50 - Client 5201 is leaving without being served
+03:27:02 - Operator 3 is now available
+03:27:02 - Operator 3 is now serving client 8143
+03:27:31 - New client is coming
+03:27:31 - Client 909 added to queue
+03:27:58 - Operator 1 is now available
+03:27:58 - Operator 1 is now serving client 8589
+03:28:02 - Operator 2 is now available
+03:28:02 - Operator 2 is now serving client 4432
+03:28:35 - Operator 2 is now available
+03:28:35 - Operator 2 is now serving client 728
+03:28:40 - Operator 1 is now available
+03:28:40 - Operator 1 is now serving client 909
+03:31:17 - Operator 1 is now available
+03:31:44 - Operator 2 is now available
+03:32:06 - New client is coming
+03:32:06 - Client 3940 added to queue
+03:32:06 - Operator 1 is now serving client 3940
+03:35:39 - New client is coming
+03:35:39 - Client 8241 added to queue
+03:35:39 - Operator 2 is now serving client 8241
+03:35:57 - New client is coming
+03:35:57 - Client 2707 added to queue
+03:36:02 - New client is coming
+03:36:02 - Client 7885 added to queue
+03:36:02 - Client 7885 is leaving without being served
+03:36:40 - Operator 3 is now available
+03:36:40 - Operator 3 is now serving client 2707
+03:36:48 - Operator 2 is now available
+03:37:22 - Operator 3 is now available
+03:38:05 - Operator 1 is now available
+03:38:41 - New client is coming
+03:38:41 - Client 6807 added to queue
+03:38:41 - Operator 1 is now serving client 6807
+03:42:27 - New client is coming
+03:42:27 - Client 2399 added to queue
+03:42:27 - Operator 2 is now serving client 2399
+03:45:01 - Operator 1 is now available
+03:45:19 - Operator 2 is now available
+03:45:38 - New client is coming
+03:45:38 - Client 3362 added to queue
+03:45:38 - Operator 1 is now serving client 3362
+03:50:53 - Operator 1 is now available
+03:53:32 - New client is coming
+03:53:32 - Client 8976 added to queue
+03:53:32 - Operator 1 is now serving client 8976
+03:55:16 - New client is coming
+03:55:16 - Client 610 added to queue
+03:55:16 - Operator 2 is now serving client 610
+03:55:42 - New client is coming
+03:55:42 - Client 2718 added to queue
+03:55:42 - Operator 3 is now serving client 2718
+03:59:49 - New client is coming
+03:59:49 - Client 8446 added to queue
+03:59:59 - New client is coming
+03:59:59 - Client 2444 added to queue
+04:00:24 - New client is coming
+04:00:24 - Client 4987 added to queue
+04:01:04 - New client is coming
+04:01:04 - Client 9845 added to queue
+04:01:15 - Operator 1 is now available
+04:01:15 - Operator 1 is now serving client 8446
+04:01:29 - Operator 3 is now available
+04:01:29 - Operator 3 is now serving client 2444
+04:02:05 - Operator 1 is now available
+04:02:05 - Operator 1 is now serving client 4987
+04:02:09 - New client is coming
+04:02:09 - Client 1615 added to queue
+04:02:42 - Client 1615 is leaving without being served
+04:04:13 - New client is coming
+04:04:13 - Client 395 added to queue
+04:04:14 - New client is coming
+04:04:14 - Client 8247 added to queue
+04:04:14 - Client 9845 is leaving without being served
+04:04:15 - Operator 2 is now available
+04:04:15 - Operator 2 is now serving client 395
+04:07:55 - Operator 3 is now available
+04:07:55 - Operator 3 is now serving client 8247
+04:09:02 - Operator 1 is now available
+04:09:11 - Operator 2 is now available
+04:11:22 - New client is coming
+04:11:22 - Client 7692 added to queue
+04:11:22 - Operator 1 is now serving client 7692
+04:14:25 - Operator 3 is now available
+04:14:49 - Operator 1 is now available
+04:19:16 - New client is coming
+04:19:16 - Client 3321 added to queue
+04:19:16 - Operator 1 is now serving client 3321
+04:19:46 - New client is coming
+04:19:46 - Client 5367 added to queue
+04:19:46 - Operator 2 is now serving client 5367
+04:22:47 - New client is coming
+04:22:47 - Client 6346 added to queue
+04:22:47 - Operator 3 is now serving client 6346
+04:24:23 - Operator 2 is now available
+04:24:58 - New client is coming
+04:24:58 - Client 3441 added to queue
+04:24:58 - Operator 2 is now serving client 3441
+04:25:50 - Operator 3 is now available
+04:25:53 - Operator 1 is now available
+04:26:55 - Operator 2 is now available
+04:27:18 - New client is coming
+04:27:18 - Client 4672 added to queue
+04:27:18 - Operator 1 is now serving client 4672
+04:27:26 - Operator 1 is now available
+04:32:52 - New client is coming
+04:32:52 - Client 1216 added to queue
+04:32:52 - Operator 1 is now serving client 1216
+04:35:19 - New client is coming
+04:35:19 - Client 7794 added to queue
+04:35:19 - Operator 2 is now serving client 7794
+04:39:13 - New client is coming
+04:39:13 - Client 5202 added to queue
+04:39:13 - Operator 3 is now serving client 5202
+04:39:42 - Operator 1 is now available
+04:40:07 - Operator 2 is now available
+04:46:55 - New client is coming
+04:46:55 - Client 2127 added to queue
+04:46:55 - Operator 1 is now serving client 2127
+04:47:11 - New client is coming
+04:47:11 - Client 8828 added to queue
+04:47:11 - Operator 2 is now serving client 8828
+04:49:05 - Operator 2 is now available
+04:52:40 - New client is coming
+04:52:40 - Client 8465 added to queue
+04:52:40 - Operator 2 is now serving client 8465
+04:54:48 - Operator 2 is now available
+04:55:07 - Operator 3 is now available
+04:56:18 - Operator 1 is now available
+05:02:28 - New client is coming
+05:02:28 - Client 3310 added to queue
+05:02:28 - Operator 1 is now serving client 3310
+05:03:36 - New client is coming
+05:03:36 - Client 9627 added to queue
+05:03:36 - Operator 2 is now serving client 9627
+05:05:00 - New client is coming
+05:05:00 - Client 4618 added to queue
+05:05:00 - Operator 3 is now serving client 4618
+05:05:25 - New client is coming
+05:05:25 - Client 5202 added to queue
+05:06:20 - Operator 3 is now available
+05:06:20 - Operator 3 is now serving client 5202
+05:08:47 - New client is coming
+05:08:47 - Client 5996 added to queue
+05:14:11 - New client is coming
+05:14:11 - Client 4817 added to queue
+05:16:23 - New client is coming
+05:16:23 - Client 1085 added to queue
+05:16:49 - Operator 1 is now available
+05:16:49 - Operator 1 is now serving client 5996
+05:16:50 - Operator 2 is now available
+05:16:50 - Operator 2 is now serving client 4817
+05:16:51 - Operator 3 is now available
+05:16:51 - Operator 3 is now serving client 1085
+05:17:15 - New client is coming
+05:17:15 - Client 8353 added to queue
+05:19:34 - Operator 2 is now available
+05:19:34 - Operator 2 is now serving client 8353
+05:20:42 - Operator 3 is now available
+05:20:46 - Operator 2 is now available
+05:20:56 - New client is coming
+05:20:56 - Client 2446 added to queue
+05:20:56 - Operator 2 is now serving client 2446
+05:21:13 - New client is coming
+05:21:13 - Client 2600 added to queue
+05:21:13 - Operator 3 is now serving client 2600
+05:21:27 - New client is coming
+05:21:27 - Client 5093 added to queue
+05:21:46 - New client is coming
+05:21:46 - Client 880 added to queue
+05:22:06 - Operator 2 is now available
+05:22:06 - Operator 2 is now serving client 5093
+05:23:35 - New client is coming
+05:23:35 - Client 3579 added to queue
+05:23:43 - Operator 3 is now available
+05:23:43 - Operator 3 is now serving client 880
+05:24:00 - Operator 2 is now available
+05:24:00 - Operator 2 is now serving client 3579
+05:24:25 - New client is coming
+05:24:25 - Client 379 added to queue
+05:24:31 - Operator 2 is now available
+05:24:31 - Operator 2 is now serving client 379
+05:27:20 - Operator 2 is now available
+05:28:08 - New client is coming
+05:28:08 - Client 3667 added to queue
+05:28:08 - Operator 2 is now serving client 3667
+05:28:14 - Operator 3 is now available
+05:30:29 - New client is coming
+05:30:29 - Client 6743 added to queue
+05:30:29 - Operator 3 is now serving client 6743
+05:31:48 - Operator 2 is now available
+05:32:53 - Operator 1 is now available
+05:34:29 - Operator 3 is now available
+05:35:17 - New client is coming
+05:35:17 - Client 1087 added to queue
+05:35:17 - Operator 1 is now serving client 1087
+05:35:40 - New client is coming
+05:35:40 - Client 8982 added to queue
+05:35:40 - Operator 2 is now serving client 8982
+05:36:52 - Operator 1 is now available
+05:38:06 - New client is coming
+05:38:06 - Client 9260 added to queue
+05:38:06 - Operator 1 is now serving client 9260
+05:38:23 - Operator 1 is now available
+05:40:19 - New client is coming
+05:40:19 - Client 9208 added to queue
+05:40:19 - Operator 1 is now serving client 9208
+05:40:26 - New client is coming
+05:40:26 - Client 464 added to queue
+05:40:26 - Operator 3 is now serving client 464
+05:40:27 - Operator 2 is now available
+05:41:01 - Operator 1 is now available
+05:41:14 - Operator 3 is now available
+05:41:36 - New client is coming
+05:41:36 - Client 815 added to queue
+05:41:36 - Operator 1 is now serving client 815
+05:43:23 - Operator 1 is now available
+05:44:26 - New client is coming
+05:44:26 - Client 3845 added to queue
+05:44:26 - Operator 1 is now serving client 3845
+05:46:11 - Operator 1 is now available
+05:46:43 - New client is coming
+05:46:43 - Client 8185 added to queue
+05:46:43 - Operator 1 is now serving client 8185
+05:47:57 - New client is coming
+05:47:57 - Client 7997 added to queue
+05:47:57 - Operator 2 is now serving client 7997
+05:49:03 - New client is coming
+05:49:03 - Client 4049 added to queue
+05:49:03 - Operator 3 is now serving client 4049
+05:50:04 - Operator 3 is now available
+05:52:18 - Operator 2 is now available
+05:54:57 - New client is coming
+05:54:57 - Client 3485 added to queue
+05:54:57 - Operator 2 is now serving client 3485
+05:56:49 - Operator 1 is now available
+05:58:49 - Operator 2 is now available
+06:04:19 - New client is coming
+06:04:19 - Client 5831 added to queue
+06:04:19 - Operator 1 is now serving client 5831
+06:04:23 - New client is coming
+06:04:23 - Client 3304 added to queue
+06:04:23 - Operator 2 is now serving client 3304
+06:07:16 - Operator 1 is now available
+06:08:06 - Operator 2 is now available
+06:09:21 - New client is coming
+06:09:21 - Client 8742 added to queue
+06:09:21 - Operator 1 is now serving client 8742
+06:09:50 - Operator 1 is now available
+06:10:21 - New client is coming
+06:10:21 - Client 3692 added to queue
+06:10:21 - Operator 1 is now serving client 3692
+06:10:40 - New client is coming
+06:10:40 - Client 2448 added to queue
+06:10:40 - Operator 2 is now serving client 2448
+06:12:16 - New client is coming
+06:12:16 - Client 540 added to queue
+06:12:16 - Operator 3 is now serving client 540
+06:13:40 - New client is coming
+06:13:40 - Client 9512 added to queue
+06:13:50 - Operator 3 is now available
+06:13:50 - Operator 3 is now serving client 9512
+06:14:33 - New client is coming
+06:14:33 - Client 2766 added to queue
+06:14:53 - Operator 3 is now available
+06:14:53 - Operator 3 is now serving client 2766
+06:15:00 - Operator 1 is now available
+06:15:17 - New client is coming
+06:15:17 - Client 8937 added to queue
+06:15:17 - Operator 1 is now serving client 8937
+06:15:57 - Operator 3 is now available
+06:17:11 - Operator 2 is now available
+06:19:22 - New client is coming
+06:19:22 - Client 1097 added to queue
+06:19:22 - Operator 2 is now serving client 1097
+06:20:01 - Operator 2 is now available
+06:21:38 - New client is coming
+06:21:38 - Client 2023 added to queue
+06:21:38 - Operator 2 is now serving client 2023
+06:22:52 - Operator 2 is now available
+06:24:55 - New client is coming
+06:24:55 - Client 628 added to queue
+06:24:55 - Operator 2 is now serving client 628
+06:27:05 - New client is coming
+06:27:05 - Client 2602 added to queue
+06:27:05 - Operator 3 is now serving client 2602
+06:27:22 - Operator 2 is now available
+06:29:19 - Operator 3 is now available
+06:29:20 - New client is coming
+06:29:20 - Client 4228 added to queue
+06:29:20 - Operator 2 is now serving client 4228
+06:30:25 - Operator 1 is now available
+06:30:28 - New client is coming
+06:30:28 - Client 7012 added to queue
+06:30:28 - Operator 1 is now serving client 7012
+06:32:23 - New client is coming
+06:32:23 - Client 6282 added to queue
+06:32:23 - Operator 3 is now serving client 6282
+06:33:07 - New client is coming
+06:33:07 - Client 8338 added to queue
+06:33:49 - Operator 3 is now available
+06:33:49 - Operator 3 is now serving client 8338
+06:35:18 - Operator 2 is now available
+06:35:50 - New client is coming
+06:35:50 - Client 6692 added to queue
+06:35:50 - Operator 2 is now serving client 6692
+06:35:54 - New client is coming
+06:35:54 - Client 8711 added to queue
+06:37:32 - Operator 3 is now available
+06:37:32 - Operator 3 is now serving client 8711
+06:37:42 - Operator 2 is now available
+06:39:05 - Operator 3 is now available
+06:40:17 - Operator 1 is now available
+06:41:25 - New client is coming
+06:41:25 - Client 177 added to queue
+06:41:25 - Operator 1 is now serving client 177
+06:42:59 - Operator 1 is now available
+06:44:06 - New client is coming
+06:44:06 - Client 2150 added to queue
+06:44:06 - Operator 1 is now serving client 2150
+06:49:11 - New client is coming
+06:49:11 - Client 522 added to queue
+06:49:11 - Operator 2 is now serving client 522
+06:49:39 - New client is coming
+06:49:39 - Client 8544 added to queue
+06:49:39 - Operator 3 is now serving client 8544
+06:49:43 - Operator 3 is now available
+06:50:03 - New client is coming
+06:50:03 - Client 7812 added to queue
+06:50:03 - Operator 3 is now serving client 7812
+06:50:21 - New client is coming
+06:50:21 - Client 8308 added to queue
+06:51:06 - Operator 3 is now available
+06:51:06 - Operator 3 is now serving client 8308
+06:51:14 - Operator 2 is now available
+06:51:45 - Operator 3 is now available
+06:54:05 - Operator 1 is now available
+06:54:50 - New client is coming
+06:54:50 - Client 3636 added to queue
+06:54:50 - Operator 1 is now serving client 3636
+06:57:36 - Operator 1 is now available
+06:58:26 - New client is coming
+06:58:26 - Client 5650 added to queue
+06:58:26 - Operator 1 is now serving client 5650
+06:58:51 - New client is coming
+06:58:51 - Client 5421 added to queue
+06:58:51 - Operator 2 is now serving client 5421
+06:58:52 - New client is coming
+06:58:52 - Client 1014 added to queue
+06:58:52 - Operator 3 is now serving client 1014
+06:59:55 - New client is coming
+06:59:55 - Client 4136 added to queue
+07:01:05 - Operator 3 is now available
+07:01:05 - Operator 3 is now serving client 4136
+07:01:32 - New client is coming
+07:01:32 - Client 4244 added to queue
+07:02:01 - Operator 1 is now available
+07:02:01 - Operator 1 is now serving client 4244
+07:02:35 - New client is coming
+07:02:35 - Client 9923 added to queue
+07:03:02 - New client is coming
+07:03:02 - Client 4014 added to queue
+07:03:41 - New client is coming
+07:03:41 - Client 3407 added to queue
+07:05:25 - Client 9923 is leaving without being served
+07:07:14 - Operator 2 is now available
+07:07:14 - Operator 2 is now serving client 4014
+07:07:34 - Client 3407 is leaving without being served
+07:07:55 - Operator 2 is now available
+07:08:34 - New client is coming
+07:08:34 - Client 4812 added to queue
+07:08:34 - Operator 2 is now serving client 4812
+07:09:13 - Operator 2 is now available
+07:09:38 - New client is coming
+07:09:38 - Client 824 added to queue
+07:09:38 - Operator 2 is now serving client 824
+07:10:12 - Operator 1 is now available
+07:10:37 - New client is coming
+07:10:37 - Client 4170 added to queue
+07:10:37 - Operator 1 is now serving client 4170
+07:10:45 - Operator 3 is now available
+07:11:48 - New client is coming
+07:11:48 - Client 4421 added to queue
+07:11:48 - Operator 3 is now serving client 4421
+07:12:24 - Operator 1 is now available
+07:12:26 - New client is coming
+07:12:26 - Client 6439 added to queue
+07:12:26 - Operator 1 is now serving client 6439
+07:12:41 - New client is coming
+07:12:41 - Client 3957 added to queue
+07:14:35 - Operator 3 is now available
+07:14:35 - Operator 3 is now serving client 3957
+07:15:58 - New client is coming
+07:15:58 - Client 3342 added to queue
+07:16:04 - Operator 3 is now available
+07:16:04 - Operator 3 is now serving client 3342
+07:16:28 - Operator 2 is now available
+07:16:53 - Operator 1 is now available
+07:17:47 - New client is coming
+07:17:47 - Client 6443 added to queue
+07:17:47 - Operator 1 is now serving client 6443
+07:18:08 - Operator 3 is now available
+07:27:25 - Operator 1 is now available
+07:28:13 - New client is coming
+07:28:13 - Client 4957 added to queue
+07:28:13 - Operator 1 is now serving client 4957
+07:29:23 - Operator 1 is now available
+07:29:58 - New client is coming
+07:29:58 - Client 3897 added to queue
+07:29:58 - Operator 1 is now serving client 3897
+07:31:01 - New client is coming
+07:31:01 - Client 1785 added to queue
+07:31:01 - Operator 2 is now serving client 1785
+07:31:12 - New client is coming
+07:31:12 - Client 5728 added to queue
+07:31:12 - Operator 3 is now serving client 5728
+07:33:48 - Operator 3 is now available
+07:35:35 - New client is coming
+07:35:35 - Client 3707 added to queue
+07:35:35 - Operator 3 is now serving client 3707
+07:35:54 - New client is coming
+07:35:54 - Client 237 added to queue
+07:39:38 - Operator 1 is now available
+07:39:38 - Operator 1 is now serving client 237
+07:39:45 - New client is coming
+07:39:45 - Client 5900 added to queue
+07:40:30 - Operator 3 is now available
+07:40:30 - Operator 3 is now serving client 5900
+07:40:33 - New client is coming
+07:40:33 - Client 3078 added to queue
+07:41:20 - Operator 3 is now available
+07:41:20 - Operator 3 is now serving client 3078
+07:41:58 - New client is coming
+07:41:58 - Client 6389 added to queue
+07:42:33 - New client is coming
+07:42:33 - Client 3100 added to queue
+07:43:23 - New client is coming
+07:43:23 - Client 1089 added to queue
+07:44:26 - Operator 2 is now available
+07:44:26 - Operator 2 is now serving client 6389
+07:44:32 - Operator 1 is now available
+07:44:32 - Operator 1 is now serving client 3100
+07:46:04 - Operator 2 is now available
+07:46:04 - Operator 2 is now serving client 1089
+07:46:09 - Operator 1 is now available
+07:47:10 - Operator 2 is now available
+07:50:03 - New client is coming
+07:50:03 - Client 2733 added to queue
+07:50:03 - Operator 1 is now serving client 2733
+07:51:17 - Operator 3 is now available
+07:53:58 - New client is coming
+07:53:58 - Client 969 added to queue
+07:53:58 - Operator 2 is now serving client 969
+07:55:46 - New client is coming
+07:55:46 - Client 6983 added to queue
+07:55:46 - Operator 3 is now serving client 6983
+07:57:23 - Operator 2 is now available
+07:58:34 - Operator 3 is now available
+07:59:25 - New client is coming
+07:59:25 - Client 5861 added to queue
+07:59:25 - Operator 2 is now serving client 5861
+08:00:01 - Operator 2 is now available
+08:03:02 - New client is coming
+08:03:02 - Client 2756 added to queue
+08:03:02 - Operator 2 is now serving client 2756
+08:03:11 - New client is coming
+08:03:11 - Client 4957 added to queue
+08:03:11 - Operator 3 is now serving client 4957
+08:03:16 - New client is coming
+08:03:16 - Client 1887 added to queue
+08:04:07 - New client is coming
+08:04:07 - Client 9211 added to queue
+08:07:06 - Operator 1 is now available
+08:07:06 - Operator 1 is now serving client 1887
+08:07:24 - Client 9211 is leaving without being served
+08:08:24 - Operator 1 is now available
+08:08:29 - New client is coming
+08:08:29 - Client 4568 added to queue
+08:08:29 - Operator 1 is now serving client 4568
+08:09:43 - Operator 2 is now available
+08:10:15 - Operator 3 is now available
+08:14:05 - New client is coming
+08:14:05 - Client 732 added to queue
+08:14:05 - Operator 2 is now serving client 732
+08:16:48 - Operator 2 is now available
+08:17:18 - New client is coming
+08:17:18 - Client 5729 added to queue
+08:17:18 - Operator 2 is now serving client 5729
+08:18:00 - Operator 2 is now available
+08:18:17 - Operator 1 is now available
+08:18:28 - New client is coming
+08:18:28 - Client 5182 added to queue
+08:18:28 - Operator 1 is now serving client 5182
+08:18:54 - New client is coming
+08:18:54 - Client 8656 added to queue
+08:18:54 - Operator 2 is now serving client 8656
+08:19:10 - New client is coming
+08:19:10 - Client 7236 added to queue
+08:19:10 - Operator 3 is now serving client 7236
+08:19:37 - Operator 1 is now available
+08:20:07 - Operator 2 is now available
+08:20:15 - Operator 3 is now available
+08:22:55 - New client is coming
+08:22:55 - Client 789 added to queue
+08:22:55 - Operator 1 is now serving client 789
+08:23:07 - New client is coming
+08:23:07 - Client 8632 added to queue
+08:23:07 - Operator 2 is now serving client 8632
+08:24:18 - New client is coming
+08:24:18 - Client 7452 added to queue
+08:24:18 - Operator 3 is now serving client 7452
+08:24:20 - Operator 1 is now available
+08:26:36 - Operator 3 is now available
+08:27:04 - New client is coming
+08:27:04 - Client 9892 added to queue
+08:27:04 - Operator 1 is now serving client 9892
+08:31:52 - New client is coming
+08:31:52 - Client 397 added to queue
+08:31:52 - Operator 3 is now serving client 397
+08:31:57 - Operator 2 is now available
+08:35:04 - Operator 3 is now available
+08:37:46 - New client is coming
+08:37:46 - Client 1753 added to queue
+08:37:46 - Operator 2 is now serving client 1753
+08:38:19 - Operator 1 is now available
+08:39:11 - Operator 2 is now available
+08:39:33 - New client is coming
+08:39:33 - Client 6421 added to queue
+08:39:33 - Operator 1 is now serving client 6421
+08:39:58 - Operator 1 is now available
+08:47:59 - New client is coming
+08:47:59 - Client 9945 added to queue
+08:47:59 - Operator 1 is now serving client 9945
+08:48:04 - Operator 1 is now available
+08:48:27 - New client is coming
+08:48:27 - Client 6087 added to queue
+08:48:27 - Operator 1 is now serving client 6087
+08:48:56 - New client is coming
+08:48:56 - Client 8640 added to queue
+08:48:56 - Operator 2 is now serving client 8640
+08:50:04 - New client is coming
+08:50:04 - Client 618 added to queue
+08:50:04 - Operator 3 is now serving client 618
+08:50:22 - Operator 1 is now available
+08:53:36 - New client is coming
+08:53:36 - Client 8584 added to queue
+08:53:36 - Operator 1 is now serving client 8584
+08:55:22 - Operator 3 is now available
+08:57:35 - New client is coming
+08:57:35 - Client 6634 added to queue
+08:57:35 - Operator 3 is now serving client 6634
+08:57:53 - New client is coming
+08:57:53 - Client 9421 added to queue
+08:57:57 - New client is coming
+08:57:57 - Client 3940 added to queue
+08:58:14 - Operator 3 is now available
+08:58:14 - Operator 3 is now serving client 9421
+08:58:33 - Operator 3 is now available
+08:58:33 - Operator 3 is now serving client 3940
+08:59:25 - New client is coming
+08:59:25 - Client 8556 added to queue
+09:00:51 - New client is coming
+09:00:51 - Client 4350 added to queue
+09:01:29 - Operator 1 is now available
+09:01:29 - Operator 1 is now serving client 8556
+09:01:30 - Operator 1 is now available
+09:01:30 - Operator 1 is now serving client 4350
+09:02:13 - Operator 2 is now available
+09:04:27 - Operator 3 is now available
+09:08:18 - New client is coming
+09:08:18 - Client 2162 added to queue
+09:08:18 - Operator 2 is now serving client 2162
+09:09:43 - New client is coming
+09:09:43 - Client 709 added to queue
+09:09:43 - Operator 3 is now serving client 709
+09:11:21 - Operator 2 is now available
+09:12:54 - New client is coming
+09:12:54 - Client 6922 added to queue
+09:12:54 - Operator 2 is now serving client 6922
+09:13:46 - New client is coming
+09:13:46 - Client 2013 added to queue
+09:13:50 - Operator 3 is now available
+09:13:50 - Operator 3 is now serving client 2013
+09:16:29 - Operator 3 is now available
+09:16:46 - Operator 2 is now available
+09:17:31 - New client is coming
+09:17:31 - Client 5844 added to queue
+09:17:31 - Operator 2 is now serving client 5844
+09:18:11 - New client is coming
+09:18:11 - Client 277 added to queue
+09:18:11 - Operator 3 is now serving client 277
+09:18:17 - New client is coming
+09:18:17 - Client 7925 added to queue
+09:19:35 - Operator 2 is now available
+09:19:35 - Operator 2 is now serving client 7925
+09:20:42 - New client is coming
+09:20:42 - Client 526 added to queue
+09:20:56 - New client is coming
+09:20:56 - Client 840 added to queue
+09:23:47 - Operator 3 is now available
+09:23:47 - Operator 3 is now serving client 526
+09:24:12 - New client is coming
+09:24:12 - Client 5623 added to queue
+09:24:38 - New client is coming
+09:24:38 - Client 4238 added to queue
+09:24:46 - New client is coming
+09:24:46 - Client 3237 added to queue
+09:25:18 - Client 3237 is leaving without being served
+09:25:26 - Client 840 is leaving without being served
+09:25:56 - Client 4238 is leaving without being served
+09:26:11 - Client 5623 is leaving without being served
+09:26:42 - Operator 3 is now available
+09:27:02 - New client is coming
+09:27:02 - Client 145 added to queue
+09:27:02 - Operator 3 is now serving client 145
+09:27:21 - Operator 3 is now available
+09:28:29 - New client is coming
+09:28:29 - Client 8417 added to queue
+09:28:29 - Operator 3 is now serving client 8417
+09:29:02 - Operator 2 is now available
+09:29:21 - Operator 3 is now available
+09:30:20 - New client is coming
+09:30:20 - Client 9242 added to queue
+09:30:20 - Operator 2 is now serving client 9242
+09:31:19 - Operator 2 is now available
+09:31:51 - New client is coming
+09:31:51 - Client 9642 added to queue
+09:31:51 - Operator 2 is now serving client 9642
+09:33:14 - Operator 2 is now available
+09:33:48 - New client is coming
+09:33:48 - Client 1051 added to queue
+09:33:48 - Operator 2 is now serving client 1051
+09:33:55 - New client is coming
+09:33:55 - Client 269 added to queue
+09:33:55 - Operator 3 is now serving client 269
+09:35:03 - Operator 1 is now available
+09:35:36 - New client is coming
+09:35:36 - Client 3218 added to queue
+09:35:36 - Operator 1 is now serving client 3218
+09:36:02 - Operator 2 is now available
+09:37:11 - New client is coming
+09:37:11 - Client 2642 added to queue
+09:37:11 - Operator 2 is now serving client 2642
+09:37:44 - New client is coming
+09:37:44 - Client 1185 added to queue
+09:38:33 - Operator 3 is now available
+09:38:33 - Operator 3 is now serving client 1185
+09:38:45 - New client is coming
+09:38:45 - Client 1871 added to queue
+09:39:13 - New client is coming
+09:39:13 - Client 6822 added to queue
+09:39:51 - Operator 3 is now available
+09:39:51 - Operator 3 is now serving client 1871
+09:41:20 - New client is coming
+09:41:20 - Client 998 added to queue
+09:41:34 - New client is coming
+09:41:34 - Client 5819 added to queue
+09:41:41 - Operator 3 is now available
+09:41:41 - Operator 3 is now serving client 6822
+09:42:25 - Client 5819 is leaving without being served
+09:42:53 - Operator 3 is now available
+09:42:53 - Operator 3 is now serving client 998
+09:43:05 - Operator 3 is now available
+09:43:11 - Operator 1 is now available
+09:43:31 - New client is coming
+09:43:31 - Client 7003 added to queue
+09:43:31 - Operator 1 is now serving client 7003
+09:43:36 - New client is coming
+09:43:36 - Client 4391 added to queue
+09:43:36 - Operator 3 is now serving client 4391
+09:44:03 - New client is coming
+09:44:03 - Client 9116 added to queue
+09:45:36 - Operator 3 is now available
+09:45:36 - Operator 3 is now serving client 9116
+09:46:09 - New client is coming
+09:46:09 - Client 3276 added to queue
+09:48:00 - Operator 2 is now available
+09:48:00 - Operator 2 is now serving client 3276
+09:48:50 - Operator 2 is now available
+09:49:25 - New client is coming
+09:49:25 - Client 9215 added to queue
+09:49:25 - Operator 2 is now serving client 9215
+09:50:14 - Operator 3 is now available
+09:50:19 - Operator 2 is now available
+09:55:28 - Operator 1 is now available
+09:58:49 - New client is coming
+09:58:49 - Client 7697 added to queue
+09:58:49 - Operator 1 is now serving client 7697
+10:02:01 - New client is coming
+10:02:01 - Client 6178 added to queue
+10:02:01 - Operator 2 is now serving client 6178
+10:03:25 - New client is coming
+10:03:25 - Client 5496 added to queue
+10:03:25 - Operator 3 is now serving client 5496
+10:04:01 - New client is coming
+10:04:01 - Client 1328 added to queue
+10:04:09 - Operator 1 is now available
+10:04:09 - Operator 1 is now serving client 1328
+10:06:39 - Operator 3 is now available
+10:07:03 - Operator 1 is now available
+10:10:48 - Operator 2 is now available
+10:13:09 - New client is coming
+10:13:09 - Client 6951 added to queue
+10:13:09 - Operator 1 is now serving client 6951
+10:14:20 - Operator 1 is now available
+10:18:49 - New client is coming
+10:18:49 - Client 9732 added to queue
+10:18:49 - Operator 1 is now serving client 9732
+10:19:46 - New client is coming
+10:19:46 - Client 3711 added to queue
+10:19:46 - Operator 2 is now serving client 3711
+10:19:47 - New client is coming
+10:19:47 - Client 5075 added to queue
+10:19:47 - Operator 3 is now serving client 5075
+10:19:59 - New client is coming
+10:19:59 - Client 538 added to queue
+10:20:28 - Operator 1 is now available
+10:20:28 - Operator 1 is now serving client 538
+10:25:07 - New client is coming
+10:25:07 - Client 3452 added to queue
+10:25:12 - Operator 2 is now available
+10:25:12 - Operator 2 is now serving client 3452
+10:25:16 - Operator 3 is now available
+10:25:48 - New client is coming
+10:25:48 - Client 246 added to queue
+10:25:48 - Operator 3 is now serving client 246
+10:26:11 - Operator 3 is now available
+10:26:41 - Operator 1 is now available
+10:26:49 - New client is coming
+10:26:49 - Client 8452 added to queue
+10:26:49 - Operator 1 is now serving client 8452
+10:27:19 - Operator 1 is now available
+10:32:47 - New client is coming
+10:32:47 - Client 4511 added to queue
+10:32:47 - Operator 1 is now serving client 4511
+10:34:26 - New client is coming
+10:34:26 - Client 8630 added to queue
+10:34:26 - Operator 3 is now serving client 8630
+10:40:03 - Operator 3 is now available
+10:44:35 - Operator 2 is now available
+10:45:30 - New client is coming
+10:45:30 - Client 3234 added to queue
+10:45:30 - Operator 2 is now serving client 3234
+10:47:10 - Operator 2 is now available
+10:48:02 - New client is coming
+10:48:02 - Client 3261 added to queue
+10:48:02 - Operator 2 is now serving client 3261
+10:49:13 - New client is coming
+10:49:13 - Client 9363 added to queue
+10:49:13 - Operator 3 is now serving client 9363
+10:50:59 - New client is coming
+10:50:59 - Client 9128 added to queue
+10:51:24 - New client is coming
+10:51:24 - Client 4351 added to queue
+10:53:46 - Operator 2 is now available
+10:53:46 - Operator 2 is now serving client 9128
+10:54:52 - New client is coming
+10:54:52 - Client 3870 added to queue
+10:56:28 - New client is coming
+10:56:28 - Client 7983 added to queue
+10:56:48 - New client is coming
+10:56:48 - Client 2118 added to queue
+10:57:43 - Client 3870 is leaving without being served
+10:58:14 - Client 2118 is leaving without being served
+10:58:35 - New client is coming
+10:58:35 - Client 4560 added to queue
+10:58:55 - New client is coming
+10:58:55 - Client 834 added to queue
+11:00:11 - Client 834 is leaving without being served
+11:02:26 - Operator 3 is now available
+11:02:26 - Operator 3 is now serving client 4351
+11:02:37 - Client 4560 is leaving without being served
+11:04:29 - Operator 3 is now available
+11:04:29 - Operator 3 is now serving client 7983
+11:05:17 - Operator 3 is now available
+11:05:48 - Operator 2 is now available
+11:06:55 - Operator 1 is now available
+11:06:57 - New client is coming
+11:06:57 - Client 3194 added to queue
+11:06:57 - Operator 1 is now serving client 3194
+11:08:11 - Operator 1 is now available
+11:08:18 - New client is coming
+11:08:18 - Client 5417 added to queue
+11:08:18 - Operator 1 is now serving client 5417
+11:09:27 - New client is coming
+11:09:27 - Client 711 added to queue
+11:09:27 - Operator 2 is now serving client 711
+11:09:42 - New client is coming
+11:09:42 - Client 1963 added to queue
+11:09:42 - Operator 3 is now serving client 1963
+11:10:24 - Operator 2 is now available
+11:10:37 - New client is coming
+11:10:37 - Client 2657 added to queue
+11:10:37 - Operator 2 is now serving client 2657
+11:12:46 - Operator 2 is now available
+11:12:50 - Operator 1 is now available
+11:13:57 - New client is coming
+11:13:57 - Client 6033 added to queue
+11:13:57 - Operator 1 is now serving client 6033
+11:14:01 - Operator 1 is now available
+11:14:56 - New client is coming
+11:14:56 - Client 9156 added to queue
+11:14:56 - Operator 1 is now serving client 9156
+11:15:09 - New client is coming
+11:15:09 - Client 2867 added to queue
+11:15:09 - Operator 2 is now serving client 2867
+11:16:54 - Operator 2 is now available
+11:16:57 - New client is coming
+11:16:57 - Client 7076 added to queue
+11:16:57 - Operator 2 is now serving client 7076
+11:17:45 - Operator 1 is now available
+11:19:39 - Operator 2 is now available
+11:21:31 - New client is coming
+11:21:31 - Client 8542 added to queue
+11:21:31 - Operator 1 is now serving client 8542
+11:24:19 - Operator 1 is now available
+11:25:29 - New client is coming
+11:25:29 - Client 8659 added to queue
+11:25:29 - Operator 1 is now serving client 8659
+11:27:23 - Operator 1 is now available
+11:29:27 - New client is coming
+11:29:27 - Client 9348 added to queue
+11:29:27 - Operator 1 is now serving client 9348
+11:29:38 - Operator 3 is now available
+11:30:32 - New client is coming
+11:30:32 - Client 386 added to queue
+11:30:32 - Operator 2 is now serving client 386
+11:31:13 - New client is coming
+11:31:13 - Client 2094 added to queue
+11:31:13 - Operator 3 is now serving client 2094
+11:32:13 - Operator 2 is now available
+11:33:26 - Operator 1 is now available
+11:34:26 - Operator 3 is now available
+11:34:43 - New client is coming
+11:34:43 - Client 6219 added to queue
+11:34:43 - Operator 1 is now serving client 6219
+11:34:49 - New client is coming
+11:34:49 - Client 4839 added to queue
+11:34:49 - Operator 2 is now serving client 4839
+11:38:22 - Operator 1 is now available
+11:38:32 - New client is coming
+11:38:32 - Client 6547 added to queue
+11:38:32 - Operator 1 is now serving client 6547
+11:39:37 - New client is coming
+11:39:37 - Client 7759 added to queue
+11:39:37 - Operator 3 is now serving client 7759
+11:39:49 - Operator 1 is now available
+11:40:29 - Operator 3 is now available
+11:41:49 - New client is coming
+11:41:49 - Client 8865 added to queue
+11:41:49 - Operator 1 is now serving client 8865
+11:42:11 - New client is coming
+11:42:11 - Client 5241 added to queue
+11:42:11 - Operator 3 is now serving client 5241
+11:43:21 - Operator 1 is now available
+11:43:37 - New client is coming
+11:43:37 - Client 2781 added to queue
+11:43:37 - Operator 1 is now serving client 2781
+11:43:56 - Operator 1 is now available
+11:48:30 - Operator 3 is now available
+11:48:56 - New client is coming
+11:48:56 - Client 994 added to queue
+11:48:56 - Operator 1 is now serving client 994
+11:54:16 - Operator 1 is now available
+11:57:14 - New client is coming
+11:57:14 - Client 8663 added to queue
+11:57:14 - Operator 1 is now serving client 8663
+11:58:01 - New client is coming
+11:58:01 - Client 4904 added to queue
+11:58:01 - Operator 3 is now serving client 4904
+11:58:10 - Operator 3 is now available
+11:59:07 - New client is coming
+11:59:07 - Client 9791 added to queue
+11:59:07 - Operator 3 is now serving client 9791
+11:59:35 - Operator 1 is now available
+12:01:58 - New client is coming
+12:01:58 - Client 845 added to queue
+12:01:58 - Operator 1 is now serving client 845
+12:02:03 - Operator 3 is now available
+12:05:07 - Operator 2 is now available
+12:08:06 - New client is coming
+12:08:06 - Client 3768 added to queue
+12:08:06 - Operator 2 is now serving client 3768
+12:08:12 - New client is coming
+12:08:12 - Client 9966 added to queue
+12:08:12 - Operator 3 is now serving client 9966
+12:08:56 - Operator 1 is now available
+12:09:19 - New client is coming
+12:09:19 - Client 9275 added to queue
+12:09:19 - Operator 1 is now serving client 9275
+12:12:09 - New client is coming
+12:12:09 - Client 9658 added to queue
+12:13:23 - New client is coming
+12:13:23 - Client 5162 added to queue
+12:14:03 - Operator 3 is now available
+12:14:03 - Operator 3 is now serving client 9658
+12:14:11 - Operator 2 is now available
+12:14:11 - Operator 2 is now serving client 5162
+12:14:14 - New client is coming
+12:14:14 - Client 4146 added to queue
+12:14:23 - New client is coming
+12:14:23 - Client 3715 added to queue
+12:14:56 - Operator 2 is now available
+12:14:56 - Operator 2 is now serving client 4146
+12:15:02 - New client is coming
+12:15:02 - Client 3956 added to queue
+12:16:05 - Operator 2 is now available
+12:16:05 - Operator 2 is now serving client 3715
+12:16:09 - Operator 3 is now available
+12:16:09 - Operator 3 is now serving client 3956
+12:18:25 - New client is coming
+12:18:25 - Client 5341 added to queue
+12:20:19 - Client 5341 is leaving without being served
+12:21:00 - New client is coming
+12:21:00 - Client 3099 added to queue
+12:22:56 - Operator 2 is now available
+12:22:56 - Operator 2 is now serving client 3099
+12:23:24 - Operator 3 is now available
+12:23:27 - New client is coming
+12:23:27 - Client 4881 added to queue
+12:23:27 - Operator 3 is now serving client 4881
+12:27:05 - Operator 2 is now available
+12:27:20 - Operator 3 is now available
+12:31:47 - Operator 1 is now available
+12:35:34 - New client is coming
+12:35:34 - Client 8123 added to queue
+12:35:34 - Operator 1 is now serving client 8123
+12:35:46 - New client is coming
+12:35:46 - Client 2394 added to queue
+12:35:46 - Operator 2 is now serving client 2394
+12:36:16 - Operator 1 is now available
+12:39:55 - Operator 2 is now available
+12:42:40 - New client is coming
+12:42:40 - Client 4627 added to queue
+12:42:40 - Operator 1 is now serving client 4627
+12:43:50 - Operator 1 is now available
+12:46:49 - New client is coming
+12:46:49 - Client 388 added to queue
+12:46:49 - Operator 1 is now serving client 388
+12:48:52 - New client is coming
+12:48:52 - Client 1532 added to queue
+12:48:52 - Operator 2 is now serving client 1532
+12:48:53 - New client is coming
+12:48:53 - Client 1197 added to queue
+12:48:53 - Operator 3 is now serving client 1197
+12:49:14 - New client is coming
+12:49:14 - Client 5115 added to queue
+12:49:51 - New client is coming
+12:49:51 - Client 7510 added to queue
+12:50:00 - Operator 2 is now available
+12:50:00 - Operator 2 is now serving client 5115
+12:52:54 - Operator 3 is now available
+12:52:54 - Operator 3 is now serving client 7510
+12:53:12 - New client is coming
+12:53:12 - Client 7171 added to queue
+12:53:13 - Operator 1 is now available
+12:53:13 - Operator 1 is now serving client 7171
+12:53:30 - New client is coming
+12:53:30 - Client 7400 added to queue
+12:53:34 - Client 7400 is leaving without being served
+12:53:59 - New client is coming
+12:53:59 - Client 5861 added to queue
+12:55:17 - New client is coming
+12:55:17 - Client 2479 added to queue
+12:57:09 - Operator 2 is now available
+12:57:09 - Operator 2 is now serving client 5861
+12:58:11 - New client is coming
+12:58:11 - Client 1505 added to queue
+12:58:16 - New client is coming
+12:58:16 - Client 1543 added to queue
+12:58:23 - Operator 1 is now available
+12:58:23 - Operator 1 is now serving client 2479
+12:59:09 - New client is coming
+12:59:09 - Client 7217 added to queue
+12:59:33 - New client is coming
+12:59:33 - Client 6385 added to queue
+12:59:56 - Client 7217 is leaving without being served
+13:00:28 - Operator 1 is now available
+13:00:28 - Operator 1 is now serving client 1505
+13:01:53 - New client is coming
+13:01:53 - Client 8991 added to queue
+13:02:11 - Operator 3 is now available
+13:02:11 - Operator 3 is now serving client 1543
+13:03:22 - Operator 2 is now available
+13:03:22 - Operator 2 is now serving client 6385
+13:03:59 - Operator 1 is now available
+13:03:59 - Operator 1 is now serving client 8991
+13:05:11 - Operator 3 is now available
+13:05:50 - Operator 1 is now available
+13:07:48 - Operator 2 is now available
+13:08:15 - New client is coming
+13:08:15 - Client 3302 added to queue
+13:08:15 - Operator 1 is now serving client 3302
+13:08:36 - New client is coming
+13:08:36 - Client 430 added to queue
+13:08:36 - Operator 2 is now serving client 430
+13:08:40 - Operator 2 is now available
+13:09:48 - Operator 1 is now available
+13:10:13 - New client is coming
+13:10:13 - Client 2244 added to queue
+13:10:13 - Operator 1 is now serving client 2244
+13:12:52 - New client is coming
+13:12:52 - Client 404 added to queue
+13:12:52 - Operator 2 is now serving client 404
+13:13:08 - Operator 1 is now available
+13:14:06 - New client is coming
+13:14:06 - Client 6955 added to queue
+13:14:06 - Operator 1 is now serving client 6955
+13:14:20 - Operator 2 is now available
+13:15:45 - New client is coming
+13:15:45 - Client 101 added to queue
+13:15:45 - Operator 2 is now serving client 101
+13:15:51 - Operator 1 is now available
+13:16:17 - New client is coming
+13:16:17 - Client 3786 added to queue
+13:16:17 - Operator 1 is now serving client 3786
+13:17:10 - Operator 1 is now available
+13:19:53 - New client is coming
+13:19:53 - Client 1454 added to queue
+13:19:53 - Operator 1 is now serving client 1454
+13:20:11 - New client is coming
+13:20:11 - Client 1440 added to queue
+13:20:11 - Operator 3 is now serving client 1440
+13:20:55 - Operator 1 is now available
+13:23:52 - Operator 2 is now available
+13:25:13 - Operator 3 is now available
+13:26:04 - New client is coming
+13:26:04 - Client 2751 added to queue
+13:26:04 - Operator 1 is now serving client 2751
+13:26:09 - New client is coming
+13:26:09 - Client 787 added to queue
+13:26:09 - Operator 2 is now serving client 787
+13:26:23 - Operator 2 is now available
+13:26:45 - New client is coming
+13:26:45 - Client 5934 added to queue
+13:26:45 - Operator 2 is now serving client 5934
+13:27:27 - Operator 1 is now available
+13:31:10 - New client is coming
+13:31:10 - Client 2087 added to queue
+13:31:10 - Operator 1 is now serving client 2087
+13:32:01 - New client is coming
+13:32:01 - Client 4119 added to queue
+13:32:01 - Operator 3 is now serving client 4119
+13:33:19 - Operator 2 is now available
+13:34:40 - Operator 1 is now available
+13:36:10 - New client is coming
+13:36:10 - Client 4335 added to queue
+13:36:10 - Operator 1 is now serving client 4335
+13:36:41 - New client is coming
+13:36:41 - Client 9165 added to queue
+13:36:41 - Operator 2 is now serving client 9165
+13:37:49 - New client is coming
+13:37:49 - Client 1320 added to queue
+13:39:33 - Operator 1 is now available
+13:39:33 - Operator 1 is now serving client 1320
+13:40:06 - New client is coming
+13:40:06 - Client 5968 added to queue
+13:40:35 - Operator 1 is now available
+13:40:35 - Operator 1 is now serving client 5968
+13:43:37 - Operator 3 is now available
+13:45:09 - Operator 1 is now available
+13:46:01 - New client is coming
+13:46:01 - Client 1239 added to queue
+13:46:01 - Operator 1 is now serving client 1239
+13:46:20 - Operator 2 is now available
+13:47:16 - Operator 1 is now available
+13:49:15 - New client is coming
+13:49:15 - Client 2427 added to queue
+13:49:15 - Operator 1 is now serving client 2427
+13:50:02 - Operator 1 is now available
+13:50:17 - New client is coming
+13:50:17 - Client 6991 added to queue
+13:50:17 - Operator 1 is now serving client 6991
+13:53:49 - Operator 1 is now available
+13:54:08 - New client is coming
+13:54:08 - Client 9648 added to queue
+13:54:08 - Operator 1 is now serving client 9648
+13:54:11 - New client is coming
+13:54:11 - Client 8724 added to queue
+13:54:11 - Operator 2 is now serving client 8724
+13:54:34 - New client is coming
+13:54:34 - Client 6351 added to queue
+13:54:34 - Operator 3 is now serving client 6351
+13:58:20 - Operator 2 is now available
+13:58:57 - Operator 1 is now available
+13:59:13 - Operator 3 is now available
+14:01:04 - New client is coming
+14:01:04 - Client 3667 added to queue
+14:01:04 - Operator 1 is now serving client 3667
+14:01:50 - Operator 1 is now available
+14:02:10 - New client is coming
+14:02:10 - Client 7525 added to queue
+14:02:10 - Operator 1 is now serving client 7525
+14:03:02 - New client is coming
+14:03:02 - Client 7645 added to queue
+14:03:02 - Operator 2 is now serving client 7645
+14:05:43 - New client is coming
+14:05:43 - Client 4274 added to queue
+14:05:43 - Operator 3 is now serving client 4274
+14:06:30 - New client is coming
+14:06:30 - Client 5678 added to queue
+14:06:43 - Client 5678 is leaving without being served
+14:08:14 - New client is coming
+14:08:14 - Client 2979 added to queue
+14:09:54 - Operator 2 is now available
+14:09:54 - Operator 2 is now serving client 2979
+14:11:36 - Operator 2 is now available
+14:13:56 - Operator 3 is now available
+14:14:09 - New client is coming
+14:14:09 - Client 3496 added to queue
+14:14:09 - Operator 2 is now serving client 3496
+14:14:42 - Operator 1 is now available
+14:15:33 - New client is coming
+14:15:33 - Client 1835 added to queue
+14:15:33 - Operator 1 is now serving client 1835
+14:15:37 - New client is coming
+14:15:37 - Client 1281 added to queue
+14:15:37 - Operator 3 is now serving client 1281
+14:15:59 - Operator 2 is now available
+14:16:31 - New client is coming
+14:16:31 - Client 408 added to queue
+14:16:31 - Operator 2 is now serving client 408
+14:17:29 - New client is coming
+14:17:29 - Client 6421 added to queue
+14:20:45 - New client is coming
+14:20:45 - Client 3905 added to queue
+14:21:50 - Operator 2 is now available
+14:21:50 - Operator 2 is now serving client 6421
+14:23:05 - Operator 2 is now available
+14:23:05 - Operator 2 is now serving client 3905
+14:23:48 - Operator 3 is now available
+14:24:03 - Operator 1 is now available
+14:25:45 - Operator 2 is now available
+14:36:01 - New client is coming
+14:36:01 - Client 3102 added to queue
+14:36:01 - Operator 1 is now serving client 3102
+14:36:27 - Operator 1 is now available
+14:38:25 - New client is coming
+14:38:25 - Client 3497 added to queue
+14:38:25 - Operator 1 is now serving client 3497
+14:45:42 - Operator 1 is now available
+14:46:49 - New client is coming
+14:46:49 - Client 8349 added to queue
+14:46:49 - Operator 1 is now serving client 8349
+14:50:31 - Operator 1 is now available
+14:50:45 - New client is coming
+14:50:45 - Client 4622 added to queue
+14:50:45 - Operator 1 is now serving client 4622
+14:51:09 - New client is coming
+14:51:09 - Client 912 added to queue
+14:51:09 - Operator 2 is now serving client 912
+14:52:40 - Operator 1 is now available
+14:54:38 - New client is coming
+14:54:38 - Client 1044 added to queue
+14:54:38 - Operator 1 is now serving client 1044
+14:56:32 - New client is coming
+14:56:32 - Client 3879 added to queue
+14:56:32 - Operator 3 is now serving client 3879
+14:59:25 - New client is coming
+14:59:25 - Client 9173 added to queue
+15:00:16 - Operator 2 is now available
+15:00:16 - Operator 2 is now serving client 9173
+15:00:47 - New client is coming
+15:00:47 - Client 7476 added to queue
+15:02:46 - New client is coming
+15:02:46 - Client 7160 added to queue
+15:03:34 - New client is coming
+15:03:34 - Client 5663 added to queue
+15:04:27 - Operator 3 is now available
+15:04:27 - Operator 3 is now serving client 7476
+15:04:45 - Operator 2 is now available
+15:04:45 - Operator 2 is now serving client 7160
+15:05:01 - Operator 3 is now available
+15:05:01 - Operator 3 is now serving client 5663
+15:05:45 - New client is coming
+15:05:45 - Client 4701 added to queue
+15:06:08 - New client is coming
+15:06:08 - Client 2060 added to queue
+15:06:29 - Client 4701 is leaving without being served
+15:06:42 - Operator 3 is now available
+15:06:42 - Operator 3 is now serving client 2060
+15:07:31 - Operator 3 is now available
+15:08:12 - New client is coming
+15:08:12 - Client 4137 added to queue
+15:08:12 - Operator 3 is now serving client 4137
+15:10:03 - New client is coming
+15:10:03 - Client 9579 added to queue
+15:10:06 - Client 9579 is leaving without being served
+15:12:25 - New client is coming
+15:12:25 - Client 1743 added to queue
+15:12:26 - Operator 1 is now available
+15:12:26 - Operator 1 is now serving client 1743
+15:12:39 - New client is coming
+15:12:39 - Client 8124 added to queue
+15:12:42 - Operator 3 is now available
+15:12:42 - Operator 3 is now serving client 8124
+15:13:08 - Operator 2 is now available
+15:14:51 - Operator 1 is now available
+15:18:11 - New client is coming
+15:18:11 - Client 5620 added to queue
+15:18:11 - Operator 1 is now serving client 5620
+15:18:12 - Operator 1 is now available
+15:18:15 - Operator 3 is now available
+15:18:18 - New client is coming
+15:18:18 - Client 4852 added to queue
+15:18:18 - Operator 1 is now serving client 4852
+15:20:16 - New client is coming
+15:20:16 - Client 6501 added to queue
+15:20:16 - Operator 2 is now serving client 6501
+15:20:42 - New client is coming
+15:20:42 - Client 4606 added to queue
+15:20:42 - Operator 3 is now serving client 4606
+15:21:09 - New client is coming
+15:21:09 - Client 8925 added to queue
+15:21:40 - New client is coming
+15:21:40 - Client 9069 added to queue
+15:22:34 - Operator 1 is now available
+15:22:34 - Operator 1 is now serving client 8925
+15:22:59 - New client is coming
+15:22:59 - Client 9605 added to queue
+15:23:12 - New client is coming
+15:23:12 - Client 7847 added to queue
+15:23:30 - New client is coming
+15:23:30 - Client 3839 added to queue
+15:24:00 - Operator 2 is now available
+15:24:00 - Operator 2 is now serving client 9069
+15:24:26 - Operator 3 is now available
+15:24:26 - Operator 3 is now serving client 9605
+15:24:44 - New client is coming
+15:24:44 - Client 4671 added to queue
+15:25:19 - Operator 1 is now available
+15:25:19 - Operator 1 is now serving client 7847
+15:25:23 - New client is coming
+15:25:23 - Client 5843 added to queue
+15:26:04 - Operator 1 is now available
+15:26:04 - Operator 1 is now serving client 3839
+15:26:52 - Operator 3 is now available
+15:26:52 - Operator 3 is now serving client 4671
+15:27:46 - New client is coming
+15:27:46 - Client 1215 added to queue
+15:28:53 - New client is coming
+15:28:53 - Client 4034 added to queue
+15:30:11 - Operator 3 is now available
+15:30:11 - Operator 3 is now serving client 5843
+15:30:13 - New client is coming
+15:30:13 - Client 6654 added to queue
+15:31:47 - New client is coming
+15:31:47 - Client 3737 added to queue
+15:32:19 - New client is coming
+15:32:19 - Client 8447 added to queue
+15:32:34 - New client is coming
+15:32:34 - Client 4983 added to queue
+15:32:37 - Operator 1 is now available
+15:32:37 - Operator 1 is now serving client 1215
+15:33:32 - Operator 2 is now available
+15:33:32 - Operator 2 is now serving client 4034
+15:33:45 - Operator 3 is now available
+15:33:45 - Operator 3 is now serving client 6654
+15:34:33 - Operator 1 is now available
+15:34:33 - Operator 1 is now serving client 3737
+15:35:02 - Operator 2 is now available
+15:35:02 - Operator 2 is now serving client 8447
+15:35:43 - Operator 2 is now available
+15:35:43 - Operator 2 is now serving client 4983
+15:36:17 - Operator 1 is now available
+15:38:01 - Operator 2 is now available
+15:38:02 - New client is coming
+15:38:02 - Client 833 added to queue
+15:38:02 - Operator 1 is now serving client 833
+15:39:32 - Operator 1 is now available
+15:39:59 - New client is coming
+15:39:59 - Client 7396 added to queue
+15:39:59 - Operator 1 is now serving client 7396
+15:40:47 - Operator 3 is now available
+15:41:41 - New client is coming
+15:41:41 - Client 8313 added to queue
+15:41:41 - Operator 2 is now serving client 8313
+15:43:18 - Operator 2 is now available
+15:46:28 - New client is coming
+15:46:28 - Client 5464 added to queue
+15:46:28 - Operator 2 is now serving client 5464
+15:47:12 - New client is coming
+15:47:12 - Client 9885 added to queue
+15:47:12 - Operator 3 is now serving client 9885
+15:47:37 - Operator 1 is now available
+15:49:45 - New client is coming
+15:49:45 - Client 2508 added to queue
+15:49:45 - Operator 1 is now serving client 2508
+15:50:01 - Operator 2 is now available
+15:51:29 - Operator 1 is now available
+15:51:54 - Operator 3 is now available
+15:51:55 - New client is coming
+15:51:55 - Client 2275 added to queue
+15:51:55 - Operator 1 is now serving client 2275
+15:51:58 - New client is coming
+15:51:58 - Client 2372 added to queue
+15:51:58 - Operator 2 is now serving client 2372
+15:52:03 - New client is coming
+15:52:03 - Client 8189 added to queue
+15:52:03 - Operator 3 is now serving client 8189
+15:52:45 - Operator 2 is now available
+15:55:54 - Operator 1 is now available
+15:57:02 - New client is coming
+15:57:02 - Client 8801 added to queue
+15:57:02 - Operator 1 is now serving client 8801
+15:58:15 - Operator 3 is now available
+15:59:05 - New client is coming
+15:59:05 - Client 1270 added to queue
+15:59:05 - Operator 2 is now serving client 1270
+16:00:23 - Operator 2 is now available
+16:01:03 - New client is coming
+16:01:03 - Client 430 added to queue
+16:01:03 - Operator 2 is now serving client 430
+16:02:11 - New client is coming
+16:02:11 - Client 7658 added to queue
+16:02:11 - Operator 3 is now serving client 7658
+16:02:15 - New client is coming
+16:02:15 - Client 5790 added to queue
+16:02:39 - Operator 3 is now available
+16:02:39 - Operator 3 is now serving client 5790
+16:02:57 - Operator 1 is now available
+16:03:17 - Operator 3 is now available
+16:03:40 - New client is coming
+16:03:40 - Client 9104 added to queue
+16:03:40 - Operator 1 is now serving client 9104
+16:03:47 - Operator 2 is now available
+16:04:05 - New client is coming
+16:04:05 - Client 5673 added to queue
+16:04:05 - Operator 2 is now serving client 5673
+16:04:59 - New client is coming
+16:04:59 - Client 7939 added to queue
+16:04:59 - Operator 3 is now serving client 7939
+16:06:02 - Operator 2 is now available
+16:06:43 - Operator 1 is now available
+16:08:24 - New client is coming
+16:08:24 - Client 4212 added to queue
+16:08:24 - Operator 1 is now serving client 4212
+16:08:48 - New client is coming
+16:08:48 - Client 3515 added to queue
+16:08:48 - Operator 2 is now serving client 3515
+16:09:23 - New client is coming
+16:09:23 - Client 3344 added to queue
+16:10:31 - New client is coming
+16:10:31 - Client 3956 added to queue
+16:10:41 - Operator 1 is now available
+16:10:41 - Operator 1 is now serving client 3344
+16:10:50 - Operator 1 is now available
+16:10:50 - Operator 1 is now serving client 3956
+16:11:10 - Operator 3 is now available
+16:11:56 - Operator 2 is now available
+16:15:08 - New client is coming
+16:15:08 - Client 2405 added to queue
+16:15:08 - Operator 2 is now serving client 2405
+16:15:26 - Operator 1 is now available
+16:15:36 - New client is coming
+16:15:36 - Client 853 added to queue
+16:15:36 - Operator 1 is now serving client 853
+16:17:07 - New client is coming
+16:17:07 - Client 7500 added to queue
+16:17:07 - Operator 3 is now serving client 7500
+16:17:08 - Operator 2 is now available
+16:17:32 - Operator 3 is now available
+16:23:08 - New client is coming
+16:23:08 - Client 9491 added to queue
+16:23:08 - Operator 2 is now serving client 9491
+16:25:56 - Operator 2 is now available
+16:28:11 - New client is coming
+16:28:11 - Client 5581 added to queue
+16:28:11 - Operator 2 is now serving client 5581
+16:29:33 - New client is coming
+16:29:33 - Client 9806 added to queue
+16:29:33 - Operator 3 is now serving client 9806
+16:29:58 - Operator 1 is now available
+16:30:08 - Operator 3 is now available
+16:30:57 - New client is coming
+16:30:57 - Client 9328 added to queue
+16:30:57 - Operator 1 is now serving client 9328
+16:31:18 - Operator 1 is now available
+16:31:58 - New client is coming
+16:31:58 - Client 5557 added to queue
+16:31:58 - Operator 1 is now serving client 5557
+16:32:50 - New client is coming
+16:32:50 - Client 7792 added to queue
+16:32:50 - Operator 3 is now serving client 7792
+16:32:54 - New client is coming
+16:32:54 - Client 7319 added to queue
+16:33:13 - Operator 1 is now available
+16:33:13 - Operator 1 is now serving client 7319
+16:33:21 - Operator 3 is now available
+16:34:23 - New client is coming
+16:34:23 - Client 9406 added to queue
+16:34:23 - Operator 3 is now serving client 9406
+16:35:10 - New client is coming
+16:35:10 - Client 9914 added to queue
+16:35:55 - New client is coming
+16:35:55 - Client 789 added to queue
+16:36:21 - New client is coming
+16:36:21 - Client 4128 added to queue
+16:36:45 - New client is coming
+16:36:45 - Client 7807 added to queue
+16:36:56 - Operator 2 is now available
+16:36:56 - Operator 2 is now serving client 9914
+16:37:39 - Operator 1 is now available
+16:37:39 - Operator 1 is now serving client 789
+16:39:09 - Operator 2 is now available
+16:39:09 - Operator 2 is now serving client 4128
+16:40:29 - Operator 2 is now available
+16:40:29 - Operator 2 is now serving client 7807
+16:45:49 - Operator 3 is now available
+16:45:52 - Operator 1 is now available
+16:46:13 - New client is coming
+16:46:13 - Client 6275 added to queue
+16:46:13 - Operator 1 is now serving client 6275
+16:50:29 - New client is coming
+16:50:29 - Client 2594 added to queue
+16:50:29 - Operator 3 is now serving client 2594
+16:51:16 - New client is coming
+16:51:16 - Client 2683 added to queue
+16:51:42 - New client is coming
+16:51:42 - Client 4617 added to queue
+16:52:15 - New client is coming
+16:52:15 - Client 706 added to queue
+16:52:17 - New client is coming
+16:52:17 - Client 3004 added to queue
+16:53:49 - Operator 2 is now available
+16:53:49 - Operator 2 is now serving client 2683
+16:54:59 - New client is coming
+16:54:59 - Client 1744 added to queue
+16:55:40 - Client 1744 is leaving without being served
+16:55:52 - Operator 1 is now available
+16:55:52 - Operator 1 is now serving client 4617
+16:57:09 - New client is coming
+16:57:09 - Client 7928 added to queue
+16:59:12 - Operator 1 is now available
+16:59:12 - Operator 1 is now serving client 706
+16:59:36 - Operator 3 is now available
+16:59:36 - Operator 3 is now serving client 3004
+17:00:26 - New client is coming
+17:00:26 - Client 8988 added to queue
+17:00:47 - New client is coming
+17:00:47 - Client 292 added to queue
+17:02:52 - New client is coming
+17:02:52 - Client 6917 added to queue
+17:03:18 - Client 292 is leaving without being served
+17:04:27 - New client is coming
+17:04:27 - Client 2228 added to queue
+17:04:32 - Client 7928 is leaving without being served
+17:04:47 - New client is coming
+17:04:47 - Client 6865 added to queue
+17:05:25 - Operator 1 is now available
+17:05:25 - Operator 1 is now serving client 8988
+17:05:28 - New client is coming
+17:05:28 - Client 7193 added to queue
+17:05:38 - New client is coming
+17:05:38 - Client 9824 added to queue
+17:07:08 - New client is coming
+17:07:08 - Client 1475 added to queue
+17:08:04 - Operator 3 is now available
+17:08:04 - Operator 3 is now serving client 6917
+17:08:41 - Client 1475 is leaving without being served
+17:08:56 - New client is coming
+17:08:56 - Client 8904 added to queue
+17:09:54 - New client is coming
+17:09:54 - Client 8223 added to queue
+17:10:32 - Client 7193 is leaving without being served
+17:11:02 - Operator 2 is now available
+17:11:02 - Operator 2 is now serving client 2228
+17:11:10 - New client is coming
+17:11:10 - Client 9701 added to queue
+17:12:26 - Operator 3 is now available
+17:12:26 - Operator 3 is now serving client 6865
+17:12:59 - New client is coming
+17:12:59 - Client 2032 added to queue
+17:13:06 - Operator 3 is now available
+17:13:06 - Operator 3 is now serving client 9824
+17:13:20 - New client is coming
+17:13:20 - Client 1054 added to queue
+17:13:47 - Client 8904 is leaving without being served
+17:15:03 - Operator 2 is now available
+17:15:03 - Operator 2 is now serving client 8223
+17:16:44 - Operator 1 is now available
+17:16:44 - Operator 1 is now serving client 9701
+17:17:19 - New client is coming
+17:17:19 - Client 8860 added to queue
+17:17:23 - Operator 2 is now available
+17:17:23 - Operator 2 is now serving client 2032
+17:19:08 - Client 1054 is leaving without being served
+17:19:16 - Operator 3 is now available
+17:19:16 - Operator 3 is now serving client 8860
+17:19:47 - Operator 3 is now available
+17:19:54 - Operator 1 is now available
+17:20:54 - New client is coming
+17:20:54 - Client 2079 added to queue
+17:20:54 - Operator 1 is now serving client 2079
+17:22:06 - New client is coming
+17:22:06 - Client 8784 added to queue
+17:22:06 - Operator 3 is now serving client 8784
+17:22:09 - Operator 2 is now available
+17:22:19 - New client is coming
+17:22:19 - Client 8808 added to queue
+17:22:19 - Operator 2 is now serving client 8808
+17:25:00 - Operator 1 is now available
+17:25:15 - Operator 3 is now available
+17:25:40 - Operator 2 is now available
+17:25:54 - New client is coming
+17:25:54 - Client 5124 added to queue
+17:25:54 - Operator 1 is now serving client 5124
+17:26:03 - New client is coming
+17:26:03 - Client 568 added to queue
+17:26:03 - Operator 2 is now serving client 568
+17:28:26 - Operator 1 is now available
+17:29:39 - Operator 2 is now available
+17:30:37 - New client is coming
+17:30:37 - Client 6617 added to queue
+17:30:37 - Operator 1 is now serving client 6617
+17:32:20 - New client is coming
+17:32:20 - Client 8202 added to queue
+17:32:20 - Operator 2 is now serving client 8202
+17:32:22 - New client is coming
+17:32:22 - Client 2532 added to queue
+17:32:22 - Operator 3 is now serving client 2532
+17:33:34 - Operator 1 is now available
+17:34:03 - Operator 2 is now available
+17:35:12 - Operator 3 is now available
+17:35:44 - New client is coming
+17:35:44 - Client 1486 added to queue
+17:35:44 - Operator 1 is now serving client 1486
+17:37:14 - New client is coming
+17:37:14 - Client 4249 added to queue
+17:37:14 - Operator 2 is now serving client 4249
+17:37:53 - New client is coming
+17:37:53 - Client 8610 added to queue
+17:37:53 - Operator 3 is now serving client 8610
+17:40:15 - Operator 1 is now available
+17:40:55 - Operator 3 is now available
+17:41:45 - New client is coming
+17:41:45 - Client 6427 added to queue
+17:41:45 - Operator 1 is now serving client 6427
+17:42:59 - New client is coming
+17:42:59 - Client 3108 added to queue
+17:42:59 - Operator 3 is now serving client 3108
+17:43:06 - New client is coming
+17:43:06 - Client 6122 added to queue
+17:43:21 - Operator 3 is now available
+17:43:21 - Operator 3 is now serving client 6122
+17:45:16 - New client is coming
+17:45:16 - Client 8038 added to queue
+17:45:27 - Operator 1 is now available
+17:45:27 - Operator 1 is now serving client 8038
+17:45:28 - New client is coming
+17:45:28 - Client 3864 added to queue
+17:46:26 - New client is coming
+17:46:26 - Client 9418 added to queue
+17:47:25 - Operator 2 is now available
+17:47:25 - Operator 2 is now serving client 3864
+17:47:43 - Operator 3 is now available
+17:47:43 - Operator 3 is now serving client 9418
+17:49:47 - New client is coming
+17:49:47 - Client 7333 added to queue
+17:50:18 - New client is coming
+17:50:18 - Client 1691 added to queue
+17:50:43 - Operator 2 is now available
+17:50:43 - Operator 2 is now serving client 7333
+17:51:57 - New client is coming
+17:51:57 - Client 6236 added to queue
+17:51:59 - Operator 3 is now available
+17:51:59 - Operator 3 is now serving client 1691
+17:52:06 - New client is coming
+17:52:06 - Client 4623 added to queue
+17:52:38 - Operator 2 is now available
+17:52:38 - Operator 2 is now serving client 6236
+17:52:44 - Operator 3 is now available
+17:52:44 - Operator 3 is now serving client 4623
+17:52:54 - New client is coming
+17:52:54 - Client 1308 added to queue
+17:54:36 - New client is coming
+17:54:36 - Client 7176 added to queue
+17:56:04 - Operator 3 is now available
+17:56:04 - Operator 3 is now serving client 1308
+17:56:48 - Operator 2 is now available
+17:56:48 - Operator 2 is now serving client 7176
+17:57:18 - Operator 2 is now available
+17:59:45 - Operator 3 is now available
+18:00:07 - Operator 1 is now available
+18:02:40 - New client is coming
+18:02:40 - Client 6604 added to queue
+18:02:40 - Operator 1 is now serving client 6604
+18:02:50 - New client is coming
+18:02:50 - Client 5164 added to queue
+18:02:50 - Operator 2 is now serving client 5164
+18:04:39 - Operator 2 is now available
+18:04:57 - New client is coming
+18:04:57 - Client 4000 added to queue
+18:04:57 - Operator 2 is now serving client 4000
+18:06:57 - New client is coming
+18:06:57 - Client 9648 added to queue
+18:06:57 - Operator 3 is now serving client 9648
+18:07:01 - Operator 1 is now available
+18:07:35 - New client is coming
+18:07:35 - Client 7933 added to queue
+18:07:35 - Operator 1 is now serving client 7933
+18:07:36 - Operator 3 is now available
+18:08:12 - New client is coming
+18:08:12 - Client 998 added to queue
+18:08:12 - Operator 3 is now serving client 998
+18:11:57 - Operator 1 is now available
+18:12:42 - New client is coming
+18:12:42 - Client 7490 added to queue
+18:12:42 - Operator 1 is now serving client 7490
+18:13:22 - New client is coming
+18:13:22 - Client 6989 added to queue
+18:13:47 - Operator 2 is now available
+18:13:47 - Operator 2 is now serving client 6989
+18:16:41 - Operator 2 is now available
+18:19:25 - New client is coming
+18:19:25 - Client 280 added to queue
+18:19:25 - Operator 2 is now serving client 280
+18:20:16 - Operator 2 is now available
+18:20:33 - New client is coming
+18:20:33 - Client 5670 added to queue
+18:20:33 - Operator 2 is now serving client 5670
+18:20:47 - New client is coming
+18:20:47 - Client 2892 added to queue
+18:21:21 - Operator 1 is now available
+18:21:21 - Operator 1 is now serving client 2892
+18:21:42 - Operator 2 is now available
+18:22:04 - New client is coming
+18:22:04 - Client 8910 added to queue
+18:22:04 - Operator 2 is now serving client 8910
+18:22:07 - Operator 3 is now available
+18:22:57 - New client is coming
+18:22:57 - Client 701 added to queue
+18:22:57 - Operator 3 is now serving client 701
+18:23:44 - New client is coming
+18:23:44 - Client 4810 added to queue
+18:24:24 - New client is coming
+18:24:24 - Client 808 added to queue
+18:24:37 - New client is coming
+18:24:37 - Client 3560 added to queue
+18:25:28 - Client 808 is leaving without being served
+18:25:35 - Operator 3 is now available
+18:25:35 - Operator 3 is now serving client 4810
+18:25:49 - Operator 2 is now available
+18:25:49 - Operator 2 is now serving client 3560
+18:26:10 - Operator 2 is now available
+18:27:08 - New client is coming
+18:27:08 - Client 1247 added to queue
+18:27:08 - Operator 2 is now serving client 1247
+18:27:19 - Operator 3 is now available
+18:27:27 - New client is coming
+18:27:27 - Client 6912 added to queue
+18:27:27 - Operator 3 is now serving client 6912
+18:28:05 - Operator 3 is now available
+18:29:05 - New client is coming
+18:29:05 - Client 1335 added to queue
+18:29:05 - Operator 3 is now serving client 1335
+18:29:09 - New client is coming
+18:29:09 - Client 8415 added to queue
+18:29:20 - New client is coming
+18:29:20 - Client 5991 added to queue
+18:29:40 - Operator 2 is now available
+18:29:40 - Operator 2 is now serving client 8415
+18:29:53 - Client 5991 is leaving without being served
+18:30:27 - Operator 1 is now available
+18:31:10 - Operator 2 is now available
+18:32:45 - Operator 3 is now available
+18:33:23 - New client is coming
+18:33:23 - Client 4666 added to queue
+18:33:23 - Operator 1 is now serving client 4666
+18:34:26 - Operator 1 is now available
+18:40:10 - New client is coming
+18:40:10 - Client 5326 added to queue
+18:40:10 - Operator 1 is now serving client 5326
+18:41:35 - New client is coming
+18:41:35 - Client 8640 added to queue
+18:41:35 - Operator 2 is now serving client 8640
+18:42:17 - New client is coming
+18:42:17 - Client 4713 added to queue
+18:42:17 - Operator 3 is now serving client 4713
+18:42:46 - Operator 1 is now available
+18:44:19 - Operator 2 is now available
+18:45:21 - Operator 3 is now available
+18:46:07 - New client is coming
+18:46:07 - Client 4836 added to queue
+18:46:07 - Operator 1 is now serving client 4836
+18:47:54 - Operator 1 is now available
+18:52:06 - New client is coming
+18:52:06 - Client 689 added to queue
+18:52:06 - Operator 1 is now serving client 689
+18:55:29 - Operator 1 is now available
+18:56:13 - New client is coming
+18:56:13 - Client 8038 added to queue
+18:56:13 - Operator 1 is now serving client 8038
+18:57:46 - New client is coming
+18:57:46 - Client 5143 added to queue
+18:57:46 - Operator 2 is now serving client 5143
+18:58:12 - Operator 2 is now available
+18:59:00 - New client is coming
+18:59:00 - Client 4360 added to queue
+18:59:00 - Operator 2 is now serving client 4360
+19:01:23 - New client is coming
+19:01:23 - Client 212 added to queue
+19:01:23 - Operator 3 is now serving client 212
+19:01:25 - Operator 1 is now available
+19:02:01 - New client is coming
+19:02:01 - Client 5937 added to queue
+19:02:01 - Operator 1 is now serving client 5937
+19:02:22 - Operator 1 is now available
+19:04:31 - New client is coming
+19:04:31 - Client 8210 added to queue
+19:04:31 - Operator 1 is now serving client 8210
+19:05:01 - Operator 3 is now available
+19:05:45 - Operator 1 is now available
+19:07:53 - New client is coming
+19:07:53 - Client 1633 added to queue
+19:07:53 - Operator 1 is now serving client 1633
+19:10:10 - New client is coming
+19:10:10 - Client 3293 added to queue
+19:10:10 - Operator 3 is now serving client 3293
+19:13:44 - New client is coming
+19:13:44 - Client 1441 added to queue
+19:15:17 - Operator 3 is now available
+19:15:17 - Operator 3 is now serving client 1441
+19:16:58 - Operator 1 is now available
+19:17:23 - Operator 2 is now available
+19:20:41 - New client is coming
+19:20:41 - Client 7744 added to queue
+19:20:41 - Operator 1 is now serving client 7744
+19:22:17 - Operator 1 is now available
+19:22:18 - Operator 3 is now available
+19:23:16 - New client is coming
+19:23:16 - Client 4480 added to queue
+19:23:16 - Operator 1 is now serving client 4480
+19:24:18 - Operator 1 is now available
+19:29:01 - New client is coming
+19:29:01 - Client 1239 added to queue
+19:29:01 - Operator 1 is now serving client 1239
+19:29:29 - Operator 1 is now available
+19:31:53 - New client is coming
+19:31:53 - Client 9292 added to queue
+19:31:53 - Operator 1 is now serving client 9292
+19:32:05 - New client is coming
+19:32:05 - Client 2502 added to queue
+19:32:05 - Operator 2 is now serving client 2502
+19:32:39 - Operator 2 is now available
+19:33:00 - New client is coming
+19:33:00 - Client 3175 added to queue
+19:33:00 - Operator 2 is now serving client 3175
+19:34:35 - Operator 1 is now available
+19:34:47 - New client is coming
+19:34:47 - Client 3443 added to queue
+19:34:47 - Operator 1 is now serving client 3443
+19:35:56 - Operator 2 is now available
+19:38:32 - New client is coming
+19:38:32 - Client 8763 added to queue
+19:38:32 - Operator 2 is now serving client 8763
+19:39:54 - New client is coming
+19:39:54 - Client 3446 added to queue
+19:39:54 - Operator 3 is now serving client 3446
+19:40:14 - Operator 1 is now available
+19:41:12 - New client is coming
+19:41:12 - Client 785 added to queue
+19:41:12 - Operator 1 is now serving client 785
+19:42:33 - Operator 3 is now available
+19:42:35 - New client is coming
+19:42:35 - Client 7812 added to queue
+19:42:35 - Operator 3 is now serving client 7812
+19:43:05 - New client is coming
+19:43:05 - Client 4949 added to queue
+19:43:34 - Client 4949 is leaving without being served
+19:46:09 - New client is coming
+19:46:09 - Client 5818 added to queue
+19:46:14 - Operator 3 is now available
+19:46:14 - Operator 3 is now serving client 5818
+19:46:54 - Operator 2 is now available
+19:47:44 - New client is coming
+19:47:44 - Client 2900 added to queue
+19:47:44 - Operator 2 is now serving client 2900
+19:47:50 - Operator 3 is now available
+19:48:46 - Operator 1 is now available
+19:51:01 - Operator 2 is now available
+19:51:47 - New client is coming
+19:51:47 - Client 5111 added to queue
+19:51:47 - Operator 1 is now serving client 5111
+19:52:37 - Operator 1 is now available
+19:53:09 - New client is coming
+19:53:09 - Client 274 added to queue
+19:53:09 - Operator 1 is now serving client 274
+19:54:21 - New client is coming
+19:54:21 - Client 3600 added to queue
+19:54:21 - Operator 2 is now serving client 3600
+19:54:42 - New client is coming
+19:54:42 - Client 7696 added to queue
+19:54:42 - Operator 3 is now serving client 7696
+19:54:47 - Operator 1 is now available
+19:55:07 - Operator 3 is now available
+19:56:54 - New client is coming
+19:56:54 - Client 9187 added to queue
+19:56:54 - Operator 1 is now serving client 9187
+19:58:58 - New client is coming
+19:58:58 - Client 2541 added to queue
+19:58:58 - Operator 3 is now serving client 2541
+20:00:29 - New client is coming
+20:00:29 - Client 1844 added to queue
+20:02:28 - Operator 3 is now available
+20:02:28 - Operator 3 is now serving client 1844
+20:04:22 - New client is coming
+20:04:22 - Client 316 added to queue
+20:04:38 - Operator 1 is now available
+20:04:38 - Operator 1 is now serving client 316
+20:05:00 - New client is coming
+20:05:00 - Client 4894 added to queue
+20:05:11 - New client is coming
+20:05:11 - Client 4286 added to queue
+20:06:08 - New client is coming
+20:06:08 - Client 6754 added to queue
+20:06:23 - Operator 1 is now available
+20:06:23 - Operator 1 is now serving client 4894
+20:06:49 - Operator 3 is now available
+20:06:49 - Operator 3 is now serving client 4286
+20:07:00 - Operator 2 is now available
+20:07:00 - Operator 2 is now serving client 6754
+20:07:34 - Operator 3 is now available
+20:08:47 - New client is coming
+20:08:47 - Client 6181 added to queue
+20:08:47 - Operator 3 is now serving client 6181
+20:09:07 - Operator 2 is now available
+20:10:26 - Operator 1 is now available
+20:11:31 - New client is coming
+20:11:31 - Client 3221 added to queue
+20:11:31 - Operator 1 is now serving client 3221
+20:12:00 - Operator 1 is now available
+20:14:04 - New client is coming
+20:14:04 - Client 8553 added to queue
+20:14:04 - Operator 1 is now serving client 8553
+20:16:31 - New client is coming
+20:16:31 - Client 5643 added to queue
+20:16:31 - Operator 2 is now serving client 5643
+20:17:42 - Operator 1 is now available
+20:18:55 - New client is coming
+20:18:55 - Client 9026 added to queue
+20:18:55 - Operator 1 is now serving client 9026
+20:18:57 - New client is coming
+20:18:57 - Client 5994 added to queue
+20:19:28 - Operator 3 is now available
+20:19:28 - Operator 3 is now serving client 5994
+20:20:41 - Operator 1 is now available
+20:21:07 - Operator 2 is now available
+20:22:06 - Operator 3 is now available
+20:24:19 - New client is coming
+20:24:19 - Client 5495 added to queue
+20:24:19 - Operator 1 is now serving client 5495
+20:25:45 - Operator 1 is now available
+20:29:03 - New client is coming
+20:29:03 - Client 8378 added to queue
+20:29:03 - Operator 1 is now serving client 8378
+20:29:52 - New client is coming
+20:29:52 - Client 8052 added to queue
+20:29:52 - Operator 2 is now serving client 8052
+20:31:44 - New client is coming
+20:31:44 - Client 3045 added to queue
+20:31:44 - Operator 3 is now serving client 3045
+20:33:11 - Operator 3 is now available
+20:37:07 - Operator 1 is now available
+20:37:17 - Operator 2 is now available
+20:42:07 - New client is coming
+20:42:07 - Client 4350 added to queue
+20:42:07 - Operator 1 is now serving client 4350
+20:42:38 - Operator 1 is now available
+20:46:44 - New client is coming
+20:46:44 - Client 2367 added to queue
+20:46:44 - Operator 1 is now serving client 2367
+20:49:46 - New client is coming
+20:49:46 - Client 7221 added to queue
+20:49:46 - Operator 2 is now serving client 7221
+20:50:30 - Operator 1 is now available
+20:52:37 - New client is coming
+20:52:37 - Client 3339 added to queue
+20:52:37 - Operator 1 is now serving client 3339
+20:52:58 - Operator 1 is now available
+20:53:06 - New client is coming
+20:53:06 - Client 7217 added to queue
+20:53:06 - Operator 1 is now serving client 7217
+20:53:09 - Operator 1 is now available
+20:56:38 - Operator 2 is now available
+20:56:48 - New client is coming
+20:56:48 - Client 4978 added to queue
+20:56:48 - Operator 1 is now serving client 4978
+20:57:35 - New client is coming
+20:57:35 - Client 2428 added to queue
+20:57:35 - Operator 2 is now serving client 2428
+20:58:29 - New client is coming
+20:58:29 - Client 4989 added to queue
+20:58:29 - Operator 3 is now serving client 4989
+20:59:46 - Operator 1 is now available
+21:04:40 - Operator 2 is now available
+21:04:58 - Operator 3 is now available
+21:05:35 - New client is coming
+21:05:35 - Client 8205 added to queue
+21:05:35 - Operator 1 is now serving client 8205
+21:05:56 - New client is coming
+21:05:56 - Client 3538 added to queue
+21:05:56 - Operator 2 is now serving client 3538
+21:07:05 - Operator 2 is now available
+21:08:55 - New client is coming
+21:08:55 - Client 7352 added to queue
+21:08:55 - Operator 2 is now serving client 7352
+21:09:28 - Operator 1 is now available
+21:11:02 - New client is coming
+21:11:02 - Client 350 added to queue
+21:11:02 - Operator 1 is now serving client 350
+21:11:14 - Operator 1 is now available
+21:11:20 - New client is coming
+21:11:20 - Client 257 added to queue
+21:11:20 - Operator 1 is now serving client 257
+21:16:31 - New client is coming
+21:16:31 - Client 3788 added to queue
+21:16:31 - Operator 3 is now serving client 3788
+21:16:33 - New client is coming
+21:16:33 - Client 8646 added to queue
+21:17:59 - Operator 1 is now available
+21:17:59 - Operator 1 is now serving client 8646
+21:19:47 - New client is coming
+21:19:47 - Client 2364 added to queue
+21:20:45 - New client is coming
+21:20:45 - Client 5086 added to queue
+21:20:46 - Operator 2 is now available
+21:20:46 - Operator 2 is now serving client 2364
+21:21:58 - New client is coming
+21:21:58 - Client 7654 added to queue
+21:22:10 - Client 5086 is leaving without being served
+21:22:37 - Client 7654 is leaving without being served
+21:24:37 - Operator 1 is now available
+21:24:50 - Operator 2 is now available
+21:25:12 - New client is coming
+21:25:12 - Client 9961 added to queue
+21:25:12 - Operator 1 is now serving client 9961
+21:26:51 - Operator 3 is now available
+21:36:09 - New client is coming
+21:36:09 - Client 6051 added to queue
+21:36:09 - Operator 2 is now serving client 6051
+21:36:57 - New client is coming
+21:36:57 - Client 5781 added to queue
+21:36:57 - Operator 3 is now serving client 5781
+21:40:09 - Operator 2 is now available
+21:41:15 - New client is coming
+21:41:15 - Client 1102 added to queue
+21:41:15 - Operator 2 is now serving client 1102
+21:41:25 - New client is coming
+21:41:25 - Client 8753 added to queue
+21:41:51 - New client is coming
+21:41:51 - Client 2427 added to queue
+21:41:56 - New client is coming
+21:41:56 - Client 7561 added to queue
+21:42:16 - Client 8753 is leaving without being served
+21:45:30 - Operator 2 is now available
+21:45:30 - Operator 2 is now serving client 2427
+21:46:52 - Operator 2 is now available
+21:46:52 - Operator 2 is now serving client 7561
+21:48:06 - Operator 3 is now available
+21:48:18 - Operator 1 is now available
+21:48:37 - New client is coming
+21:48:37 - Client 9636 added to queue
+21:48:37 - Operator 1 is now serving client 9636
+21:50:03 - New client is coming
+21:50:03 - Client 9746 added to queue
+21:50:03 - Operator 3 is now serving client 9746
+21:50:17 - New client is coming
+21:50:17 - Client 3981 added to queue
+21:53:06 - New client is coming
+21:53:06 - Client 7681 added to queue
+21:54:16 - New client is coming
+21:54:16 - Client 7606 added to queue
+21:54:21 - New client is coming
+21:54:21 - Client 6962 added to queue
+21:54:38 - Operator 3 is now available
+21:54:38 - Operator 3 is now serving client 3981
+21:54:50 - New client is coming
+21:54:50 - Client 9946 added to queue
+21:55:30 - Operator 1 is now available
+21:55:30 - Operator 1 is now serving client 7681
+21:57:00 - New client is coming
+21:57:00 - Client 9729 added to queue
+21:57:02 - Operator 2 is now available
+21:57:02 - Operator 2 is now serving client 7606
+21:57:07 - New client is coming
+21:57:07 - Client 6739 added to queue
+21:57:46 - New client is coming
+21:57:46 - Client 755 added to queue
+21:57:47 - Operator 1 is now available
+21:57:47 - Operator 1 is now serving client 6962
+21:57:51 - Client 9946 is leaving without being served
+21:58:45 - Client 6739 is leaving without being served
+21:59:29 - Operator 3 is now available
+21:59:29 - Operator 3 is now serving client 9729
+21:59:38 - New client is coming
+21:59:38 - Client 3606 added to queue
+21:59:57 - Operator 3 is now available
+21:59:57 - Operator 3 is now serving client 755
+22:00:06 - New client is coming
+22:00:06 - Client 2204 added to queue
+22:00:11 - New client is coming
+22:00:11 - Client 8753 added to queue
+22:00:18 - Operator 3 is now available
+22:00:18 - Operator 3 is now serving client 3606
+22:00:22 - Operator 3 is now available
+22:00:22 - Operator 3 is now serving client 2204
+22:00:41 - New client is coming
+22:00:41 - Client 753 added to queue
+22:00:57 - Operator 3 is now available
+22:00:57 - Operator 3 is now serving client 8753
+22:00:59 - Operator 3 is now available
+22:00:59 - Operator 3 is now serving client 753
+22:01:34 - Operator 2 is now available
+22:03:50 - Operator 1 is now available
+22:06:06 - New client is coming
+22:06:06 - Client 8701 added to queue
+22:06:06 - Operator 1 is now serving client 8701
+22:06:56 - New client is coming
+22:06:56 - Client 4423 added to queue
+22:06:56 - Operator 2 is now serving client 4423
+22:07:25 - Operator 2 is now available
+22:07:26 - New client is coming
+22:07:26 - Client 2130 added to queue
+22:07:26 - Operator 2 is now serving client 2130
+22:07:39 - New client is coming
+22:07:39 - Client 2792 added to queue
+22:08:39 - Operator 2 is now available
+22:08:39 - Operator 2 is now serving client 2792
+22:08:41 - Operator 2 is now available
+22:08:50 - New client is coming
+22:08:50 - Client 6989 added to queue
+22:08:50 - Operator 2 is now serving client 6989
+22:09:25 - Operator 2 is now available
+22:10:45 - Operator 1 is now available
+22:11:10 - Operator 3 is now available
+22:11:44 - New client is coming
+22:11:44 - Client 1483 added to queue
+22:11:44 - Operator 1 is now serving client 1483
+22:13:25 - Operator 1 is now available
+22:21:35 - New client is coming
+22:21:35 - Client 3992 added to queue
+22:21:35 - Operator 1 is now serving client 3992
+22:22:29 - New client is coming
+22:22:29 - Client 8178 added to queue
+22:22:29 - Operator 2 is now serving client 8178
+22:23:03 - New client is coming
+22:23:03 - Client 7110 added to queue
+22:23:03 - Operator 3 is now serving client 7110
+22:23:28 - Operator 1 is now available
+22:23:39 - Operator 2 is now available
+22:24:05 - New client is coming
+22:24:05 - Client 7220 added to queue
+22:24:05 - Operator 1 is now serving client 7220
+22:25:07 - New client is coming
+22:25:07 - Client 213 added to queue
+22:25:07 - Operator 2 is now serving client 213
+22:26:03 - New client is coming
+22:26:03 - Client 6602 added to queue
+22:26:34 - New client is coming
+22:26:34 - Client 3622 added to queue
+22:27:21 - New client is coming
+22:27:21 - Client 554 added to queue
+22:28:15 - New client is coming
+22:28:15 - Client 5377 added to queue
+22:28:21 - Operator 3 is now available
+22:28:21 - Operator 3 is now serving client 6602
+22:29:11 - Operator 1 is now available
+22:29:11 - Operator 1 is now serving client 3622
+22:29:37 - New client is coming
+22:29:37 - Client 1811 added to queue
+22:30:23 - Operator 3 is now available
+22:30:23 - Operator 3 is now serving client 554
+22:30:32 - Operator 1 is now available
+22:30:32 - Operator 1 is now serving client 5377
+22:30:55 - Operator 1 is now available
+22:30:55 - Operator 1 is now serving client 1811
+22:32:20 - Operator 3 is now available
+22:33:27 - New client is coming
+22:33:27 - Client 8678 added to queue
+22:33:27 - Operator 3 is now serving client 8678
+22:34:05 - New client is coming
+22:34:05 - Client 2679 added to queue
+22:34:15 - Operator 1 is now available
+22:34:15 - Operator 1 is now serving client 2679
+22:34:21 - Operator 3 is now available
+22:35:33 - Operator 1 is now available
+22:36:09 - Operator 2 is now available
+22:36:27 - New client is coming
+22:36:27 - Client 3171 added to queue
+22:36:27 - Operator 1 is now serving client 3171
+22:36:42 - New client is coming
+22:36:42 - Client 1596 added to queue
+22:36:42 - Operator 2 is now serving client 1596
+22:37:50 - Operator 2 is now available
+22:39:35 - New client is coming
+22:39:35 - Client 9275 added to queue
+22:39:35 - Operator 2 is now serving client 9275
+22:39:58 - New client is coming
+22:39:58 - Client 8228 added to queue
+22:39:58 - Operator 3 is now serving client 8228
+22:40:59 - Operator 3 is now available
+22:41:17 - New client is coming
+22:41:17 - Client 7433 added to queue
+22:41:17 - Operator 3 is now serving client 7433
+22:41:55 - Operator 3 is now available
+22:42:04 - Operator 1 is now available
+22:43:36 - New client is coming
+22:43:36 - Client 635 added to queue
+22:43:36 - Operator 1 is now serving client 635
+22:49:45 - Operator 2 is now available
+22:51:52 - New client is coming
+22:51:52 - Client 8126 added to queue
+22:51:52 - Operator 2 is now serving client 8126
+22:55:03 - New client is coming
+22:55:03 - Client 5684 added to queue
+22:55:03 - Operator 3 is now serving client 5684
+22:55:33 - New client is coming
+22:55:33 - Client 7246 added to queue
+22:57:20 - Operator 3 is now available
+22:57:20 - Operator 3 is now serving client 7246
+22:57:22 - Operator 1 is now available
+22:57:26 - Operator 2 is now available
+23:01:51 - Operator 3 is now available
+23:02:02 - New client is coming
+23:02:02 - Client 3513 added to queue
+23:02:02 - Operator 1 is now serving client 3513
+23:03:46 - New client is coming
+23:03:46 - Client 2614 added to queue
+23:03:46 - Operator 2 is now serving client 2614
+23:04:55 - New client is coming
+23:04:55 - Client 3445 added to queue
+23:04:55 - Operator 3 is now serving client 3445
+23:06:11 - Operator 1 is now available
+23:06:43 - New client is coming
+23:06:43 - Client 9089 added to queue
+23:06:43 - Operator 1 is now serving client 9089
+23:07:13 - Operator 2 is now available
+23:08:29 - New client is coming
+23:08:29 - Client 9805 added to queue
+23:08:29 - Operator 2 is now serving client 9805
+23:08:53 - New client is coming
+23:08:53 - Client 688 added to queue
+23:09:07 - New client is coming
+23:09:07 - Client 7343 added to queue
+23:09:13 - Client 688 is leaving without being served
+23:09:32 - Operator 3 is now available
+23:09:32 - Operator 3 is now serving client 7343
+23:09:38 - Operator 1 is now available
+23:10:13 - New client is coming
+23:10:13 - Client 3493 added to queue
+23:10:13 - Operator 1 is now serving client 3493
+23:11:49 - Operator 3 is now available
+23:13:02 - New client is coming
+23:13:02 - Client 8356 added to queue
+23:13:02 - Operator 3 is now serving client 8356
+23:13:06 - Operator 3 is now available
+23:14:29 - Operator 2 is now available
+23:16:34 - Operator 1 is now available
+23:16:36 - New client is coming
+23:16:36 - Client 1617 added to queue
+23:16:36 - Operator 1 is now serving client 1617
+23:16:43 - Operator 1 is now available
+23:19:21 - New client is coming
+23:19:21 - Client 5872 added to queue
+23:19:21 - Operator 1 is now serving client 5872
+23:26:59 - New client is coming
+23:26:59 - Client 1629 added to queue
+23:26:59 - Operator 2 is now serving client 1629
+23:27:33 - New client is coming
+23:27:33 - Client 899 added to queue
+23:27:33 - Operator 3 is now serving client 899
+23:29:50 - Operator 3 is now available
+23:33:59 - Operator 1 is now available
+23:35:06 - New client is coming
+23:35:06 - Client 8297 added to queue
+23:35:06 - Operator 1 is now serving client 8297
+23:37:05 - New client is coming
+23:37:05 - Client 1660 added to queue
+23:37:05 - Operator 3 is now serving client 1660
+23:37:39 - New client is coming
+23:37:39 - Client 7616 added to queue
+23:39:46 - Operator 1 is now available
+23:39:46 - Operator 1 is now serving client 7616
+23:40:59 - Operator 3 is now available
+23:41:51 - Operator 2 is now available
+23:42:10 - Operator 1 is now available
+23:42:29 - New client is coming
+23:42:29 - Client 3886 added to queue
+23:42:29 - Operator 1 is now serving client 3886
+23:43:05 - New client is coming
+23:43:05 - Client 5365 added to queue
+23:43:05 - Operator 2 is now serving client 5365
+23:43:57 - Operator 1 is now available
+23:44:13 - New client is coming
+23:44:13 - Client 7279 added to queue
+23:44:13 - Operator 1 is now serving client 7279
+23:44:40 - New client is coming
+23:44:40 - Client 6973 added to queue
+23:44:40 - Operator 3 is now serving client 6973
+23:44:43 - Operator 1 is now available
+23:44:45 - Operator 3 is now available
+23:45:04 - New client is coming
+23:45:04 - Client 4074 added to queue
+23:45:04 - Operator 1 is now serving client 4074
+23:46:54 - New client is coming
+23:46:54 - Client 8085 added to queue
+23:46:54 - Operator 3 is now serving client 8085
+23:49:28 - New client is coming
+23:49:28 - Client 2844 added to queue
+23:50:04 - New client is coming
+23:50:04 - Client 2065 added to queue
+23:51:09 - New client is coming
+23:51:09 - Client 440 added to queue
+23:51:19 - Client 2065 is leaving without being served
+23:51:59 - Operator 3 is now available
+23:51:59 - Operator 3 is now serving client 2844
+23:54:29 - Operator 1 is now available
+23:54:29 - Operator 1 is now serving client 440
+23:54:34 - New client is coming
+23:54:34 - Client 9215 added to queue
+23:55:42 - Operator 3 is now available
+23:55:42 - Operator 3 is now serving client 9215
+23:56:03 - New client is coming
+23:56:03 - Client 1660 added to queue
+23:58:02 - Operator 3 is now available
+23:58:02 - Operator 3 is now serving client 1660
+23:59:14 - Operator 2 is now available
+24:00:00 - Simulation ending
+
+'Good balance shop' simulation stats:
+
+Relative throughput: 1,0000
+Absolute throughput (per hour): 27,0000
+Rejection probability: 0,0000
+Average clients in service count: 1,7941
+Average clients in queue count: 0,3355
+Average clients in the system: 2,1297
+Average time in the queue: 00:00:45
+Average time in the service: 00:04:14
+
+State probabilities p(in service; in queue) : 
+p(0; 0) = 0,1346
+p(1; 0) = 0,2739
+p(2; 0) = 0,2542
+p(3; 0) = 0,1599
+p(3; 1) = 0,0880
+p(3; 2) = 0,0458
+p(3; 3) = 0,0260
+p(3; 4) = 0,0111
+p(3; 5) = 0,0053
+p(3; 6) = 0,0012
+
+'Good balance shop' theoretical stats:
+
+Relative throughput: 0,9945
+Absolute throughput (per hour): 29,8354
+Rejection probability: 0,0055
+Average clients in service count: 2,0610
+Average clients in queue count: 0,5887
+Average clients in the system: 2,6498
+Average time in the queue: 00:01:11
+Average time in the service: 00:04:29
+
+State probabilities p(in service; in queue) : 
+p(0; 0) = 0,0936
+p(1; 0) = 0,2106
+p(2; 0) = 0,2369
+p(3; 0) = 0,1777
+p(3; 1) = 0,1212
+p(3; 2) = 0,0757
+p(3; 3) = 0,0437
+p(3; 4) = 0,0234
+p(3; 5) = 0,0117
+p(3; 6) = 0,0055

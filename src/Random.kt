@@ -1,4 +1,5 @@
 import model.Matrix
+import kotlin.math.ln
 import kotlin.random.Random
 
 fun getListOfRandomTwoDimensionalIndices(probabilities: Matrix, count: Int): List<Pair<Int, Int>> {
@@ -33,4 +34,8 @@ fun getRandomTwoDimensionalIndices(probabilities: Matrix): Pair<Int, Int> {
 
 fun castLots(): Float {
     return Random.nextFloat()
+}
+
+fun randomExponential(intensity: Double): Double {
+    return ln(1 - Random.nextDouble()) / -intensity
 }
