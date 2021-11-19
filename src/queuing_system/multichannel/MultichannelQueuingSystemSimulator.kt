@@ -1,42 +1,24 @@
-package lab2
+package queuing_system.multichannel
 
 import HOUR_IN_SECONDS
 import logWithSeconds
+import queuing_system.SimulationClientsGenerator
+import queuing_system.SimulationUnit
 import randomExponential
 import java.util.*
 import kotlin.math.roundToInt
 import kotlin.random.Random
 
-object QueuingSystemSimulator {
+object MultichannelQueuingSystemSimulator {
 
     private const val SIMULATION_SECONDS = 24L * HOUR_IN_SECONDS
 
-    private interface SimulationUnit {
-        fun processPassedSecond(second: Long)
-    }
+    private lateinit var params: MultichannelQueuingSystemParams
+    private lateinit var stats: MultichannelQueuingSystemSimulatorStats
 
-    private class ClientsGenerator(private val clientsIntensity: Double) : SimulationUnit {
-
-        private var isClientArriving: Boolean = false
-        private var secondsTillNewClient: Int = randomExponential(clientsIntensity).roundToInt()
-
-        override fun processPassedSecond(second: Long) {
-            if (!isClientArriving)
-                secondsTillNewClient--
-
-            if (secondsTillNewClient <= 0 && !isClientArriving) {
-                logWithSeconds(second, "New client is coming")
-                isClientArriving = true
-            }
-        }
-
-        fun isClientArriving() = isClientArriving
-
-        fun generateNext() {
-            isClientArriving = false
-            secondsTillNewClient = randomExponential(clientsIntensity).roundToInt()
-        }
-    }
+    private lateinit var clientsQueue: Queue<Client>
+    private lateinit var clientsGenerator: SimulationClientsGenerator
+    private lateinit var operators: List<Operator>
 
     private class Client(waitingIntensity: Double) : SimulationUnit {
 
@@ -84,19 +66,16 @@ object QueuingSystemSimulator {
         }
     }
 
-    private lateinit var params: QueuingSystemParams
-    private lateinit var stats: QueuingSystemSimulatorStats
-
-    private lateinit var clientsQueue: Queue<Client>
-    private lateinit var clientsGenerator: ClientsGenerator
-    private lateinit var operators: List<Operator>
-
-    fun simulateQueuingSystem(queuingSystemParams: QueuingSystemParams): QueuingSystemSimulatorStats {
+    fun simulateQueuingSystem(queuingSystemParams: MultichannelQueuingSystemParams): MultichannelQueuingSystemSimulatorStats {
         params = queuingSystemParams
-        stats = QueuingSystemSimulatorStats(SIMULATION_SECONDS.toInt(), params.operatorsCount, params.queueMaxSize)
+        stats = MultichannelQueuingSystemSimulatorStats(
+            SIMULATION_SECONDS.toInt(),
+            params.operatorsCount,
+            params.queueMaxSize
+        )
 
         clientsQueue = LinkedList()
-        clientsGenerator = ClientsGenerator(params.clientsIntensity)
+        clientsGenerator = SimulationClientsGenerator(params.clientsIntensity)
         operators = List(params.operatorsCount) { Operator(it + 1, params.processingIntensity) }
 
         logWithSeconds(0, "Simulation started")

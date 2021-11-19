@@ -1,8 +1,8 @@
-package lab2
-
-import HOUR_IN_SECONDS
-import MINUTE_IN_SECONDS
-import secondsToTimeString
+import queuing_system.*
+import queuing_system.multichannel.MultichannelQueueingSystemUtils
+import queuing_system.multichannel.MultichannelQueuingSystemParams
+import queuing_system.multichannel.MultichannelQueuingSystemSimulator
+import queuing_system.multichannel.MultichannelQueuingSystemSimulatorStats
 import java.util.*
 
 fun main() {
@@ -23,21 +23,21 @@ fun main() {
     print("Operator's average serving time in minutes: ")
     val averageServingMinutes = reader.nextDouble()
 
-    val queuingSystemParams = QueuingSystemParams(
+    val queuingSystemParams = MultichannelQueuingSystemParams(
         operatorsCount, queueMaxSize,
         1 / (MINUTE_IN_SECONDS * averageWaitingMinutes),
         averageCallsPerHour / HOUR_IN_SECONDS,
         1 / (MINUTE_IN_SECONDS * averageServingMinutes)
     )
 
-    val simulationStats = QueuingSystemSimulator.simulateQueuingSystem(queuingSystemParams)
-    printQueuingSystemStats("'High load booth' simulation", simulationStats)
+    val simulationStats = MultichannelQueuingSystemSimulator.simulateQueuingSystem(queuingSystemParams)
+    outputQueuingSystemStats("Simulation", simulationStats)
 
-    val theoreticalStats = QueueingSystemUtils.calculateStats(queuingSystemParams)
-    printQueuingSystemStats("'High load booth' theoretical", theoreticalStats)
+    val theoreticalStats = MultichannelQueueingSystemUtils.calculateStats(queuingSystemParams)
+    outputQueuingSystemStats("Theoretical", theoreticalStats)
 }
 
-private fun printQueuingSystemStats(name: String, stats: QueuingSystemStats) {
+private fun outputQueuingSystemStats(name: String, stats: QueuingSystemStats) {
     println("\n$name stats:\n")
     println("Relative throughput: %.4f".format(stats.relativeThroughput))
     println("Absolute throughput (per hour): %.4f".format(stats.absoluteHourlyThroughput))
@@ -59,7 +59,7 @@ private fun printQueuingSystemStats(name: String, stats: QueuingSystemStats) {
 
     showStateProbabilitiesPlot("$name states", stateProbabilities)
 
-    if (stats is QueuingSystemSimulatorStats) {
+    if (stats is MultichannelQueuingSystemSimulatorStats) {
         val stateProbabilitiesEveryMinute = stats.getStateProbabilitiesEveryMinute()
         showStateProbabilitiesEveryMinutePlot("$name states progression", stateProbabilitiesEveryMinute)
     }

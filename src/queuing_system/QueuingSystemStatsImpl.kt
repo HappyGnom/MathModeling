@@ -1,4 +1,4 @@
-package lab2
+package queuing_system
 
 data class QueuingSystemStatsImpl(
     val stateProbabilityMap: StateProbabilityMap,

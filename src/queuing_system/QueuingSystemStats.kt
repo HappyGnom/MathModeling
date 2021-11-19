@@ -1,4 +1,4 @@
-package lab2
+package queuing_system
 
 typealias StateProbabilityMap = Map<Pair<Int, Int>, Double>
 typealias StateProbabilitiesListMap = MutableMap<Pair<Int, Int>, MutableList<Double>>

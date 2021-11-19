@@ -1,13 +1,15 @@
-package lab2
+package queuing_system.multichannel
 
 import HOUR_IN_SECONDS
 import org.apache.commons.math3.util.CombinatoricsUtils
+import queuing_system.QueuingSystemStatsImpl
+import queuing_system.StateProbabilityMap
 import kotlin.math.pow
 import kotlin.math.roundToLong
 
-object QueueingSystemUtils {
+object MultichannelQueueingSystemUtils {
 
-    fun calculateStats(params: QueuingSystemParams): QueuingSystemStatsImpl {
+    fun calculateStats(params: MultichannelQueuingSystemParams): QueuingSystemStatsImpl {
         val stateProbabilities = getStateProbabilities(params)
         val fullSystemState = Pair(params.operatorsCount, params.queueMaxSize)
 
@@ -40,7 +42,7 @@ object QueueingSystemUtils {
         )
     }
 
-    private fun getStateProbabilities(params: QueuingSystemParams): StateProbabilityMap {
+    private fun getStateProbabilities(params: MultichannelQueuingSystemParams): StateProbabilityMap {
         val stateProbabilities = mutableMapOf<Pair<Int, Int>, Double>()
 
         val utilizationIntensity = params.clientsIntensity / params.processingIntensity
@@ -70,7 +72,7 @@ object QueueingSystemUtils {
     }
 
     private fun getEmptyStateProbability(
-        params: QueuingSystemParams,
+        params: MultichannelQueuingSystemParams,
         utilizationIntensity: Double,
         leavingIntensity: Double
     ): Double {

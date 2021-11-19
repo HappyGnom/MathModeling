@@ -1,9 +1,12 @@
-package lab2
+package queuing_system.multichannel
 
 import HOUR_IN_SECONDS
 import MINUTE_IN_SECONDS
+import queuing_system.QueuingSystemStats
+import queuing_system.StateProbabilitiesListMap
+import queuing_system.StateProbabilityMap
 
-data class QueuingSystemSimulatorStats(
+data class MultichannelQueuingSystemSimulatorStats(
     private val simulationSeconds: Int,
     private val operatorsCount: Int,
     private val queueMaxSize: Int,

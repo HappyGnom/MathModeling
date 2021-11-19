@@ -1,0 +1,2299 @@
+Average clients' count per hour: 30
+Operator's average serving time in minutes: 6
+
+00:00:00 - Simulation started
+00:02:12 - New client is coming
+00:02:12 - Client 324 is arriving
+00:02:12 - Operator is now serving client 324
+00:03:39 - New client is coming
+00:03:39 - Client 5033 is arriving
+00:03:39 - Client 5033 is rejected because operator is busy
+00:04:35 - New client is coming
+00:04:35 - Client 1098 is arriving
+00:04:35 - Client 1098 is rejected because operator is busy
+00:06:28 - New client is coming
+00:06:28 - Client 2317 is arriving
+00:06:28 - Client 2317 is rejected because operator is busy
+00:07:46 - New client is coming
+00:07:46 - Client 4785 is arriving
+00:07:46 - Client 4785 is rejected because operator is busy
+00:08:53 - New client is coming
+00:08:53 - Client 2095 is arriving
+00:08:53 - Client 2095 is rejected because operator is busy
+00:11:29 - New client is coming
+00:11:29 - Client 8386 is arriving
+00:11:29 - Client 8386 is rejected because operator is busy
+00:11:33 - New client is coming
+00:11:33 - Client 1889 is arriving
+00:11:33 - Client 1889 is rejected because operator is busy
+00:13:49 - New client is coming
+00:13:49 - Client 5488 is arriving
+00:13:49 - Client 5488 is rejected because operator is busy
+00:16:06 - New client is coming
+00:16:06 - Client 9809 is arriving
+00:16:06 - Client 9809 is rejected because operator is busy
+00:16:58 - Operator is now available
+00:19:38 - New client is coming
+00:19:38 - Client 9300 is arriving
+00:19:38 - Operator is now serving client 9300
+00:19:42 - New client is coming
+00:19:42 - Client 8519 is arriving
+00:19:42 - Client 8519 is rejected because operator is busy
+00:22:41 - New client is coming
+00:22:41 - Client 8181 is arriving
+00:22:41 - Client 8181 is rejected because operator is busy
+00:23:22 - New client is coming
+00:23:22 - Client 1346 is arriving
+00:23:22 - Client 1346 is rejected because operator is busy
+00:24:21 - Operator is now available
+00:28:02 - New client is coming
+00:28:02 - Client 5774 is arriving
+00:28:02 - Operator is now serving client 5774
+00:28:32 - New client is coming
+00:28:32 - Client 322 is arriving
+00:28:32 - Client 322 is rejected because operator is busy
+00:33:23 - Operator is now available
+00:34:50 - New client is coming
+00:34:50 - Client 999 is arriving
+00:34:50 - Operator is now serving client 999
+00:37:37 - Operator is now available
+00:38:29 - New client is coming
+00:38:29 - Client 4577 is arriving
+00:38:29 - Operator is now serving client 4577
+00:41:37 - New client is coming
+00:41:37 - Client 9857 is arriving
+00:41:37 - Client 9857 is rejected because operator is busy
+00:42:14 - New client is coming
+00:42:14 - Client 5137 is arriving
+00:42:14 - Client 5137 is rejected because operator is busy
+00:42:42 - Operator is now available
+00:43:12 - New client is coming
+00:43:12 - Client 4445 is arriving
+00:43:12 - Operator is now serving client 4445
+00:45:11 - New client is coming
+00:45:11 - Client 3781 is arriving
+00:45:11 - Client 3781 is rejected because operator is busy
+00:48:31 - New client is coming
+00:48:31 - Client 1796 is arriving
+00:48:31 - Client 1796 is rejected because operator is busy
+00:50:00 - New client is coming
+00:50:00 - Client 6342 is arriving
+00:50:00 - Client 6342 is rejected because operator is busy
+00:50:37 - New client is coming
+00:50:37 - Client 2673 is arriving
+00:50:37 - Client 2673 is rejected because operator is busy
+00:50:43 - Operator is now available
+00:55:20 - New client is coming
+00:55:20 - Client 2209 is arriving
+00:55:20 - Operator is now serving client 2209
+00:58:39 - New client is coming
+00:58:39 - Client 5167 is arriving
+00:58:39 - Client 5167 is rejected because operator is busy
+01:00:46 - New client is coming
+01:00:46 - Client 2610 is arriving
+01:00:46 - Client 2610 is rejected because operator is busy
+01:01:05 - New client is coming
+01:01:05 - Client 5882 is arriving
+01:01:05 - Client 5882 is rejected because operator is busy
+01:12:36 - New client is coming
+01:12:36 - Client 1663 is arriving
+01:12:36 - Client 1663 is rejected because operator is busy
+01:13:16 - Operator is now available
+01:14:22 - New client is coming
+01:14:22 - Client 8744 is arriving
+01:14:22 - Operator is now serving client 8744
+01:14:27 - New client is coming
+01:14:27 - Client 4548 is arriving
+01:14:27 - Client 4548 is rejected because operator is busy
+01:16:00 - New client is coming
+01:16:00 - Client 7100 is arriving
+01:16:00 - Client 7100 is rejected because operator is busy
+01:16:34 - Operator is now available
+01:18:33 - New client is coming
+01:18:33 - Client 3310 is arriving
+01:18:33 - Operator is now serving client 3310
+01:19:41 - New client is coming
+01:19:41 - Client 2555 is arriving
+01:19:41 - Client 2555 is rejected because operator is busy
+01:21:50 - New client is coming
+01:21:50 - Client 6664 is arriving
+01:21:50 - Client 6664 is rejected because operator is busy
+01:24:45 - New client is coming
+01:24:45 - Client 7103 is arriving
+01:24:45 - Client 7103 is rejected because operator is busy
+01:30:25 - Operator is now available
+01:31:09 - New client is coming
+01:31:09 - Client 4028 is arriving
+01:31:09 - Operator is now serving client 4028
+01:31:58 - New client is coming
+01:31:58 - Client 1487 is arriving
+01:31:58 - Client 1487 is rejected because operator is busy
+01:32:22 - New client is coming
+01:32:22 - Client 7203 is arriving
+01:32:22 - Client 7203 is rejected because operator is busy
+01:32:55 - New client is coming
+01:32:55 - Client 2861 is arriving
+01:32:55 - Client 2861 is rejected because operator is busy
+01:35:08 - New client is coming
+01:35:08 - Client 2166 is arriving
+01:35:08 - Client 2166 is rejected because operator is busy
+01:35:37 - New client is coming
+01:35:37 - Client 882 is arriving
+01:35:37 - Client 882 is rejected because operator is busy
+01:36:40 - New client is coming
+01:36:40 - Client 6425 is arriving
+01:36:40 - Client 6425 is rejected because operator is busy
+01:36:49 - Operator is now available
+01:42:58 - New client is coming
+01:42:58 - Client 5010 is arriving
+01:42:58 - Operator is now serving client 5010
+01:43:22 - New client is coming
+01:43:22 - Client 3786 is arriving
+01:43:22 - Client 3786 is rejected because operator is busy
+01:46:22 - New client is coming
+01:46:22 - Client 4030 is arriving
+01:46:22 - Client 4030 is rejected because operator is busy
+01:47:13 - New client is coming
+01:47:13 - Client 4034 is arriving
+01:47:13 - Client 4034 is rejected because operator is busy
+01:49:23 - New client is coming
+01:49:23 - Client 2538 is arriving
+01:49:23 - Client 2538 is rejected because operator is busy
+01:50:33 - Operator is now available
+01:51:56 - New client is coming
+01:51:56 - Client 6378 is arriving
+01:51:56 - Operator is now serving client 6378
+01:52:00 - New client is coming
+01:52:00 - Client 9899 is arriving
+01:52:00 - Client 9899 is rejected because operator is busy
+01:52:21 - New client is coming
+01:52:21 - Client 8402 is arriving
+01:52:21 - Client 8402 is rejected because operator is busy
+01:52:25 - New client is coming
+01:52:25 - Client 8022 is arriving
+01:52:25 - Client 8022 is rejected because operator is busy
+02:03:54 - New client is coming
+02:03:54 - Client 4443 is arriving
+02:03:54 - Client 4443 is rejected because operator is busy
+02:05:57 - Operator is now available
+02:06:26 - New client is coming
+02:06:26 - Client 473 is arriving
+02:06:26 - Operator is now serving client 473
+02:07:56 - Operator is now available
+02:10:27 - New client is coming
+02:10:27 - Client 4338 is arriving
+02:10:27 - Operator is now serving client 4338
+02:12:19 - New client is coming
+02:12:19 - Client 5589 is arriving
+02:12:19 - Client 5589 is rejected because operator is busy
+02:19:17 - New client is coming
+02:19:17 - Client 4580 is arriving
+02:19:17 - Client 4580 is rejected because operator is busy
+02:20:01 - New client is coming
+02:20:01 - Client 4345 is arriving
+02:20:01 - Client 4345 is rejected because operator is busy
+02:21:01 - New client is coming
+02:21:01 - Client 1260 is arriving
+02:21:01 - Client 1260 is rejected because operator is busy
+02:22:59 - Operator is now available
+02:28:36 - New client is coming
+02:28:36 - Client 345 is arriving
+02:28:36 - Operator is now serving client 345
+02:29:37 - New client is coming
+02:29:37 - Client 3613 is arriving
+02:29:37 - Client 3613 is rejected because operator is busy
+02:30:10 - New client is coming
+02:30:10 - Client 2079 is arriving
+02:30:10 - Client 2079 is rejected because operator is busy
+02:31:30 - Operator is now available
+02:31:36 - New client is coming
+02:31:36 - Client 9880 is arriving
+02:31:36 - Operator is now serving client 9880
+02:32:56 - New client is coming
+02:32:56 - Client 299 is arriving
+02:32:56 - Client 299 is rejected because operator is busy
+02:35:04 - New client is coming
+02:35:04 - Client 9079 is arriving
+02:35:04 - Client 9079 is rejected because operator is busy
+02:37:21 - New client is coming
+02:37:21 - Client 6386 is arriving
+02:37:21 - Client 6386 is rejected because operator is busy
+02:37:23 - New client is coming
+02:37:23 - Client 263 is arriving
+02:37:23 - Client 263 is rejected because operator is busy
+02:38:13 - Operator is now available
+02:40:25 - New client is coming
+02:40:25 - Client 4366 is arriving
+02:40:25 - Operator is now serving client 4366
+02:42:32 - Operator is now available
+02:43:15 - New client is coming
+02:43:15 - Client 8604 is arriving
+02:43:15 - Operator is now serving client 8604
+02:43:32 - Operator is now available
+02:44:17 - New client is coming
+02:44:17 - Client 7235 is arriving
+02:44:17 - Operator is now serving client 7235
+02:44:59 - New client is coming
+02:44:59 - Client 687 is arriving
+02:44:59 - Client 687 is rejected because operator is busy
+02:46:26 - Operator is now available
+02:50:42 - New client is coming
+02:50:42 - Client 8728 is arriving
+02:50:42 - Operator is now serving client 8728
+02:52:44 - New client is coming
+02:52:44 - Client 2449 is arriving
+02:52:44 - Client 2449 is rejected because operator is busy
+02:56:24 - New client is coming
+02:56:24 - Client 7194 is arriving
+02:56:24 - Client 7194 is rejected because operator is busy
+02:56:29 - New client is coming
+02:56:29 - Client 6683 is arriving
+02:56:29 - Client 6683 is rejected because operator is busy
+02:58:29 - New client is coming
+02:58:29 - Client 9554 is arriving
+02:58:29 - Client 9554 is rejected because operator is busy
+02:58:33 - Operator is now available
+03:01:30 - New client is coming
+03:01:30 - Client 463 is arriving
+03:01:30 - Operator is now serving client 463
+03:01:39 - New client is coming
+03:01:39 - Client 5069 is arriving
+03:01:39 - Client 5069 is rejected because operator is busy
+03:02:00 - New client is coming
+03:02:00 - Client 4142 is arriving
+03:02:00 - Client 4142 is rejected because operator is busy
+03:02:17 - New client is coming
+03:02:17 - Client 9810 is arriving
+03:02:17 - Client 9810 is rejected because operator is busy
+03:04:43 - New client is coming
+03:04:43 - Client 6459 is arriving
+03:04:43 - Client 6459 is rejected because operator is busy
+03:06:17 - New client is coming
+03:06:17 - Client 9733 is arriving
+03:06:17 - Client 9733 is rejected because operator is busy
+03:06:38 - Operator is now available
+03:07:45 - New client is coming
+03:07:45 - Client 7548 is arriving
+03:07:45 - Operator is now serving client 7548
+03:08:08 - New client is coming
+03:08:08 - Client 5018 is arriving
+03:08:08 - Client 5018 is rejected because operator is busy
+03:09:46 - Operator is now available
+03:10:01 - New client is coming
+03:10:01 - Client 5816 is arriving
+03:10:01 - Operator is now serving client 5816
+03:11:17 - Operator is now available
+03:12:04 - New client is coming
+03:12:04 - Client 454 is arriving
+03:12:04 - Operator is now serving client 454
+03:12:07 - New client is coming
+03:12:07 - Client 6553 is arriving
+03:12:07 - Client 6553 is rejected because operator is busy
+03:12:32 - New client is coming
+03:12:32 - Client 5014 is arriving
+03:12:32 - Client 5014 is rejected because operator is busy
+03:12:37 - New client is coming
+03:12:37 - Client 1334 is arriving
+03:12:37 - Client 1334 is rejected because operator is busy
+03:13:29 - New client is coming
+03:13:29 - Client 3887 is arriving
+03:13:29 - Client 3887 is rejected because operator is busy
+03:15:42 - Operator is now available
+03:16:17 - New client is coming
+03:16:17 - Client 2837 is arriving
+03:16:17 - Operator is now serving client 2837
+03:18:15 - Operator is now available
+03:23:22 - New client is coming
+03:23:22 - Client 5445 is arriving
+03:23:22 - Operator is now serving client 5445
+03:25:04 - New client is coming
+03:25:04 - Client 8815 is arriving
+03:25:04 - Client 8815 is rejected because operator is busy
+03:26:28 - New client is coming
+03:26:28 - Client 3417 is arriving
+03:26:28 - Client 3417 is rejected because operator is busy
+03:27:48 - Operator is now available
+03:29:08 - New client is coming
+03:29:08 - Client 2658 is arriving
+03:29:08 - Operator is now serving client 2658
+03:30:30 - New client is coming
+03:30:30 - Client 8425 is arriving
+03:30:30 - Client 8425 is rejected because operator is busy
+03:31:47 - New client is coming
+03:31:47 - Client 6476 is arriving
+03:31:47 - Client 6476 is rejected because operator is busy
+03:32:36 - New client is coming
+03:32:36 - Client 2862 is arriving
+03:32:36 - Client 2862 is rejected because operator is busy
+03:33:19 - Operator is now available
+03:33:50 - New client is coming
+03:33:50 - Client 7082 is arriving
+03:33:50 - Operator is now serving client 7082
+03:38:18 - New client is coming
+03:38:18 - Client 8281 is arriving
+03:38:18 - Client 8281 is rejected because operator is busy
+03:39:25 - Operator is now available
+03:41:57 - New client is coming
+03:41:57 - Client 6100 is arriving
+03:41:57 - Operator is now serving client 6100
+03:43:28 - New client is coming
+03:43:28 - Client 8284 is arriving
+03:43:28 - Client 8284 is rejected because operator is busy
+03:44:18 - Operator is now available
+03:44:18 - New client is coming
+03:44:18 - Client 6849 is arriving
+03:44:18 - Operator is now serving client 6849
+03:45:26 - New client is coming
+03:45:26 - Client 5872 is arriving
+03:45:26 - Client 5872 is rejected because operator is busy
+03:45:50 - New client is coming
+03:45:50 - Client 6649 is arriving
+03:45:50 - Client 6649 is rejected because operator is busy
+03:47:10 - Operator is now available
+03:47:58 - New client is coming
+03:47:58 - Client 9329 is arriving
+03:47:58 - Operator is now serving client 9329
+03:48:26 - New client is coming
+03:48:26 - Client 8415 is arriving
+03:48:26 - Client 8415 is rejected because operator is busy
+03:50:40 - New client is coming
+03:50:40 - Client 7205 is arriving
+03:50:40 - Client 7205 is rejected because operator is busy
+03:50:48 - New client is coming
+03:50:48 - Client 5157 is arriving
+03:50:48 - Client 5157 is rejected because operator is busy
+03:52:03 - Operator is now available
+03:54:14 - New client is coming
+03:54:14 - Client 3414 is arriving
+03:54:14 - Operator is now serving client 3414
+03:57:07 - Operator is now available
+03:57:55 - New client is coming
+03:57:55 - Client 4398 is arriving
+03:57:55 - Operator is now serving client 4398
+03:58:14 - Operator is now available
+04:03:55 - New client is coming
+04:03:55 - Client 9820 is arriving
+04:03:55 - Operator is now serving client 9820
+04:05:53 - New client is coming
+04:05:53 - Client 8507 is arriving
+04:05:53 - Client 8507 is rejected because operator is busy
+04:06:22 - New client is coming
+04:06:22 - Client 8179 is arriving
+04:06:22 - Client 8179 is rejected because operator is busy
+04:07:46 - Operator is now available
+04:08:42 - New client is coming
+04:08:42 - Client 8481 is arriving
+04:08:42 - Operator is now serving client 8481
+04:09:39 - New client is coming
+04:09:39 - Client 7876 is arriving
+04:09:39 - Client 7876 is rejected because operator is busy
+04:12:20 - New client is coming
+04:12:20 - Client 402 is arriving
+04:12:20 - Client 402 is rejected because operator is busy
+04:13:38 - New client is coming
+04:13:38 - Client 305 is arriving
+04:13:38 - Client 305 is rejected because operator is busy
+04:16:39 - New client is coming
+04:16:39 - Client 873 is arriving
+04:16:39 - Client 873 is rejected because operator is busy
+04:17:15 - New client is coming
+04:17:15 - Client 6558 is arriving
+04:17:15 - Client 6558 is rejected because operator is busy
+04:18:03 - New client is coming
+04:18:03 - Client 4137 is arriving
+04:18:03 - Client 4137 is rejected because operator is busy
+04:18:27 - New client is coming
+04:18:27 - Client 3070 is arriving
+04:18:27 - Client 3070 is rejected because operator is busy
+04:18:51 - Operator is now available
+04:20:28 - New client is coming
+04:20:28 - Client 2365 is arriving
+04:20:28 - Operator is now serving client 2365
+04:20:53 - New client is coming
+04:20:53 - Client 1242 is arriving
+04:20:53 - Client 1242 is rejected because operator is busy
+04:22:43 - New client is coming
+04:22:43 - Client 5194 is arriving
+04:22:43 - Client 5194 is rejected because operator is busy
+04:23:28 - New client is coming
+04:23:28 - Client 3983 is arriving
+04:23:28 - Client 3983 is rejected because operator is busy
+04:25:49 - New client is coming
+04:25:49 - Client 8959 is arriving
+04:25:49 - Client 8959 is rejected because operator is busy
+04:26:31 - New client is coming
+04:26:31 - Client 8277 is arriving
+04:26:31 - Client 8277 is rejected because operator is busy
+04:28:28 - New client is coming
+04:28:28 - Client 3009 is arriving
+04:28:28 - Client 3009 is rejected because operator is busy
+04:29:42 - New client is coming
+04:29:42 - Client 7445 is arriving
+04:29:42 - Client 7445 is rejected because operator is busy
+04:29:52 - New client is coming
+04:29:52 - Client 1314 is arriving
+04:29:52 - Client 1314 is rejected because operator is busy
+04:30:22 - Operator is now available
+04:31:19 - New client is coming
+04:31:19 - Client 4851 is arriving
+04:31:19 - Operator is now serving client 4851
+04:31:39 - New client is coming
+04:31:39 - Client 5013 is arriving
+04:31:39 - Client 5013 is rejected because operator is busy
+04:31:51 - Operator is now available
+04:33:01 - New client is coming
+04:33:01 - Client 4403 is arriving
+04:33:01 - Operator is now serving client 4403
+04:33:37 - New client is coming
+04:33:37 - Client 3746 is arriving
+04:33:37 - Client 3746 is rejected because operator is busy
+04:33:42 - New client is coming
+04:33:42 - Client 4000 is arriving
+04:33:42 - Client 4000 is rejected because operator is busy
+04:36:30 - New client is coming
+04:36:30 - Client 3769 is arriving
+04:36:30 - Client 3769 is rejected because operator is busy
+04:38:55 - Operator is now available
+04:40:52 - New client is coming
+04:40:52 - Client 6934 is arriving
+04:40:52 - Operator is now serving client 6934
+04:41:35 - Operator is now available
+04:42:29 - New client is coming
+04:42:29 - Client 7893 is arriving
+04:42:29 - Operator is now serving client 7893
+04:44:38 - New client is coming
+04:44:38 - Client 7882 is arriving
+04:44:38 - Client 7882 is rejected because operator is busy
+04:47:15 - Operator is now available
+04:49:45 - New client is coming
+04:49:45 - Client 3423 is arriving
+04:49:45 - Operator is now serving client 3423
+04:50:34 - New client is coming
+04:50:34 - Client 8478 is arriving
+04:50:34 - Client 8478 is rejected because operator is busy
+04:52:47 - New client is coming
+04:52:47 - Client 3526 is arriving
+04:52:47 - Client 3526 is rejected because operator is busy
+04:53:23 - Operator is now available
+04:53:50 - New client is coming
+04:53:50 - Client 3930 is arriving
+04:53:50 - Operator is now serving client 3930
+04:55:36 - New client is coming
+04:55:36 - Client 3863 is arriving
+04:55:36 - Client 3863 is rejected because operator is busy
+04:58:12 - New client is coming
+04:58:12 - Client 9770 is arriving
+04:58:12 - Client 9770 is rejected because operator is busy
+05:00:42 - New client is coming
+05:00:42 - Client 6680 is arriving
+05:00:42 - Client 6680 is rejected because operator is busy
+05:03:25 - Operator is now available
+05:03:27 - New client is coming
+05:03:27 - Client 4254 is arriving
+05:03:27 - Operator is now serving client 4254
+05:03:36 - New client is coming
+05:03:36 - Client 311 is arriving
+05:03:36 - Client 311 is rejected because operator is busy
+05:07:11 - New client is coming
+05:07:11 - Client 7579 is arriving
+05:07:11 - Client 7579 is rejected because operator is busy
+05:07:57 - New client is coming
+05:07:57 - Client 5007 is arriving
+05:07:57 - Client 5007 is rejected because operator is busy
+05:10:17 - Operator is now available
+05:10:29 - New client is coming
+05:10:29 - Client 9498 is arriving
+05:10:29 - Operator is now serving client 9498
+05:11:05 - New client is coming
+05:11:05 - Client 3148 is arriving
+05:11:05 - Client 3148 is rejected because operator is busy
+05:14:07 - New client is coming
+05:14:07 - Client 7007 is arriving
+05:14:07 - Client 7007 is rejected because operator is busy
+05:15:35 - New client is coming
+05:15:35 - Client 4295 is arriving
+05:15:35 - Client 4295 is rejected because operator is busy
+05:19:38 - New client is coming
+05:19:38 - Client 7130 is arriving
+05:19:38 - Client 7130 is rejected because operator is busy
+05:19:42 - New client is coming
+05:19:42 - Client 4078 is arriving
+05:19:42 - Client 4078 is rejected because operator is busy
+05:20:45 - New client is coming
+05:20:45 - Client 1518 is arriving
+05:20:45 - Client 1518 is rejected because operator is busy
+05:21:36 - New client is coming
+05:21:36 - Client 4927 is arriving
+05:21:36 - Client 4927 is rejected because operator is busy
+05:22:16 - New client is coming
+05:22:16 - Client 6949 is arriving
+05:22:16 - Client 6949 is rejected because operator is busy
+05:22:35 - New client is coming
+05:22:35 - Client 7662 is arriving
+05:22:35 - Client 7662 is rejected because operator is busy
+05:22:42 - New client is coming
+05:22:42 - Client 8120 is arriving
+05:22:42 - Client 8120 is rejected because operator is busy
+05:26:05 - New client is coming
+05:26:05 - Client 231 is arriving
+05:26:05 - Client 231 is rejected because operator is busy
+05:26:37 - New client is coming
+05:26:37 - Client 178 is arriving
+05:26:37 - Client 178 is rejected because operator is busy
+05:26:56 - New client is coming
+05:26:56 - Client 1044 is arriving
+05:26:56 - Client 1044 is rejected because operator is busy
+05:36:20 - Operator is now available
+05:39:34 - New client is coming
+05:39:34 - Client 8243 is arriving
+05:39:34 - Operator is now serving client 8243
+05:42:48 - Operator is now available
+05:43:43 - New client is coming
+05:43:43 - Client 5069 is arriving
+05:43:43 - Operator is now serving client 5069
+05:44:56 - New client is coming
+05:44:56 - Client 4965 is arriving
+05:44:56 - Client 4965 is rejected because operator is busy
+05:47:22 - New client is coming
+05:47:22 - Client 5819 is arriving
+05:47:22 - Client 5819 is rejected because operator is busy
+05:48:34 - Operator is now available
+05:48:40 - New client is coming
+05:48:40 - Client 7286 is arriving
+05:48:40 - Operator is now serving client 7286
+05:49:55 - New client is coming
+05:49:55 - Client 5712 is arriving
+05:49:55 - Client 5712 is rejected because operator is busy
+05:51:14 - New client is coming
+05:51:14 - Client 3999 is arriving
+05:51:14 - Client 3999 is rejected because operator is busy
+05:51:29 - Operator is now available
+05:52:18 - New client is coming
+05:52:18 - Client 939 is arriving
+05:52:18 - Operator is now serving client 939
+05:52:22 - Operator is now available
+05:53:03 - New client is coming
+05:53:03 - Client 4762 is arriving
+05:53:03 - Operator is now serving client 4762
+05:54:25 - New client is coming
+05:54:25 - Client 5805 is arriving
+05:54:25 - Client 5805 is rejected because operator is busy
+05:54:29 - New client is coming
+05:54:29 - Client 247 is arriving
+05:54:29 - Client 247 is rejected because operator is busy
+05:55:11 - New client is coming
+05:55:11 - Client 7876 is arriving
+05:55:11 - Client 7876 is rejected because operator is busy
+05:59:42 - New client is coming
+05:59:42 - Client 3639 is arriving
+05:59:42 - Client 3639 is rejected because operator is busy
+06:00:47 - Operator is now available
+06:05:33 - New client is coming
+06:05:33 - Client 7161 is arriving
+06:05:33 - Operator is now serving client 7161
+06:08:07 - New client is coming
+06:08:07 - Client 2127 is arriving
+06:08:07 - Client 2127 is rejected because operator is busy
+06:14:19 - New client is coming
+06:14:19 - Client 4725 is arriving
+06:14:19 - Client 4725 is rejected because operator is busy
+06:25:27 - New client is coming
+06:25:27 - Client 5173 is arriving
+06:25:27 - Client 5173 is rejected because operator is busy
+06:27:31 - Operator is now available
+06:30:44 - New client is coming
+06:30:44 - Client 1302 is arriving
+06:30:44 - Operator is now serving client 1302
+06:32:10 - Operator is now available
+06:37:28 - New client is coming
+06:37:28 - Client 2066 is arriving
+06:37:28 - Operator is now serving client 2066
+06:38:11 - Operator is now available
+06:39:04 - New client is coming
+06:39:04 - Client 1884 is arriving
+06:39:04 - Operator is now serving client 1884
+06:40:48 - New client is coming
+06:40:48 - Client 2913 is arriving
+06:40:48 - Client 2913 is rejected because operator is busy
+06:42:01 - New client is coming
+06:42:01 - Client 1882 is arriving
+06:42:01 - Client 1882 is rejected because operator is busy
+06:42:05 - New client is coming
+06:42:05 - Client 2995 is arriving
+06:42:05 - Client 2995 is rejected because operator is busy
+06:42:29 - New client is coming
+06:42:29 - Client 4102 is arriving
+06:42:29 - Client 4102 is rejected because operator is busy
+06:43:18 - New client is coming
+06:43:18 - Client 7276 is arriving
+06:43:18 - Client 7276 is rejected because operator is busy
+06:43:41 - New client is coming
+06:43:41 - Client 2965 is arriving
+06:43:41 - Client 2965 is rejected because operator is busy
+06:43:59 - Operator is now available
+06:50:08 - New client is coming
+06:50:08 - Client 5531 is arriving
+06:50:08 - Operator is now serving client 5531
+06:53:39 - Operator is now available
+06:55:43 - New client is coming
+06:55:43 - Client 1109 is arriving
+06:55:43 - Operator is now serving client 1109
+06:56:59 - New client is coming
+06:56:59 - Client 2335 is arriving
+06:56:59 - Client 2335 is rejected because operator is busy
+06:57:07 - New client is coming
+06:57:07 - Client 6732 is arriving
+06:57:07 - Client 6732 is rejected because operator is busy
+06:57:41 - New client is coming
+06:57:41 - Client 6308 is arriving
+06:57:41 - Client 6308 is rejected because operator is busy
+06:57:59 - New client is coming
+06:57:59 - Client 6885 is arriving
+06:57:59 - Client 6885 is rejected because operator is busy
+06:58:06 - Operator is now available
+07:01:04 - New client is coming
+07:01:04 - Client 4718 is arriving
+07:01:04 - Operator is now serving client 4718
+07:06:27 - New client is coming
+07:06:27 - Client 3625 is arriving
+07:06:27 - Client 3625 is rejected because operator is busy
+07:06:29 - New client is coming
+07:06:29 - Client 7792 is arriving
+07:06:29 - Client 7792 is rejected because operator is busy
+07:11:02 - New client is coming
+07:11:02 - Client 1963 is arriving
+07:11:02 - Client 1963 is rejected because operator is busy
+07:11:05 - Operator is now available
+07:14:40 - New client is coming
+07:14:40 - Client 278 is arriving
+07:14:40 - Operator is now serving client 278
+07:16:03 - Operator is now available
+07:18:58 - New client is coming
+07:18:58 - Client 6341 is arriving
+07:18:58 - Operator is now serving client 6341
+07:25:25 - New client is coming
+07:25:25 - Client 2360 is arriving
+07:25:25 - Client 2360 is rejected because operator is busy
+07:25:37 - New client is coming
+07:25:37 - Client 3445 is arriving
+07:25:37 - Client 3445 is rejected because operator is busy
+07:32:11 - New client is coming
+07:32:11 - Client 8264 is arriving
+07:32:11 - Client 8264 is rejected because operator is busy
+07:32:34 - New client is coming
+07:32:34 - Client 3018 is arriving
+07:32:34 - Client 3018 is rejected because operator is busy
+07:33:11 - New client is coming
+07:33:11 - Client 3775 is arriving
+07:33:11 - Client 3775 is rejected because operator is busy
+07:34:35 - New client is coming
+07:34:35 - Client 7872 is arriving
+07:34:35 - Client 7872 is rejected because operator is busy
+07:36:24 - Operator is now available
+07:36:59 - New client is coming
+07:36:59 - Client 2031 is arriving
+07:36:59 - Operator is now serving client 2031
+07:42:23 - New client is coming
+07:42:23 - Client 5847 is arriving
+07:42:23 - Client 5847 is rejected because operator is busy
+07:43:15 - New client is coming
+07:43:15 - Client 8138 is arriving
+07:43:15 - Client 8138 is rejected because operator is busy
+07:44:23 - Operator is now available
+07:45:36 - New client is coming
+07:45:36 - Client 4383 is arriving
+07:45:36 - Operator is now serving client 4383
+07:48:26 - New client is coming
+07:48:26 - Client 7167 is arriving
+07:48:26 - Client 7167 is rejected because operator is busy
+07:51:06 - Operator is now available
+07:55:27 - New client is coming
+07:55:27 - Client 6506 is arriving
+07:55:27 - Operator is now serving client 6506
+07:55:39 - New client is coming
+07:55:39 - Client 6148 is arriving
+07:55:39 - Client 6148 is rejected because operator is busy
+07:56:02 - New client is coming
+07:56:02 - Client 5090 is arriving
+07:56:02 - Client 5090 is rejected because operator is busy
+07:57:48 - New client is coming
+07:57:48 - Client 1331 is arriving
+07:57:48 - Client 1331 is rejected because operator is busy
+07:58:12 - New client is coming
+07:58:12 - Client 7762 is arriving
+07:58:12 - Client 7762 is rejected because operator is busy
+07:58:49 - Operator is now available
+08:00:34 - New client is coming
+08:00:34 - Client 5367 is arriving
+08:00:34 - Operator is now serving client 5367
+08:00:43 - New client is coming
+08:00:43 - Client 9644 is arriving
+08:00:43 - Client 9644 is rejected because operator is busy
+08:03:50 - Operator is now available
+08:05:17 - New client is coming
+08:05:17 - Client 5068 is arriving
+08:05:17 - Operator is now serving client 5068
+08:06:51 - Operator is now available
+08:07:46 - New client is coming
+08:07:46 - Client 918 is arriving
+08:07:46 - Operator is now serving client 918
+08:08:14 - Operator is now available
+08:19:07 - New client is coming
+08:19:07 - Client 2711 is arriving
+08:19:07 - Operator is now serving client 2711
+08:20:22 - New client is coming
+08:20:22 - Client 8326 is arriving
+08:20:22 - Client 8326 is rejected because operator is busy
+08:22:26 - New client is coming
+08:22:26 - Client 6382 is arriving
+08:22:26 - Client 6382 is rejected because operator is busy
+08:23:01 - New client is coming
+08:23:01 - Client 8976 is arriving
+08:23:01 - Client 8976 is rejected because operator is busy
+08:25:21 - Operator is now available
+08:30:59 - New client is coming
+08:30:59 - Client 1103 is arriving
+08:30:59 - Operator is now serving client 1103
+08:31:19 - New client is coming
+08:31:19 - Client 1405 is arriving
+08:31:19 - Client 1405 is rejected because operator is busy
+08:31:52 - Operator is now available
+08:33:26 - New client is coming
+08:33:26 - Client 4645 is arriving
+08:33:26 - Operator is now serving client 4645
+08:34:12 - New client is coming
+08:34:12 - Client 6218 is arriving
+08:34:12 - Client 6218 is rejected because operator is busy
+08:36:27 - New client is coming
+08:36:27 - Client 2670 is arriving
+08:36:27 - Client 2670 is rejected because operator is busy
+08:37:16 - New client is coming
+08:37:16 - Client 4020 is arriving
+08:37:16 - Client 4020 is rejected because operator is busy
+08:38:33 - New client is coming
+08:38:33 - Client 8322 is arriving
+08:38:33 - Client 8322 is rejected because operator is busy
+08:38:50 - New client is coming
+08:38:50 - Client 5648 is arriving
+08:38:50 - Client 5648 is rejected because operator is busy
+08:39:44 - New client is coming
+08:39:44 - Client 2243 is arriving
+08:39:44 - Client 2243 is rejected because operator is busy
+08:43:42 - New client is coming
+08:43:42 - Client 5090 is arriving
+08:43:42 - Client 5090 is rejected because operator is busy
+08:44:29 - New client is coming
+08:44:29 - Client 5054 is arriving
+08:44:29 - Client 5054 is rejected because operator is busy
+08:45:30 - New client is coming
+08:45:30 - Client 2510 is arriving
+08:45:30 - Client 2510 is rejected because operator is busy
+08:45:39 - New client is coming
+08:45:39 - Client 9456 is arriving
+08:45:39 - Client 9456 is rejected because operator is busy
+08:47:05 - New client is coming
+08:47:05 - Client 8614 is arriving
+08:47:05 - Client 8614 is rejected because operator is busy
+08:48:02 - Operator is now available
+08:51:33 - New client is coming
+08:51:33 - Client 5649 is arriving
+08:51:33 - Operator is now serving client 5649
+08:52:00 - New client is coming
+08:52:00 - Client 2130 is arriving
+08:52:00 - Client 2130 is rejected because operator is busy
+08:52:17 - New client is coming
+08:52:17 - Client 1483 is arriving
+08:52:17 - Client 1483 is rejected because operator is busy
+08:54:45 - New client is coming
+08:54:45 - Client 7884 is arriving
+08:54:45 - Client 7884 is rejected because operator is busy
+08:54:56 - New client is coming
+08:54:56 - Client 2207 is arriving
+08:54:56 - Client 2207 is rejected because operator is busy
+08:55:46 - New client is coming
+08:55:46 - Client 9693 is arriving
+08:55:46 - Client 9693 is rejected because operator is busy
+08:56:48 - New client is coming
+08:56:48 - Client 8648 is arriving
+08:56:48 - Client 8648 is rejected because operator is busy
+08:57:25 - Operator is now available
+09:01:16 - New client is coming
+09:01:16 - Client 7135 is arriving
+09:01:16 - Operator is now serving client 7135
+09:02:20 - Operator is now available
+09:04:08 - New client is coming
+09:04:08 - Client 8483 is arriving
+09:04:08 - Operator is now serving client 8483
+09:09:45 - New client is coming
+09:09:45 - Client 5526 is arriving
+09:09:45 - Client 5526 is rejected because operator is busy
+09:12:13 - New client is coming
+09:12:13 - Client 1197 is arriving
+09:12:13 - Client 1197 is rejected because operator is busy
+09:12:22 - New client is coming
+09:12:22 - Client 3088 is arriving
+09:12:22 - Client 3088 is rejected because operator is busy
+09:14:29 - New client is coming
+09:14:29 - Client 7897 is arriving
+09:14:29 - Client 7897 is rejected because operator is busy
+09:15:30 - New client is coming
+09:15:30 - Client 4726 is arriving
+09:15:30 - Client 4726 is rejected because operator is busy
+09:16:36 - New client is coming
+09:16:36 - Client 7960 is arriving
+09:16:36 - Client 7960 is rejected because operator is busy
+09:16:57 - New client is coming
+09:16:57 - Client 4342 is arriving
+09:16:57 - Client 4342 is rejected because operator is busy
+09:17:26 - Operator is now available
+09:21:00 - New client is coming
+09:21:00 - Client 5457 is arriving
+09:21:00 - Operator is now serving client 5457
+09:22:32 - Operator is now available
+09:23:53 - New client is coming
+09:23:53 - Client 8060 is arriving
+09:23:53 - Operator is now serving client 8060
+09:24:33 - New client is coming
+09:24:33 - Client 6891 is arriving
+09:24:33 - Client 6891 is rejected because operator is busy
+09:25:04 - Operator is now available
+09:25:18 - New client is coming
+09:25:18 - Client 4807 is arriving
+09:25:18 - Operator is now serving client 4807
+09:25:19 - New client is coming
+09:25:19 - Client 1064 is arriving
+09:25:19 - Client 1064 is rejected because operator is busy
+09:27:09 - Operator is now available
+09:28:44 - New client is coming
+09:28:44 - Client 9612 is arriving
+09:28:44 - Operator is now serving client 9612
+09:30:39 - Operator is now available
+09:33:53 - New client is coming
+09:33:53 - Client 3439 is arriving
+09:33:53 - Operator is now serving client 3439
+09:36:31 - New client is coming
+09:36:31 - Client 3877 is arriving
+09:36:31 - Client 3877 is rejected because operator is busy
+09:37:34 - New client is coming
+09:37:34 - Client 3154 is arriving
+09:37:34 - Client 3154 is rejected because operator is busy
+09:38:37 - New client is coming
+09:38:37 - Client 5853 is arriving
+09:38:37 - Client 5853 is rejected because operator is busy
+09:39:12 - New client is coming
+09:39:12 - Client 8259 is arriving
+09:39:12 - Client 8259 is rejected because operator is busy
+09:40:01 - Operator is now available
+09:44:00 - New client is coming
+09:44:00 - Client 3173 is arriving
+09:44:00 - Operator is now serving client 3173
+09:44:18 - New client is coming
+09:44:18 - Client 6557 is arriving
+09:44:18 - Client 6557 is rejected because operator is busy
+09:45:00 - New client is coming
+09:45:00 - Client 1227 is arriving
+09:45:00 - Client 1227 is rejected because operator is busy
+09:45:11 - New client is coming
+09:45:11 - Client 8632 is arriving
+09:45:11 - Client 8632 is rejected because operator is busy
+09:51:13 - New client is coming
+09:51:13 - Client 726 is arriving
+09:51:13 - Client 726 is rejected because operator is busy
+09:52:43 - New client is coming
+09:52:43 - Client 285 is arriving
+09:52:43 - Client 285 is rejected because operator is busy
+09:52:44 - New client is coming
+09:52:44 - Client 5309 is arriving
+09:52:44 - Client 5309 is rejected because operator is busy
+09:53:18 - Operator is now available
+09:53:22 - New client is coming
+09:53:22 - Client 7372 is arriving
+09:53:22 - Operator is now serving client 7372
+09:54:12 - New client is coming
+09:54:12 - Client 5601 is arriving
+09:54:12 - Client 5601 is rejected because operator is busy
+09:54:53 - New client is coming
+09:54:53 - Client 3376 is arriving
+09:54:53 - Client 3376 is rejected because operator is busy
+09:56:50 - Operator is now available
+09:58:58 - New client is coming
+09:58:58 - Client 6288 is arriving
+09:58:58 - Operator is now serving client 6288
+09:59:09 - New client is coming
+09:59:09 - Client 3552 is arriving
+09:59:09 - Client 3552 is rejected because operator is busy
+09:59:20 - New client is coming
+09:59:20 - Client 1014 is arriving
+09:59:20 - Client 1014 is rejected because operator is busy
+10:01:43 - New client is coming
+10:01:43 - Client 4872 is arriving
+10:01:43 - Client 4872 is rejected because operator is busy
+10:02:06 - New client is coming
+10:02:06 - Client 9205 is arriving
+10:02:06 - Client 9205 is rejected because operator is busy
+10:02:40 - New client is coming
+10:02:40 - Client 5153 is arriving
+10:02:40 - Client 5153 is rejected because operator is busy
+10:03:23 - Operator is now available
+10:06:05 - New client is coming
+10:06:05 - Client 9405 is arriving
+10:06:05 - Operator is now serving client 9405
+10:06:51 - New client is coming
+10:06:51 - Client 5382 is arriving
+10:06:51 - Client 5382 is rejected because operator is busy
+10:07:17 - Operator is now available
+10:07:23 - New client is coming
+10:07:23 - Client 5703 is arriving
+10:07:23 - Operator is now serving client 5703
+10:09:48 - Operator is now available
+10:09:54 - New client is coming
+10:09:54 - Client 204 is arriving
+10:09:54 - Operator is now serving client 204
+10:10:56 - New client is coming
+10:10:56 - Client 6465 is arriving
+10:10:56 - Client 6465 is rejected because operator is busy
+10:11:27 - New client is coming
+10:11:27 - Client 1763 is arriving
+10:11:27 - Client 1763 is rejected because operator is busy
+10:12:13 - New client is coming
+10:12:13 - Client 8847 is arriving
+10:12:13 - Client 8847 is rejected because operator is busy
+10:13:26 - New client is coming
+10:13:26 - Client 7215 is arriving
+10:13:26 - Client 7215 is rejected because operator is busy
+10:14:26 - Operator is now available
+10:15:04 - New client is coming
+10:15:04 - Client 8743 is arriving
+10:15:04 - Operator is now serving client 8743
+10:15:49 - New client is coming
+10:15:49 - Client 8126 is arriving
+10:15:49 - Client 8126 is rejected because operator is busy
+10:15:51 - New client is coming
+10:15:51 - Client 5565 is arriving
+10:15:51 - Client 5565 is rejected because operator is busy
+10:16:20 - New client is coming
+10:16:20 - Client 3588 is arriving
+10:16:20 - Client 3588 is rejected because operator is busy
+10:19:43 - New client is coming
+10:19:43 - Client 7660 is arriving
+10:19:43 - Client 7660 is rejected because operator is busy
+10:20:13 - New client is coming
+10:20:13 - Client 376 is arriving
+10:20:13 - Client 376 is rejected because operator is busy
+10:21:17 - New client is coming
+10:21:17 - Client 6502 is arriving
+10:21:17 - Client 6502 is rejected because operator is busy
+10:21:38 - New client is coming
+10:21:38 - Client 312 is arriving
+10:21:38 - Client 312 is rejected because operator is busy
+10:21:58 - Operator is now available
+10:26:48 - New client is coming
+10:26:48 - Client 9372 is arriving
+10:26:48 - Operator is now serving client 9372
+10:27:04 - New client is coming
+10:27:04 - Client 3211 is arriving
+10:27:04 - Client 3211 is rejected because operator is busy
+10:28:19 - New client is coming
+10:28:19 - Client 3717 is arriving
+10:28:19 - Client 3717 is rejected because operator is busy
+10:28:38 - Operator is now available
+10:30:33 - New client is coming
+10:30:33 - Client 7163 is arriving
+10:30:33 - Operator is now serving client 7163
+10:31:42 - New client is coming
+10:31:42 - Client 9339 is arriving
+10:31:42 - Client 9339 is rejected because operator is busy
+10:32:54 - New client is coming
+10:32:54 - Client 6028 is arriving
+10:32:54 - Client 6028 is rejected because operator is busy
+10:33:09 - New client is coming
+10:33:09 - Client 353 is arriving
+10:33:09 - Client 353 is rejected because operator is busy
+10:33:22 - New client is coming
+10:33:22 - Client 9097 is arriving
+10:33:22 - Client 9097 is rejected because operator is busy
+10:34:39 - Operator is now available
+10:36:20 - New client is coming
+10:36:20 - Client 3742 is arriving
+10:36:20 - Operator is now serving client 3742
+10:37:53 - New client is coming
+10:37:53 - Client 1721 is arriving
+10:37:53 - Client 1721 is rejected because operator is busy
+10:39:13 - Operator is now available
+10:39:54 - New client is coming
+10:39:54 - Client 4461 is arriving
+10:39:54 - Operator is now serving client 4461
+10:40:43 - New client is coming
+10:40:43 - Client 1326 is arriving
+10:40:43 - Client 1326 is rejected because operator is busy
+10:43:10 - New client is coming
+10:43:10 - Client 3388 is arriving
+10:43:10 - Client 3388 is rejected because operator is busy
+10:46:19 - New client is coming
+10:46:19 - Client 1516 is arriving
+10:46:19 - Client 1516 is rejected because operator is busy
+10:46:22 - New client is coming
+10:46:22 - Client 9609 is arriving
+10:46:22 - Client 9609 is rejected because operator is busy
+10:48:32 - New client is coming
+10:48:32 - Client 4121 is arriving
+10:48:32 - Client 4121 is rejected because operator is busy
+10:48:50 - New client is coming
+10:48:50 - Client 7420 is arriving
+10:48:50 - Client 7420 is rejected because operator is busy
+10:49:01 - Operator is now available
+10:52:35 - New client is coming
+10:52:35 - Client 1676 is arriving
+10:52:35 - Operator is now serving client 1676
+10:53:09 - New client is coming
+10:53:09 - Client 9016 is arriving
+10:53:09 - Client 9016 is rejected because operator is busy
+10:53:42 - New client is coming
+10:53:42 - Client 7889 is arriving
+10:53:42 - Client 7889 is rejected because operator is busy
+10:54:36 - New client is coming
+10:54:36 - Client 402 is arriving
+10:54:36 - Client 402 is rejected because operator is busy
+10:54:56 - New client is coming
+10:54:56 - Client 3382 is arriving
+10:54:56 - Client 3382 is rejected because operator is busy
+11:01:50 - Operator is now available
+11:03:37 - New client is coming
+11:03:37 - Client 293 is arriving
+11:03:37 - Operator is now serving client 293
+11:06:52 - New client is coming
+11:06:52 - Client 512 is arriving
+11:06:52 - Client 512 is rejected because operator is busy
+11:08:42 - Operator is now available
+11:12:00 - New client is coming
+11:12:00 - Client 5935 is arriving
+11:12:00 - Operator is now serving client 5935
+11:17:18 - New client is coming
+11:17:18 - Client 5390 is arriving
+11:17:18 - Client 5390 is rejected because operator is busy
+11:18:38 - New client is coming
+11:18:38 - Client 7428 is arriving
+11:18:38 - Client 7428 is rejected because operator is busy
+11:21:36 - New client is coming
+11:21:36 - Client 1865 is arriving
+11:21:36 - Client 1865 is rejected because operator is busy
+11:22:57 - Operator is now available
+11:24:23 - New client is coming
+11:24:23 - Client 5500 is arriving
+11:24:23 - Operator is now serving client 5500
+11:28:24 - New client is coming
+11:28:24 - Client 8630 is arriving
+11:28:24 - Client 8630 is rejected because operator is busy
+11:29:07 - New client is coming
+11:29:07 - Client 5236 is arriving
+11:29:07 - Client 5236 is rejected because operator is busy
+11:30:19 - New client is coming
+11:30:19 - Client 902 is arriving
+11:30:19 - Client 902 is rejected because operator is busy
+11:30:40 - Operator is now available
+11:39:00 - New client is coming
+11:39:00 - Client 4389 is arriving
+11:39:00 - Operator is now serving client 4389
+11:39:01 - New client is coming
+11:39:01 - Client 8800 is arriving
+11:39:01 - Client 8800 is rejected because operator is busy
+11:40:47 - New client is coming
+11:40:47 - Client 8174 is arriving
+11:40:47 - Client 8174 is rejected because operator is busy
+11:42:13 - New client is coming
+11:42:13 - Client 8197 is arriving
+11:42:13 - Client 8197 is rejected because operator is busy
+11:42:41 - Operator is now available
+11:45:00 - New client is coming
+11:45:00 - Client 1071 is arriving
+11:45:00 - Operator is now serving client 1071
+11:51:40 - Operator is now available
+11:53:42 - New client is coming
+11:53:42 - Client 5926 is arriving
+11:53:42 - Operator is now serving client 5926
+11:56:15 - New client is coming
+11:56:15 - Client 3067 is arriving
+11:56:15 - Client 3067 is rejected because operator is busy
+11:56:25 - New client is coming
+11:56:25 - Client 6881 is arriving
+11:56:25 - Client 6881 is rejected because operator is busy
+11:57:50 - New client is coming
+11:57:50 - Client 7312 is arriving
+11:57:50 - Client 7312 is rejected because operator is busy
+12:00:52 - New client is coming
+12:00:52 - Client 221 is arriving
+12:00:52 - Client 221 is rejected because operator is busy
+12:04:18 - New client is coming
+12:04:18 - Client 168 is arriving
+12:04:18 - Client 168 is rejected because operator is busy
+12:05:17 - Operator is now available
+12:08:14 - New client is coming
+12:08:14 - Client 7623 is arriving
+12:08:14 - Operator is now serving client 7623
+12:09:01 - New client is coming
+12:09:01 - Client 8971 is arriving
+12:09:01 - Client 8971 is rejected because operator is busy
+12:09:10 - New client is coming
+12:09:10 - Client 7098 is arriving
+12:09:10 - Client 7098 is rejected because operator is busy
+12:10:07 - New client is coming
+12:10:07 - Client 660 is arriving
+12:10:07 - Client 660 is rejected because operator is busy
+12:10:45 - Operator is now available
+12:12:40 - New client is coming
+12:12:40 - Client 7440 is arriving
+12:12:40 - Operator is now serving client 7440
+12:13:06 - Operator is now available
+12:20:37 - New client is coming
+12:20:37 - Client 7824 is arriving
+12:20:37 - Operator is now serving client 7824
+12:23:32 - Operator is now available
+12:24:13 - New client is coming
+12:24:13 - Client 733 is arriving
+12:24:13 - Operator is now serving client 733
+12:26:14 - New client is coming
+12:26:14 - Client 3794 is arriving
+12:26:14 - Client 3794 is rejected because operator is busy
+12:28:52 - Operator is now available
+12:32:36 - New client is coming
+12:32:36 - Client 3386 is arriving
+12:32:36 - Operator is now serving client 3386
+12:34:38 - New client is coming
+12:34:38 - Client 875 is arriving
+12:34:38 - Client 875 is rejected because operator is busy
+12:35:02 - New client is coming
+12:35:02 - Client 8161 is arriving
+12:35:02 - Client 8161 is rejected because operator is busy
+12:35:15 - Operator is now available
+12:38:00 - New client is coming
+12:38:00 - Client 6990 is arriving
+12:38:00 - Operator is now serving client 6990
+12:38:41 - New client is coming
+12:38:41 - Client 2102 is arriving
+12:38:41 - Client 2102 is rejected because operator is busy
+12:40:48 - New client is coming
+12:40:48 - Client 5520 is arriving
+12:40:48 - Client 5520 is rejected because operator is busy
+12:41:26 - New client is coming
+12:41:26 - Client 7376 is arriving
+12:41:26 - Client 7376 is rejected because operator is busy
+12:43:00 - New client is coming
+12:43:00 - Client 5306 is arriving
+12:43:00 - Client 5306 is rejected because operator is busy
+12:47:57 - Operator is now available
+12:50:57 - New client is coming
+12:50:57 - Client 9346 is arriving
+12:50:57 - Operator is now serving client 9346
+12:51:11 - New client is coming
+12:51:11 - Client 9199 is arriving
+12:51:11 - Client 9199 is rejected because operator is busy
+12:56:28 - New client is coming
+12:56:28 - Client 8446 is arriving
+12:56:28 - Client 8446 is rejected because operator is busy
+12:58:08 - New client is coming
+12:58:08 - Client 2642 is arriving
+12:58:08 - Client 2642 is rejected because operator is busy
+12:59:30 - New client is coming
+12:59:30 - Client 3236 is arriving
+12:59:30 - Client 3236 is rejected because operator is busy
+12:59:37 - New client is coming
+12:59:37 - Client 9664 is arriving
+12:59:37 - Client 9664 is rejected because operator is busy
+13:01:09 - Operator is now available
+13:01:26 - New client is coming
+13:01:26 - Client 1676 is arriving
+13:01:26 - Operator is now serving client 1676
+13:01:53 - New client is coming
+13:01:53 - Client 6375 is arriving
+13:01:53 - Client 6375 is rejected because operator is busy
+13:02:08 - New client is coming
+13:02:08 - Client 2920 is arriving
+13:02:08 - Client 2920 is rejected because operator is busy
+13:03:31 - New client is coming
+13:03:31 - Client 1532 is arriving
+13:03:31 - Client 1532 is rejected because operator is busy
+13:04:11 - New client is coming
+13:04:11 - Client 6418 is arriving
+13:04:11 - Client 6418 is rejected because operator is busy
+13:05:41 - New client is coming
+13:05:41 - Client 4077 is arriving
+13:05:41 - Client 4077 is rejected because operator is busy
+13:05:56 - New client is coming
+13:05:56 - Client 6230 is arriving
+13:05:56 - Client 6230 is rejected because operator is busy
+13:06:11 - New client is coming
+13:06:11 - Client 2851 is arriving
+13:06:11 - Client 2851 is rejected because operator is busy
+13:12:29 - Operator is now available
+13:16:15 - New client is coming
+13:16:15 - Client 2660 is arriving
+13:16:15 - Operator is now serving client 2660
+13:20:31 - Operator is now available
+13:20:41 - New client is coming
+13:20:41 - Client 9329 is arriving
+13:20:41 - Operator is now serving client 9329
+13:21:54 - New client is coming
+13:21:54 - Client 4735 is arriving
+13:21:54 - Client 4735 is rejected because operator is busy
+13:23:00 - Operator is now available
+13:24:01 - New client is coming
+13:24:01 - Client 8522 is arriving
+13:24:01 - Operator is now serving client 8522
+13:27:26 - Operator is now available
+13:27:54 - New client is coming
+13:27:54 - Client 8954 is arriving
+13:27:54 - Operator is now serving client 8954
+13:28:28 - New client is coming
+13:28:28 - Client 8916 is arriving
+13:28:28 - Client 8916 is rejected because operator is busy
+13:29:47 - New client is coming
+13:29:47 - Client 7027 is arriving
+13:29:47 - Client 7027 is rejected because operator is busy
+13:30:11 - New client is coming
+13:30:11 - Client 4404 is arriving
+13:30:11 - Client 4404 is rejected because operator is busy
+13:35:19 - New client is coming
+13:35:19 - Client 913 is arriving
+13:35:19 - Client 913 is rejected because operator is busy
+13:36:44 - New client is coming
+13:36:44 - Client 1580 is arriving
+13:36:44 - Client 1580 is rejected because operator is busy
+13:37:48 - Operator is now available
+13:41:32 - New client is coming
+13:41:32 - Client 5579 is arriving
+13:41:32 - Operator is now serving client 5579
+13:42:34 - New client is coming
+13:42:34 - Client 8647 is arriving
+13:42:34 - Client 8647 is rejected because operator is busy
+13:43:49 - Operator is now available
+13:46:48 - New client is coming
+13:46:48 - Client 5400 is arriving
+13:46:48 - Operator is now serving client 5400
+13:49:12 - New client is coming
+13:49:12 - Client 3762 is arriving
+13:49:12 - Client 3762 is rejected because operator is busy
+13:51:01 - Operator is now available
+13:51:35 - New client is coming
+13:51:35 - Client 5128 is arriving
+13:51:35 - Operator is now serving client 5128
+13:54:50 - New client is coming
+13:54:50 - Client 4351 is arriving
+13:54:50 - Client 4351 is rejected because operator is busy
+13:55:55 - New client is coming
+13:55:55 - Client 8583 is arriving
+13:55:55 - Client 8583 is rejected because operator is busy
+13:56:41 - New client is coming
+13:56:41 - Client 4271 is arriving
+13:56:41 - Client 4271 is rejected because operator is busy
+13:57:51 - New client is coming
+13:57:51 - Client 2721 is arriving
+13:57:51 - Client 2721 is rejected because operator is busy
+13:59:38 - New client is coming
+13:59:38 - Client 266 is arriving
+13:59:38 - Client 266 is rejected because operator is busy
+14:01:07 - Operator is now available
+14:03:33 - New client is coming
+14:03:33 - Client 5071 is arriving
+14:03:33 - Operator is now serving client 5071
+14:04:19 - New client is coming
+14:04:19 - Client 7006 is arriving
+14:04:19 - Client 7006 is rejected because operator is busy
+14:06:45 - New client is coming
+14:06:45 - Client 1215 is arriving
+14:06:45 - Client 1215 is rejected because operator is busy
+14:09:29 - New client is coming
+14:09:29 - Client 9124 is arriving
+14:09:29 - Client 9124 is rejected because operator is busy
+14:11:31 - Operator is now available
+14:12:42 - New client is coming
+14:12:42 - Client 3052 is arriving
+14:12:42 - Operator is now serving client 3052
+14:18:24 - New client is coming
+14:18:24 - Client 8307 is arriving
+14:18:24 - Client 8307 is rejected because operator is busy
+14:21:33 - New client is coming
+14:21:33 - Client 6421 is arriving
+14:21:33 - Client 6421 is rejected because operator is busy
+14:21:34 - New client is coming
+14:21:34 - Client 5189 is arriving
+14:21:34 - Client 5189 is rejected because operator is busy
+14:21:40 - New client is coming
+14:21:40 - Client 7460 is arriving
+14:21:40 - Client 7460 is rejected because operator is busy
+14:22:24 - New client is coming
+14:22:24 - Client 6414 is arriving
+14:22:24 - Client 6414 is rejected because operator is busy
+14:22:27 - Operator is now available
+14:22:40 - New client is coming
+14:22:40 - Client 4631 is arriving
+14:22:40 - Operator is now serving client 4631
+14:25:42 - New client is coming
+14:25:42 - Client 8475 is arriving
+14:25:42 - Client 8475 is rejected because operator is busy
+14:28:01 - Operator is now available
+14:33:23 - New client is coming
+14:33:23 - Client 948 is arriving
+14:33:23 - Operator is now serving client 948
+14:33:52 - New client is coming
+14:33:52 - Client 8231 is arriving
+14:33:52 - Client 8231 is rejected because operator is busy
+14:36:08 - New client is coming
+14:36:08 - Client 427 is arriving
+14:36:08 - Client 427 is rejected because operator is busy
+14:37:34 - Operator is now available
+14:37:48 - New client is coming
+14:37:48 - Client 8681 is arriving
+14:37:48 - Operator is now serving client 8681
+14:39:28 - New client is coming
+14:39:28 - Client 6476 is arriving
+14:39:28 - Client 6476 is rejected because operator is busy
+14:40:06 - Operator is now available
+14:42:55 - New client is coming
+14:42:55 - Client 5889 is arriving
+14:42:55 - Operator is now serving client 5889
+14:47:09 - Operator is now available
+14:48:06 - New client is coming
+14:48:06 - Client 633 is arriving
+14:48:06 - Operator is now serving client 633
+14:49:22 - New client is coming
+14:49:22 - Client 3457 is arriving
+14:49:22 - Client 3457 is rejected because operator is busy
+14:51:21 - New client is coming
+14:51:21 - Client 1150 is arriving
+14:51:21 - Client 1150 is rejected because operator is busy
+14:54:56 - New client is coming
+14:54:56 - Client 6898 is arriving
+14:54:56 - Client 6898 is rejected because operator is busy
+14:58:30 - New client is coming
+14:58:30 - Client 3236 is arriving
+14:58:30 - Client 3236 is rejected because operator is busy
+14:59:55 - Operator is now available
+15:01:53 - New client is coming
+15:01:53 - Client 4230 is arriving
+15:01:53 - Operator is now serving client 4230
+15:02:02 - New client is coming
+15:02:02 - Client 7544 is arriving
+15:02:02 - Client 7544 is rejected because operator is busy
+15:02:08 - New client is coming
+15:02:08 - Client 759 is arriving
+15:02:08 - Client 759 is rejected because operator is busy
+15:02:15 - New client is coming
+15:02:15 - Client 5793 is arriving
+15:02:15 - Client 5793 is rejected because operator is busy
+15:03:12 - Operator is now available
+15:04:36 - New client is coming
+15:04:36 - Client 1948 is arriving
+15:04:36 - Operator is now serving client 1948
+15:05:28 - New client is coming
+15:05:28 - Client 9112 is arriving
+15:05:28 - Client 9112 is rejected because operator is busy
+15:07:02 - Operator is now available
+15:07:13 - New client is coming
+15:07:13 - Client 6935 is arriving
+15:07:13 - Operator is now serving client 6935
+15:09:21 - New client is coming
+15:09:21 - Client 5456 is arriving
+15:09:21 - Client 5456 is rejected because operator is busy
+15:11:01 - New client is coming
+15:11:01 - Client 6398 is arriving
+15:11:01 - Client 6398 is rejected because operator is busy
+15:11:24 - Operator is now available
+15:14:19 - New client is coming
+15:14:19 - Client 2696 is arriving
+15:14:19 - Operator is now serving client 2696
+15:15:07 - New client is coming
+15:15:07 - Client 7874 is arriving
+15:15:07 - Client 7874 is rejected because operator is busy
+15:15:53 - New client is coming
+15:15:53 - Client 9990 is arriving
+15:15:53 - Client 9990 is rejected because operator is busy
+15:16:26 - New client is coming
+15:16:26 - Client 271 is arriving
+15:16:26 - Client 271 is rejected because operator is busy
+15:25:44 - New client is coming
+15:25:44 - Client 5353 is arriving
+15:25:44 - Client 5353 is rejected because operator is busy
+15:27:19 - New client is coming
+15:27:19 - Client 2641 is arriving
+15:27:19 - Client 2641 is rejected because operator is busy
+15:28:21 - New client is coming
+15:28:21 - Client 8551 is arriving
+15:28:21 - Client 8551 is rejected because operator is busy
+15:30:05 - New client is coming
+15:30:05 - Client 657 is arriving
+15:30:05 - Client 657 is rejected because operator is busy
+15:31:28 - New client is coming
+15:31:28 - Client 7611 is arriving
+15:31:28 - Client 7611 is rejected because operator is busy
+15:32:34 - Operator is now available
+15:33:19 - New client is coming
+15:33:19 - Client 8580 is arriving
+15:33:19 - Operator is now serving client 8580
+15:33:55 - New client is coming
+15:33:55 - Client 7341 is arriving
+15:33:55 - Client 7341 is rejected because operator is busy
+15:34:11 - New client is coming
+15:34:11 - Client 5487 is arriving
+15:34:11 - Client 5487 is rejected because operator is busy
+15:34:18 - Operator is now available
+15:37:48 - New client is coming
+15:37:48 - Client 6438 is arriving
+15:37:48 - Operator is now serving client 6438
+15:39:36 - New client is coming
+15:39:36 - Client 7224 is arriving
+15:39:36 - Client 7224 is rejected because operator is busy
+15:39:49 - New client is coming
+15:39:49 - Client 5611 is arriving
+15:39:49 - Client 5611 is rejected because operator is busy
+15:40:31 - New client is coming
+15:40:31 - Client 3821 is arriving
+15:40:31 - Client 3821 is rejected because operator is busy
+15:40:36 - New client is coming
+15:40:36 - Client 1587 is arriving
+15:40:36 - Client 1587 is rejected because operator is busy
+15:44:55 - New client is coming
+15:44:55 - Client 3849 is arriving
+15:44:55 - Client 3849 is rejected because operator is busy
+15:47:20 - New client is coming
+15:47:20 - Client 3142 is arriving
+15:47:20 - Client 3142 is rejected because operator is busy
+15:48:11 - New client is coming
+15:48:11 - Client 4423 is arriving
+15:48:11 - Client 4423 is rejected because operator is busy
+15:48:36 - New client is coming
+15:48:36 - Client 4850 is arriving
+15:48:36 - Client 4850 is rejected because operator is busy
+15:50:16 - New client is coming
+15:50:16 - Client 3589 is arriving
+15:50:16 - Client 3589 is rejected because operator is busy
+15:56:13 - Operator is now available
+15:56:14 - New client is coming
+15:56:14 - Client 3179 is arriving
+15:56:14 - Operator is now serving client 3179
+15:56:50 - New client is coming
+15:56:50 - Client 8262 is arriving
+15:56:50 - Client 8262 is rejected because operator is busy
+15:57:48 - New client is coming
+15:57:48 - Client 6274 is arriving
+15:57:48 - Client 6274 is rejected because operator is busy
+16:02:30 - New client is coming
+16:02:30 - Client 3823 is arriving
+16:02:30 - Client 3823 is rejected because operator is busy
+16:02:41 - Operator is now available
+16:02:54 - New client is coming
+16:02:54 - Client 6795 is arriving
+16:02:54 - Operator is now serving client 6795
+16:06:39 - New client is coming
+16:06:39 - Client 855 is arriving
+16:06:39 - Client 855 is rejected because operator is busy
+16:07:55 - New client is coming
+16:07:55 - Client 3818 is arriving
+16:07:55 - Client 3818 is rejected because operator is busy
+16:08:00 - New client is coming
+16:08:00 - Client 1212 is arriving
+16:08:00 - Client 1212 is rejected because operator is busy
+16:10:11 - Operator is now available
+16:10:34 - New client is coming
+16:10:34 - Client 1901 is arriving
+16:10:34 - Operator is now serving client 1901
+16:11:29 - New client is coming
+16:11:29 - Client 6298 is arriving
+16:11:29 - Client 6298 is rejected because operator is busy
+16:11:36 - New client is coming
+16:11:36 - Client 9568 is arriving
+16:11:36 - Client 9568 is rejected because operator is busy
+16:14:48 - New client is coming
+16:14:48 - Client 932 is arriving
+16:14:48 - Client 932 is rejected because operator is busy
+16:15:10 - New client is coming
+16:15:10 - Client 1274 is arriving
+16:15:10 - Client 1274 is rejected because operator is busy
+16:17:17 - Operator is now available
+16:18:40 - New client is coming
+16:18:40 - Client 8132 is arriving
+16:18:40 - Operator is now serving client 8132
+16:19:46 - New client is coming
+16:19:46 - Client 1406 is arriving
+16:19:46 - Client 1406 is rejected because operator is busy
+16:23:27 - Operator is now available
+16:25:07 - New client is coming
+16:25:07 - Client 4648 is arriving
+16:25:07 - Operator is now serving client 4648
+16:25:21 - New client is coming
+16:25:21 - Client 1361 is arriving
+16:25:21 - Client 1361 is rejected because operator is busy
+16:26:27 - New client is coming
+16:26:27 - Client 3184 is arriving
+16:26:27 - Client 3184 is rejected because operator is busy
+16:28:51 - New client is coming
+16:28:51 - Client 9630 is arriving
+16:28:51 - Client 9630 is rejected because operator is busy
+16:29:57 - Operator is now available
+16:30:21 - New client is coming
+16:30:21 - Client 2092 is arriving
+16:30:21 - Operator is now serving client 2092
+16:30:31 - New client is coming
+16:30:31 - Client 5033 is arriving
+16:30:31 - Client 5033 is rejected because operator is busy
+16:33:00 - Operator is now available
+16:34:09 - New client is coming
+16:34:09 - Client 4441 is arriving
+16:34:09 - Operator is now serving client 4441
+16:38:38 - New client is coming
+16:38:38 - Client 131 is arriving
+16:38:38 - Client 131 is rejected because operator is busy
+16:38:42 - New client is coming
+16:38:42 - Client 659 is arriving
+16:38:42 - Client 659 is rejected because operator is busy
+16:38:43 - Operator is now available
+16:40:45 - New client is coming
+16:40:45 - Client 6519 is arriving
+16:40:45 - Operator is now serving client 6519
+16:41:28 - New client is coming
+16:41:28 - Client 1035 is arriving
+16:41:28 - Client 1035 is rejected because operator is busy
+16:41:31 - New client is coming
+16:41:31 - Client 6378 is arriving
+16:41:31 - Client 6378 is rejected because operator is busy
+16:43:04 - New client is coming
+16:43:04 - Client 4969 is arriving
+16:43:04 - Client 4969 is rejected because operator is busy
+16:47:15 - New client is coming
+16:47:15 - Client 5170 is arriving
+16:47:15 - Client 5170 is rejected because operator is busy
+16:52:51 - New client is coming
+16:52:51 - Client 4193 is arriving
+16:52:51 - Client 4193 is rejected because operator is busy
+16:53:09 - New client is coming
+16:53:09 - Client 7370 is arriving
+16:53:09 - Client 7370 is rejected because operator is busy
+16:53:33 - New client is coming
+16:53:33 - Client 4703 is arriving
+16:53:33 - Client 4703 is rejected because operator is busy
+16:54:04 - New client is coming
+16:54:04 - Client 8587 is arriving
+16:54:04 - Client 8587 is rejected because operator is busy
+16:56:39 - New client is coming
+16:56:39 - Client 2752 is arriving
+16:56:39 - Client 2752 is rejected because operator is busy
+16:57:33 - New client is coming
+16:57:33 - Client 9762 is arriving
+16:57:33 - Client 9762 is rejected because operator is busy
+17:05:06 - New client is coming
+17:05:06 - Client 2062 is arriving
+17:05:06 - Client 2062 is rejected because operator is busy
+17:06:42 - New client is coming
+17:06:42 - Client 3047 is arriving
+17:06:42 - Client 3047 is rejected because operator is busy
+17:08:08 - New client is coming
+17:08:08 - Client 6189 is arriving
+17:08:08 - Client 6189 is rejected because operator is busy
+17:08:40 - New client is coming
+17:08:40 - Client 7108 is arriving
+17:08:40 - Client 7108 is rejected because operator is busy
+17:21:56 - New client is coming
+17:21:56 - Client 4349 is arriving
+17:21:56 - Client 4349 is rejected because operator is busy
+17:23:45 - New client is coming
+17:23:45 - Client 8505 is arriving
+17:23:45 - Client 8505 is rejected because operator is busy
+17:30:08 - Operator is now available
+17:30:33 - New client is coming
+17:30:33 - Client 2194 is arriving
+17:30:33 - Operator is now serving client 2194
+17:32:11 - New client is coming
+17:32:11 - Client 635 is arriving
+17:32:11 - Client 635 is rejected because operator is busy
+17:36:33 - New client is coming
+17:36:33 - Client 4168 is arriving
+17:36:33 - Client 4168 is rejected because operator is busy
+17:37:22 - New client is coming
+17:37:22 - Client 6179 is arriving
+17:37:22 - Client 6179 is rejected because operator is busy
+17:38:49 - New client is coming
+17:38:49 - Client 7401 is arriving
+17:38:49 - Client 7401 is rejected because operator is busy
+17:42:24 - New client is coming
+17:42:24 - Client 9065 is arriving
+17:42:24 - Client 9065 is rejected because operator is busy
+17:42:26 - New client is coming
+17:42:26 - Client 2628 is arriving
+17:42:26 - Client 2628 is rejected because operator is busy
+17:43:00 - New client is coming
+17:43:00 - Client 8448 is arriving
+17:43:00 - Client 8448 is rejected because operator is busy
+17:44:41 - New client is coming
+17:44:41 - Client 975 is arriving
+17:44:41 - Client 975 is rejected because operator is busy
+17:48:59 - New client is coming
+17:48:59 - Client 5421 is arriving
+17:48:59 - Client 5421 is rejected because operator is busy
+17:52:09 - New client is coming
+17:52:09 - Client 9447 is arriving
+17:52:09 - Client 9447 is rejected because operator is busy
+17:52:23 - New client is coming
+17:52:23 - Client 2788 is arriving
+17:52:23 - Client 2788 is rejected because operator is busy
+17:57:04 - Operator is now available
+17:57:36 - New client is coming
+17:57:36 - Client 2750 is arriving
+17:57:36 - Operator is now serving client 2750
+17:57:56 - New client is coming
+17:57:56 - Client 3565 is arriving
+17:57:56 - Client 3565 is rejected because operator is busy
+17:59:54 - New client is coming
+17:59:54 - Client 8630 is arriving
+17:59:54 - Client 8630 is rejected because operator is busy
+18:00:58 - New client is coming
+18:00:58 - Client 4228 is arriving
+18:00:58 - Client 4228 is rejected because operator is busy
+18:01:39 - New client is coming
+18:01:39 - Client 3279 is arriving
+18:01:39 - Client 3279 is rejected because operator is busy
+18:03:05 - New client is coming
+18:03:05 - Client 4201 is arriving
+18:03:05 - Client 4201 is rejected because operator is busy
+18:07:04 - New client is coming
+18:07:04 - Client 5963 is arriving
+18:07:04 - Client 5963 is rejected because operator is busy
+18:08:24 - New client is coming
+18:08:24 - Client 4839 is arriving
+18:08:24 - Client 4839 is rejected because operator is busy
+18:11:36 - New client is coming
+18:11:36 - Client 9610 is arriving
+18:11:36 - Client 9610 is rejected because operator is busy
+18:13:40 - New client is coming
+18:13:40 - Client 1194 is arriving
+18:13:40 - Client 1194 is rejected because operator is busy
+18:14:31 - New client is coming
+18:14:31 - Client 9395 is arriving
+18:14:31 - Client 9395 is rejected because operator is busy
+18:15:14 - Operator is now available
+18:16:45 - New client is coming
+18:16:45 - Client 8533 is arriving
+18:16:45 - Operator is now serving client 8533
+18:17:35 - New client is coming
+18:17:35 - Client 996 is arriving
+18:17:35 - Client 996 is rejected because operator is busy
+18:18:14 - Operator is now available
+18:19:43 - New client is coming
+18:19:43 - Client 2525 is arriving
+18:19:43 - Operator is now serving client 2525
+18:22:00 - New client is coming
+18:22:00 - Client 163 is arriving
+18:22:00 - Client 163 is rejected because operator is busy
+18:24:31 - New client is coming
+18:24:31 - Client 8824 is arriving
+18:24:31 - Client 8824 is rejected because operator is busy
+18:24:54 - New client is coming
+18:24:54 - Client 9618 is arriving
+18:24:54 - Client 9618 is rejected because operator is busy
+18:25:58 - New client is coming
+18:25:58 - Client 6780 is arriving
+18:25:58 - Client 6780 is rejected because operator is busy
+18:27:38 - Operator is now available
+18:35:00 - New client is coming
+18:35:00 - Client 3280 is arriving
+18:35:00 - Operator is now serving client 3280
+18:36:24 - New client is coming
+18:36:24 - Client 1199 is arriving
+18:36:24 - Client 1199 is rejected because operator is busy
+18:36:27 - New client is coming
+18:36:27 - Client 5120 is arriving
+18:36:27 - Client 5120 is rejected because operator is busy
+18:36:32 - New client is coming
+18:36:32 - Client 8754 is arriving
+18:36:32 - Client 8754 is rejected because operator is busy
+18:36:46 - New client is coming
+18:36:46 - Client 3631 is arriving
+18:36:46 - Client 3631 is rejected because operator is busy
+18:39:48 - New client is coming
+18:39:48 - Client 795 is arriving
+18:39:48 - Client 795 is rejected because operator is busy
+18:42:10 - New client is coming
+18:42:10 - Client 8470 is arriving
+18:42:10 - Client 8470 is rejected because operator is busy
+18:42:40 - Operator is now available
+18:44:02 - New client is coming
+18:44:02 - Client 7367 is arriving
+18:44:02 - Operator is now serving client 7367
+18:45:29 - Operator is now available
+18:46:12 - New client is coming
+18:46:12 - Client 885 is arriving
+18:46:12 - Operator is now serving client 885
+18:47:03 - New client is coming
+18:47:03 - Client 2559 is arriving
+18:47:03 - Client 2559 is rejected because operator is busy
+18:47:20 - New client is coming
+18:47:20 - Client 1788 is arriving
+18:47:20 - Client 1788 is rejected because operator is busy
+18:49:03 - New client is coming
+18:49:03 - Client 5430 is arriving
+18:49:03 - Client 5430 is rejected because operator is busy
+18:50:17 - New client is coming
+18:50:17 - Client 413 is arriving
+18:50:17 - Client 413 is rejected because operator is busy
+18:50:37 - New client is coming
+18:50:37 - Client 8847 is arriving
+18:50:37 - Client 8847 is rejected because operator is busy
+18:53:49 - New client is coming
+18:53:49 - Client 8237 is arriving
+18:53:49 - Client 8237 is rejected because operator is busy
+18:55:01 - New client is coming
+18:55:01 - Client 6768 is arriving
+18:55:01 - Client 6768 is rejected because operator is busy
+18:55:26 - Operator is now available
+18:57:07 - New client is coming
+18:57:07 - Client 6087 is arriving
+18:57:07 - Operator is now serving client 6087
+18:58:46 - New client is coming
+18:58:46 - Client 209 is arriving
+18:58:46 - Client 209 is rejected because operator is busy
+19:00:48 - New client is coming
+19:00:48 - Client 4112 is arriving
+19:00:48 - Client 4112 is rejected because operator is busy
+19:01:24 - New client is coming
+19:01:24 - Client 9250 is arriving
+19:01:24 - Client 9250 is rejected because operator is busy
+19:03:30 - New client is coming
+19:03:30 - Client 9755 is arriving
+19:03:30 - Client 9755 is rejected because operator is busy
+19:04:05 - New client is coming
+19:04:05 - Client 964 is arriving
+19:04:05 - Client 964 is rejected because operator is busy
+19:08:26 - New client is coming
+19:08:26 - Client 3205 is arriving
+19:08:26 - Client 3205 is rejected because operator is busy
+19:08:42 - New client is coming
+19:08:42 - Client 959 is arriving
+19:08:42 - Client 959 is rejected because operator is busy
+19:08:45 - Operator is now available
+19:09:31 - New client is coming
+19:09:31 - Client 9630 is arriving
+19:09:31 - Operator is now serving client 9630
+19:10:20 - New client is coming
+19:10:20 - Client 3165 is arriving
+19:10:20 - Client 3165 is rejected because operator is busy
+19:10:23 - New client is coming
+19:10:23 - Client 9419 is arriving
+19:10:23 - Client 9419 is rejected because operator is busy
+19:10:42 - New client is coming
+19:10:42 - Client 1310 is arriving
+19:10:42 - Client 1310 is rejected because operator is busy
+19:10:52 - New client is coming
+19:10:52 - Client 1964 is arriving
+19:10:52 - Client 1964 is rejected because operator is busy
+19:10:55 - Operator is now available
+19:12:01 - New client is coming
+19:12:01 - Client 4492 is arriving
+19:12:01 - Operator is now serving client 4492
+19:15:22 - New client is coming
+19:15:22 - Client 4893 is arriving
+19:15:22 - Client 4893 is rejected because operator is busy
+19:19:01 - New client is coming
+19:19:01 - Client 9888 is arriving
+19:19:01 - Client 9888 is rejected because operator is busy
+19:20:21 - New client is coming
+19:20:21 - Client 7329 is arriving
+19:20:21 - Client 7329 is rejected because operator is busy
+19:21:15 - New client is coming
+19:21:15 - Client 6535 is arriving
+19:21:15 - Client 6535 is rejected because operator is busy
+19:24:33 - Operator is now available
+19:24:57 - New client is coming
+19:24:57 - Client 5307 is arriving
+19:24:57 - Operator is now serving client 5307
+19:25:12 - New client is coming
+19:25:12 - Client 7698 is arriving
+19:25:12 - Client 7698 is rejected because operator is busy
+19:26:36 - New client is coming
+19:26:36 - Client 3834 is arriving
+19:26:36 - Client 3834 is rejected because operator is busy
+19:26:55 - New client is coming
+19:26:55 - Client 3815 is arriving
+19:26:55 - Client 3815 is rejected because operator is busy
+19:29:04 - New client is coming
+19:29:04 - Client 2102 is arriving
+19:29:04 - Client 2102 is rejected because operator is busy
+19:30:08 - New client is coming
+19:30:08 - Client 3227 is arriving
+19:30:08 - Client 3227 is rejected because operator is busy
+19:30:36 - New client is coming
+19:30:36 - Client 4083 is arriving
+19:30:36 - Client 4083 is rejected because operator is busy
+19:30:52 - New client is coming
+19:30:52 - Client 3040 is arriving
+19:30:52 - Client 3040 is rejected because operator is busy
+19:31:31 - Operator is now available
+19:33:43 - New client is coming
+19:33:43 - Client 501 is arriving
+19:33:43 - Operator is now serving client 501
+19:34:16 - Operator is now available
+19:34:23 - New client is coming
+19:34:23 - Client 2994 is arriving
+19:34:23 - Operator is now serving client 2994
+19:36:02 - New client is coming
+19:36:02 - Client 1712 is arriving
+19:36:02 - Client 1712 is rejected because operator is busy
+19:36:14 - New client is coming
+19:36:14 - Client 162 is arriving
+19:36:14 - Client 162 is rejected because operator is busy
+19:41:15 - New client is coming
+19:41:15 - Client 1848 is arriving
+19:41:15 - Client 1848 is rejected because operator is busy
+19:41:44 - New client is coming
+19:41:44 - Client 1632 is arriving
+19:41:44 - Client 1632 is rejected because operator is busy
+19:42:28 - Operator is now available
+19:45:04 - New client is coming
+19:45:04 - Client 3512 is arriving
+19:45:04 - Operator is now serving client 3512
+19:45:05 - New client is coming
+19:45:05 - Client 9987 is arriving
+19:45:05 - Client 9987 is rejected because operator is busy
+19:45:22 - New client is coming
+19:45:22 - Client 901 is arriving
+19:45:22 - Client 901 is rejected because operator is busy
+19:45:36 - New client is coming
+19:45:36 - Client 143 is arriving
+19:45:36 - Client 143 is rejected because operator is busy
+19:46:56 - New client is coming
+19:46:56 - Client 2982 is arriving
+19:46:56 - Client 2982 is rejected because operator is busy
+19:49:24 - New client is coming
+19:49:24 - Client 1044 is arriving
+19:49:24 - Client 1044 is rejected because operator is busy
+19:49:32 - New client is coming
+19:49:32 - Client 5928 is arriving
+19:49:32 - Client 5928 is rejected because operator is busy
+19:50:18 - New client is coming
+19:50:18 - Client 5930 is arriving
+19:50:18 - Client 5930 is rejected because operator is busy
+19:50:32 - Operator is now available
+19:56:28 - New client is coming
+19:56:28 - Client 1946 is arriving
+19:56:28 - Operator is now serving client 1946
+19:56:31 - New client is coming
+19:56:31 - Client 1120 is arriving
+19:56:31 - Client 1120 is rejected because operator is busy
+20:01:09 - New client is coming
+20:01:09 - Client 7569 is arriving
+20:01:09 - Client 7569 is rejected because operator is busy
+20:01:21 - New client is coming
+20:01:21 - Client 2959 is arriving
+20:01:21 - Client 2959 is rejected because operator is busy
+20:06:53 - New client is coming
+20:06:53 - Client 9760 is arriving
+20:06:53 - Client 9760 is rejected because operator is busy
+20:08:43 - New client is coming
+20:08:43 - Client 5260 is arriving
+20:08:43 - Client 5260 is rejected because operator is busy
+20:10:16 - New client is coming
+20:10:16 - Client 4346 is arriving
+20:10:16 - Client 4346 is rejected because operator is busy
+20:10:23 - New client is coming
+20:10:23 - Client 999 is arriving
+20:10:23 - Client 999 is rejected because operator is busy
+20:10:38 - Operator is now available
+20:11:08 - New client is coming
+20:11:08 - Client 9888 is arriving
+20:11:08 - Operator is now serving client 9888
+20:11:17 - Operator is now available
+20:11:22 - New client is coming
+20:11:22 - Client 5501 is arriving
+20:11:22 - Operator is now serving client 5501
+20:13:03 - Operator is now available
+20:15:22 - New client is coming
+20:15:22 - Client 5356 is arriving
+20:15:22 - Operator is now serving client 5356
+20:18:25 - Operator is now available
+20:21:13 - New client is coming
+20:21:13 - Client 2703 is arriving
+20:21:13 - Operator is now serving client 2703
+20:21:18 - Operator is now available
+20:21:30 - New client is coming
+20:21:30 - Client 3200 is arriving
+20:21:30 - Operator is now serving client 3200
+20:21:57 - Operator is now available
+20:24:09 - New client is coming
+20:24:09 - Client 7140 is arriving
+20:24:09 - Operator is now serving client 7140
+20:25:33 - New client is coming
+20:25:33 - Client 9272 is arriving
+20:25:33 - Client 9272 is rejected because operator is busy
+20:27:13 - New client is coming
+20:27:13 - Client 2922 is arriving
+20:27:13 - Client 2922 is rejected because operator is busy
+20:28:02 - New client is coming
+20:28:02 - Client 229 is arriving
+20:28:02 - Client 229 is rejected because operator is busy
+20:28:32 - New client is coming
+20:28:32 - Client 2266 is arriving
+20:28:32 - Client 2266 is rejected because operator is busy
+20:28:38 - New client is coming
+20:28:38 - Client 9695 is arriving
+20:28:38 - Client 9695 is rejected because operator is busy
+20:28:45 - Operator is now available
+20:30:09 - New client is coming
+20:30:09 - Client 5303 is arriving
+20:30:09 - Operator is now serving client 5303
+20:32:52 - New client is coming
+20:32:52 - Client 9234 is arriving
+20:32:52 - Client 9234 is rejected because operator is busy
+20:33:43 - New client is coming
+20:33:43 - Client 794 is arriving
+20:33:43 - Client 794 is rejected because operator is busy
+20:35:11 - Operator is now available
+20:35:27 - New client is coming
+20:35:27 - Client 9290 is arriving
+20:35:27 - Operator is now serving client 9290
+20:36:02 - New client is coming
+20:36:02 - Client 5357 is arriving
+20:36:02 - Client 5357 is rejected because operator is busy
+20:38:17 - Operator is now available
+20:38:52 - New client is coming
+20:38:52 - Client 1694 is arriving
+20:38:52 - Operator is now serving client 1694
+20:39:03 - New client is coming
+20:39:03 - Client 4649 is arriving
+20:39:03 - Client 4649 is rejected because operator is busy
+20:40:03 - New client is coming
+20:40:03 - Client 4103 is arriving
+20:40:03 - Client 4103 is rejected because operator is busy
+20:41:19 - Operator is now available
+20:41:29 - New client is coming
+20:41:29 - Client 9725 is arriving
+20:41:29 - Operator is now serving client 9725
+20:42:59 - New client is coming
+20:42:59 - Client 7342 is arriving
+20:42:59 - Client 7342 is rejected because operator is busy
+20:44:54 - New client is coming
+20:44:54 - Client 3653 is arriving
+20:44:54 - Client 3653 is rejected because operator is busy
+20:45:22 - New client is coming
+20:45:22 - Client 2588 is arriving
+20:45:22 - Client 2588 is rejected because operator is busy
+20:48:12 - New client is coming
+20:48:12 - Client 9674 is arriving
+20:48:12 - Client 9674 is rejected because operator is busy
+20:49:33 - New client is coming
+20:49:33 - Client 5511 is arriving
+20:49:33 - Client 5511 is rejected because operator is busy
+20:49:54 - New client is coming
+20:49:54 - Client 499 is arriving
+20:49:54 - Client 499 is rejected because operator is busy
+20:49:55 - New client is coming
+20:49:55 - Client 4905 is arriving
+20:49:55 - Client 4905 is rejected because operator is busy
+20:51:09 - New client is coming
+20:51:09 - Client 2390 is arriving
+20:51:09 - Client 2390 is rejected because operator is busy
+20:52:36 - New client is coming
+20:52:36 - Client 4842 is arriving
+20:52:36 - Client 4842 is rejected because operator is busy
+20:56:26 - Operator is now available
+20:58:10 - New client is coming
+20:58:10 - Client 133 is arriving
+20:58:10 - Operator is now serving client 133
+20:58:18 - New client is coming
+20:58:18 - Client 8676 is arriving
+20:58:18 - Client 8676 is rejected because operator is busy
+21:02:32 - New client is coming
+21:02:32 - Client 3330 is arriving
+21:02:32 - Client 3330 is rejected because operator is busy
+21:04:52 - New client is coming
+21:04:52 - Client 8918 is arriving
+21:04:52 - Client 8918 is rejected because operator is busy
+21:05:01 - New client is coming
+21:05:01 - Client 4789 is arriving
+21:05:01 - Client 4789 is rejected because operator is busy
+21:07:02 - New client is coming
+21:07:02 - Client 691 is arriving
+21:07:02 - Client 691 is rejected because operator is busy
+21:07:43 - Operator is now available
+21:08:14 - New client is coming
+21:08:14 - Client 9848 is arriving
+21:08:14 - Operator is now serving client 9848
+21:12:36 - New client is coming
+21:12:36 - Client 4342 is arriving
+21:12:36 - Client 4342 is rejected because operator is busy
+21:16:19 - New client is coming
+21:16:19 - Client 2431 is arriving
+21:16:19 - Client 2431 is rejected because operator is busy
+21:16:25 - New client is coming
+21:16:25 - Client 5973 is arriving
+21:16:25 - Client 5973 is rejected because operator is busy
+21:16:40 - New client is coming
+21:16:40 - Client 7608 is arriving
+21:16:40 - Client 7608 is rejected because operator is busy
+21:22:06 - New client is coming
+21:22:06 - Client 8660 is arriving
+21:22:06 - Client 8660 is rejected because operator is busy
+21:23:20 - New client is coming
+21:23:20 - Client 4733 is arriving
+21:23:20 - Client 4733 is rejected because operator is busy
+21:25:20 - Operator is now available
+21:25:29 - New client is coming
+21:25:29 - Client 3575 is arriving
+21:25:29 - Operator is now serving client 3575
+21:27:29 - New client is coming
+21:27:29 - Client 2957 is arriving
+21:27:29 - Client 2957 is rejected because operator is busy
+21:28:49 - New client is coming
+21:28:49 - Client 9875 is arriving
+21:28:49 - Client 9875 is rejected because operator is busy
+21:30:11 - New client is coming
+21:30:11 - Client 6693 is arriving
+21:30:11 - Client 6693 is rejected because operator is busy
+21:32:54 - New client is coming
+21:32:54 - Client 7734 is arriving
+21:32:54 - Client 7734 is rejected because operator is busy
+21:33:08 - New client is coming
+21:33:08 - Client 7501 is arriving
+21:33:08 - Client 7501 is rejected because operator is busy
+21:33:41 - New client is coming
+21:33:41 - Client 4260 is arriving
+21:33:41 - Client 4260 is rejected because operator is busy
+21:35:13 - New client is coming
+21:35:13 - Client 2787 is arriving
+21:35:13 - Client 2787 is rejected because operator is busy
+21:39:26 - Operator is now available
+21:40:07 - New client is coming
+21:40:07 - Client 9403 is arriving
+21:40:07 - Operator is now serving client 9403
+21:40:38 - Operator is now available
+21:42:17 - New client is coming
+21:42:17 - Client 7393 is arriving
+21:42:17 - Operator is now serving client 7393
+21:42:24 - New client is coming
+21:42:24 - Client 8703 is arriving
+21:42:24 - Client 8703 is rejected because operator is busy
+21:48:30 - Operator is now available
+21:48:55 - New client is coming
+21:48:55 - Client 1558 is arriving
+21:48:55 - Operator is now serving client 1558
+21:48:57 - New client is coming
+21:48:57 - Client 3822 is arriving
+21:48:57 - Client 3822 is rejected because operator is busy
+21:49:56 - New client is coming
+21:49:56 - Client 8211 is arriving
+21:49:56 - Client 8211 is rejected because operator is busy
+21:51:53 - New client is coming
+21:51:53 - Client 7978 is arriving
+21:51:53 - Client 7978 is rejected because operator is busy
+21:53:44 - New client is coming
+21:53:44 - Client 5900 is arriving
+21:53:44 - Client 5900 is rejected because operator is busy
+21:55:40 - Operator is now available
+21:59:36 - New client is coming
+21:59:36 - Client 7041 is arriving
+21:59:36 - Operator is now serving client 7041
+22:01:39 - New client is coming
+22:01:39 - Client 4529 is arriving
+22:01:39 - Client 4529 is rejected because operator is busy
+22:02:34 - Operator is now available
+22:03:55 - New client is coming
+22:03:55 - Client 3960 is arriving
+22:03:55 - Operator is now serving client 3960
+22:10:47 - New client is coming
+22:10:47 - Client 865 is arriving
+22:10:47 - Client 865 is rejected because operator is busy
+22:11:03 - New client is coming
+22:11:03 - Client 1051 is arriving
+22:11:03 - Client 1051 is rejected because operator is busy
+22:11:22 - New client is coming
+22:11:22 - Client 8698 is arriving
+22:11:22 - Client 8698 is rejected because operator is busy
+22:12:44 - Operator is now available
+22:14:46 - New client is coming
+22:14:46 - Client 3020 is arriving
+22:14:46 - Operator is now serving client 3020
+22:17:24 - New client is coming
+22:17:24 - Client 4654 is arriving
+22:17:24 - Client 4654 is rejected because operator is busy
+22:17:52 - Operator is now available
+22:19:50 - New client is coming
+22:19:50 - Client 1917 is arriving
+22:19:50 - Operator is now serving client 1917
+22:19:52 - Operator is now available
+22:24:40 - New client is coming
+22:24:40 - Client 8499 is arriving
+22:24:40 - Operator is now serving client 8499
+22:26:52 - New client is coming
+22:26:52 - Client 8482 is arriving
+22:26:52 - Client 8482 is rejected because operator is busy
+22:26:54 - New client is coming
+22:26:54 - Client 9250 is arriving
+22:26:54 - Client 9250 is rejected because operator is busy
+22:27:06 - New client is coming
+22:27:06 - Client 4060 is arriving
+22:27:06 - Client 4060 is rejected because operator is busy
+22:27:37 - New client is coming
+22:27:37 - Client 1088 is arriving
+22:27:37 - Client 1088 is rejected because operator is busy
+22:31:23 - New client is coming
+22:31:23 - Client 2491 is arriving
+22:31:23 - Client 2491 is rejected because operator is busy
+22:32:56 - New client is coming
+22:32:56 - Client 3917 is arriving
+22:32:56 - Client 3917 is rejected because operator is busy
+22:33:18 - Operator is now available
+22:34:01 - New client is coming
+22:34:01 - Client 4918 is arriving
+22:34:01 - Operator is now serving client 4918
+22:34:03 - New client is coming
+22:34:03 - Client 7330 is arriving
+22:34:03 - Client 7330 is rejected because operator is busy
+22:34:22 - New client is coming
+22:34:22 - Client 7800 is arriving
+22:34:22 - Client 7800 is rejected because operator is busy
+22:38:16 - New client is coming
+22:38:16 - Client 2714 is arriving
+22:38:16 - Client 2714 is rejected because operator is busy
+22:41:44 - Operator is now available
+22:47:16 - New client is coming
+22:47:16 - Client 8713 is arriving
+22:47:16 - Operator is now serving client 8713
+22:51:21 - Operator is now available
+22:52:52 - New client is coming
+22:52:52 - Client 4048 is arriving
+22:52:52 - Operator is now serving client 4048
+22:54:44 - Operator is now available
+22:56:11 - New client is coming
+22:56:11 - Client 7686 is arriving
+22:56:11 - Operator is now serving client 7686
+22:59:58 - New client is coming
+22:59:58 - Client 8954 is arriving
+22:59:58 - Client 8954 is rejected because operator is busy
+23:00:11 - Operator is now available
+23:03:46 - New client is coming
+23:03:46 - Client 9053 is arriving
+23:03:46 - Operator is now serving client 9053
+23:04:27 - Operator is now available
+23:07:53 - New client is coming
+23:07:53 - Client 2651 is arriving
+23:07:53 - Operator is now serving client 2651
+23:07:56 - New client is coming
+23:07:56 - Client 3252 is arriving
+23:07:56 - Client 3252 is rejected because operator is busy
+23:08:33 - Operator is now available
+23:13:00 - New client is coming
+23:13:00 - Client 5698 is arriving
+23:13:00 - Operator is now serving client 5698
+23:15:01 - New client is coming
+23:15:01 - Client 1237 is arriving
+23:15:01 - Client 1237 is rejected because operator is busy
+23:15:38 - New client is coming
+23:15:38 - Client 820 is arriving
+23:15:38 - Client 820 is rejected because operator is busy
+23:16:48 - New client is coming
+23:16:48 - Client 8067 is arriving
+23:16:48 - Client 8067 is rejected because operator is busy
+23:21:53 - Operator is now available
+23:23:53 - New client is coming
+23:23:53 - Client 8295 is arriving
+23:23:53 - Operator is now serving client 8295
+23:24:46 - New client is coming
+23:24:46 - Client 4672 is arriving
+23:24:46 - Client 4672 is rejected because operator is busy
+23:27:41 - New client is coming
+23:27:41 - Client 9638 is arriving
+23:27:41 - Client 9638 is rejected because operator is busy
+23:28:13 - Operator is now available
+23:29:29 - New client is coming
+23:29:29 - Client 2638 is arriving
+23:29:29 - Operator is now serving client 2638
+23:31:01 - Operator is now available
+23:31:44 - New client is coming
+23:31:44 - Client 4200 is arriving
+23:31:44 - Operator is now serving client 4200
+23:36:18 - New client is coming
+23:36:18 - Client 1446 is arriving
+23:36:18 - Client 1446 is rejected because operator is busy
+23:39:36 - New client is coming
+23:39:36 - Client 7685 is arriving
+23:39:36 - Client 7685 is rejected because operator is busy
+23:40:55 - New client is coming
+23:40:55 - Client 6061 is arriving
+23:40:55 - Client 6061 is rejected because operator is busy
+23:41:01 - Operator is now available
+23:42:43 - New client is coming
+23:42:43 - Client 885 is arriving
+23:42:43 - Operator is now serving client 885
+23:43:22 - Operator is now available
+23:44:42 - New client is coming
+23:44:42 - Client 1903 is arriving
+23:44:42 - Operator is now serving client 1903
+23:45:43 - New client is coming
+23:45:43 - Client 8756 is arriving
+23:45:43 - Client 8756 is rejected because operator is busy
+23:47:20 - New client is coming
+23:47:20 - Client 6277 is arriving
+23:47:20 - Client 6277 is rejected because operator is busy
+23:47:24 - New client is coming
+23:47:24 - Client 3146 is arriving
+23:47:24 - Client 3146 is rejected because operator is busy
+23:47:34 - New client is coming
+23:47:34 - Client 3123 is arriving
+23:47:34 - Client 3123 is rejected because operator is busy
+23:49:10 - New client is coming
+23:49:10 - Client 6261 is arriving
+23:49:10 - Client 6261 is rejected because operator is busy
+23:50:01 - New client is coming
+23:50:01 - Client 2488 is arriving
+23:50:01 - Client 2488 is rejected because operator is busy
+23:51:14 - New client is coming
+23:51:14 - Client 9198 is arriving
+23:51:14 - Client 9198 is rejected because operator is busy
+23:52:36 - New client is coming
+23:52:36 - Client 7484 is arriving
+23:52:36 - Client 7484 is rejected because operator is busy
+23:53:05 - New client is coming
+23:53:05 - Client 8775 is arriving
+23:53:05 - Client 8775 is rejected because operator is busy
+23:53:29 - New client is coming
+23:53:29 - Client 1110 is arriving
+23:53:29 - Client 1110 is rejected because operator is busy
+23:56:31 - New client is coming
+23:56:31 - Client 1289 is arriving
+23:56:31 - Client 1289 is rejected because operator is busy
+23:58:09 - New client is coming
+23:58:09 - Client 7721 is arriving
+23:58:09 - Client 7721 is rejected because operator is busy
+23:59:35 - New client is coming
+23:59:35 - Client 1012 is arriving
+23:59:35 - Client 1012 is rejected because operator is busy
+23:59:36 - New client is coming
+23:59:36 - Client 9762 is arriving
+23:59:36 - Client 9762 is rejected because operator is busy
+24:00:00 - Simulation ending
+
+Simulation stats:
+
+Relative throughput: 0,2543
+Absolute throughput (per hour): 7,3750
+Rejection probability: 0,7457
+
+State probabilities: 
+p(idle) = 0,2489
+p(work) = 0,7511
+
+Theoretical stats:
+
+Relative throughput: 0,2500
+Absolute throughput (per hour): 7,5000
+Rejection probability: 0,7500
+
+State probabilities: 
+p(idle) = 0,2500
+p(work) = 0,7500
+
+Theoretical Perfect stats:
+
+Relative throughput: 1,0000
+Absolute throughput (per hour): 10,0000
+Rejection probability: 0,0000
+
+State probabilities: 
+p(idle) = 0,0000
+p(work) = 1,0000
